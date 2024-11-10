@@ -12,10 +12,19 @@ export interface Article {
     category: string
 }
 
+export interface AugmentedArticle extends Omit<Article, 'date'> {
+    date: Date
+}
+
+
 export interface Category {
     label: number,
     name: string,
     key_words: string[],
     key_points: string[],
     summary: string
+}
+
+export interface CategoryCount extends Category {
+    articles: number
 }

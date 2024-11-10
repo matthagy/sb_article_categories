@@ -1,8 +1,8 @@
 import type {GridColDef} from "@mui/x-data-grid/models/colDef/gridColDef";
-import {Article} from "./types";
+import {AugmentedArticle} from "./types";
 
 
-export const columns: GridColDef<Article>[] = [
+export const columns: GridColDef<AugmentedArticle>[] = [
     {
         field: 'category',
         headerName: 'Category',
@@ -16,7 +16,8 @@ export const columns: GridColDef<Article>[] = [
     {
         field: 'date',
         headerName: 'Date',
-        width: 125
+        width: 125,
+        type: 'date'
     },
     {
         field: 'authors',
@@ -26,16 +27,19 @@ export const columns: GridColDef<Article>[] = [
     {
         field: 'likes',
         headerName: 'Likes',
-        width: 70
+        width: 70,
+        type: 'number'
     },
     {
         field: 'comment_count',
         headerName: 'Comments',
-        width: 90
+        width: 90,
+        type: 'number'
     },
     {
         field: 'word_count',
         headerName: 'Words',
-        width: 80
+        width: 80,
+        type: 'number'
     }
 ]
