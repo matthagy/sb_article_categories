@@ -8,7 +8,6 @@ import {Article, AugmentedArticle} from "@/app/ArticlesTable/types";
 import {CategoryCountTable} from "@/app/ArticlesTable/CategoryCountTable";
 import About from "@/app/ArticlesTable/About";
 
-
 export const ArticlesTable: React.FC = () => {
     const [selectedTab, setSelectedTab] = useState(0);
 
@@ -28,9 +27,10 @@ export const ArticlesTable: React.FC = () => {
             <Typography variant="h4" gutterBottom>
                 AI Categorization of Slow Boring Articles
             </Typography>
-            <Typography variant="subtitle1" gutterBottom>
-                You can browser articles in the sortable and filterable table.
-                You can also explore the categories, including key words and summary for each, in the other tab.
+            <Typography variant="subtitle1" gutterBottom sx={{maxWidth: '50em'}}>
+                You can browse <a href="https://www.slowboring.com/">Slow Boring</a> articles in the sortable and
+                filterable table.
+                You can also explore the categories, including key words and a summary for each, in the Categories tab.
             </Typography>
             <Tabs value={selectedTab} onChange={handleTabChange}
                   sx={{marginBottom: '1em', borderBottom: '1px solid', borderColor: 'divider'}}>
@@ -71,7 +71,6 @@ export const ArticlesTable: React.FC = () => {
     )
 }
 
-
 const augmentTitleColumn = (colDef: GridColDef<AugmentedArticle>): GridColDef<AugmentedArticle> => {
     return {
         ...colDef,
@@ -91,7 +90,6 @@ const augmentColumn = (colDef: GridColDef<AugmentedArticle>): GridColDef<Augment
             return colDef;
     }
 }
-
 
 const augmentArticle = (article: Article): AugmentedArticle => {
     return {

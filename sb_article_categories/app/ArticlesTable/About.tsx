@@ -5,7 +5,7 @@ const About: React.FC = () => {
     return (
         <Box sx={{margin: '1em', maxWidth: '50em'}}>
             <Typography variant="body1">
-                Fan-created organization of Slow Boring articles using OpenAI tech. Notably:
+                Fan-created organization of <a href="https://www.slowboring.com/">Slow Boring</a> articles using OpenAI tech. Notably:
             </Typography>
 
             <List sx={{listStyleType: 'disc', pl: 3}}>
