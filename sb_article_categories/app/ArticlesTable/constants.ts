@@ -6,7 +6,7 @@ export const columns: GridColDef<Article>[] = [
     {
         field: 'category',
         headerName: 'Category',
-        width: 200
+        width: 450
     },
     {
         field: 'title',
@@ -20,7 +20,7 @@ export const columns: GridColDef<Article>[] = [
     },
     {
         field: 'authors',
-        headerName: 'Authors',
+        headerName: 'Author(s)',
         width: 150
     },
     {

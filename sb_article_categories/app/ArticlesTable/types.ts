@@ -11,3 +11,11 @@ export interface Article {
     likes: number
     category: string
 }
+
+export interface Category {
+    label: number,
+    name: string,
+    key_words: string[],
+    key_points: string[],
+    summary: string
+}
