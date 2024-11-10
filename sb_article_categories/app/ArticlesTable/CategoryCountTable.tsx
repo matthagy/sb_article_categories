@@ -1,5 +1,16 @@
 import React, {useMemo} from 'react';
-import {Box, Table, TableBody, TableCell, TableContainer, TableHead, TableRow, Typography} from '@mui/material';
+import {
+    Box,
+    IconButton,
+    Table,
+    TableBody,
+    TableCell,
+    TableContainer,
+    TableHead,
+    TableRow,
+    Typography
+} from '@mui/material';
+import VerticalAlignTopIcon from '@mui/icons-material/ArrowUpward';
 import {CategoryCount} from './types';
 
 
@@ -10,6 +21,14 @@ interface CategoryTableProps {
 export const CategoryCountTable: React.FC<CategoryTableProps> = ({categories}) => {
     const sortedCategories = useMemo(() => [...categories].sort((a, b) => b.articles - a.articles),
         [categories]);
+
+    const handleScroll = (e: React.MouseEvent<unknown>, id: string) => {
+        e.preventDefault();
+        const element = document.getElementById(id);
+        if (element) {
+            element.scrollIntoView({behavior: 'smooth'});
+        }
+    };
 
     return (
         <Box>
@@ -27,7 +46,8 @@ export const CategoryCountTable: React.FC<CategoryTableProps> = ({categories}) =
                             <TableRow key={categoryCount.label}>
                                 <TableCell>{categoryCount.articles}</TableCell>
                                 <TableCell>
-                                    <a href={`#${categoryId(categoryCount)}`}>
+                                    <a href={`#${categoryId(categoryCount)}`}
+                                       onClick={(e: React.MouseEvent<HTMLAnchorElement>) => handleScroll(e, categoryId(categoryCount))}>
                                         {categoryCount.name}
                                     </a>
                                 </TableCell>
@@ -41,9 +61,14 @@ export const CategoryCountTable: React.FC<CategoryTableProps> = ({categories}) =
             {/* Sections for each Category */}
             {sortedCategories.map((categoryCount) => (
                 <Box key={categoryCount.label} sx={{marginBottom: 4}}>
-                    <Typography variant="h5" sx={{marginBottom: 1}} id={categoryId(categoryCount)}>
-                        {categoryCount.name}
-                    </Typography>
+                    <Box display="flex" alignItems="center">
+                        <Typography variant="h5" sx={{marginBottom: 1}} id={categoryId(categoryCount)}>
+                            {categoryCount.name}
+                        </Typography>
+                        <IconButton onClick={(e: React.MouseEvent<HTMLButtonElement>) => handleScroll(e, 'top')} sx={{padding: 0, marginLeft: 1}}>
+                            <VerticalAlignTopIcon fontSize="small" />
+                        </IconButton>
+                    </Box>
                     <ul>
                         {categoryCount.key_points.map((point, index) => (
                             <li key={index}>

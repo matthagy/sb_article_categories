@@ -24,7 +24,7 @@ export const ArticlesTable: React.FC = () => {
     })), [augmentedArticles]);
 
     return (
-        <Box sx={{margin: '1em'}}>
+        <Box sx={{margin: '1em'}} id={'top'}>
             <Typography variant="h4" gutterBottom>
                 AI Categorization of Slow Boring Articles
             </Typography>
