@@ -1,54 +1,72 @@
-import React, {useMemo} from 'react';
+import React, {useMemo, useState} from 'react';
 import {DataGrid} from "@mui/x-data-grid";
 import {articles, categories} from "./articles";
 import {columns} from "./constants";
-import {Box, Typography} from '@mui/material';
+import {Box, Tab, Tabs, Typography} from '@mui/material';
 import type {GridColDef} from "@mui/x-data-grid/models/colDef/gridColDef";
 import {Article, AugmentedArticle} from "@/app/ArticlesTable/types";
 import {CategoryCountTable} from "@/app/ArticlesTable/CategoryCountTable";
+import About from "@/app/ArticlesTable/About";
 
 
 export const ArticlesTable: React.FC = () => {
+    const [selectedTab, setSelectedTab] = useState(0);
+
+    const handleTabChange = (event: React.SyntheticEvent, newValue: number) => {
+        setSelectedTab(newValue);
+    };
+
     const augmentedColumns = useMemo(() => columns.map(augmentColumn), []);
     const augmentedArticles = useMemo(() => articles.map(augmentArticle), []);
     const categoriesCount = useMemo(() => categories.map((category) => ({
         ...category,
         articles: augmentedArticles.reduce((count, article) => count + (article.category === category.name ? 1 : 0), 0)
     })), [augmentedArticles]);
+
     return (
-        <Box sx={{marginTop: '0.5em', marginLeft: '1em'}}>
+        <Box sx={{margin: '1em'}}>
             <Typography variant="h4" gutterBottom>
                 AI Categorization of Slow Boring Articles
             </Typography>
             <Typography variant="subtitle1" gutterBottom>
                 You can browser articles in the sortable and filterable table.
-                Below that you&#39;ll find a list of article categories with a brief summary of each.
+                You can also explore the categories, including key words and summary for each, in the other tab.
             </Typography>
-            <DataGrid
-                columns={augmentedColumns}
-                rows={augmentedArticles}
-                pageSizeOptions={[10, 25, 50, 100]}
-                initialState={{
-                    pagination: {paginationModel: {pageSize: 10}},
-                    columns: {
-                        columnVisibilityModel: {
-                            title: true,
-                            category: true,
-                            date: true,
-                            authors: true,
-                            likes: true,
-                            comment_count: true,
+            <Tabs value={selectedTab} onChange={handleTabChange}
+                  sx={{marginBottom: '1em', borderBottom: '1px solid', borderColor: 'divider'}}>
+                <Tab label="Articles" value={0}/>
+                <Tab label="Categories" value={1}/>
+                <Tab label="About" value={2}/>
+            </Tabs>
+            {selectedTab === 0 && (
+                <DataGrid
+                    columns={augmentedColumns}
+                    rows={augmentedArticles}
+                    pageSizeOptions={[10, 25, 50, 100]}
+                    initialState={{
+                        pagination: {paginationModel: {pageSize: 10}},
+                        columns: {
+                            columnVisibilityModel: {
+                                title: true,
+                                category: true,
+                                date: true,
+                                authors: true,
+                                likes: true,
+                                comment_count: true,
+                            },
                         },
-                    },
-                    sorting: {
-                        sortModel: [{field: 'date', sort: 'desc'}],
-                    },
-                }}
-            />
-            <Typography variant="h4" gutterBottom sx={{marginTop: '1em'}}>
-                Categories
-            </Typography>
-            <CategoryCountTable categories={categoriesCount}/>
+                        sorting: {
+                            sortModel: [{field: 'date', sort: 'desc'}],
+                        },
+                    }}
+                />
+            )}
+            {selectedTab === 1 && (
+                <CategoryCountTable categories={categoriesCount}/>
+            )}
+            {selectedTab === 2 && (
+                <About/>
+            )}
         </Box>
     )
 }
