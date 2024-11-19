@@ -13,7 +13,7 @@ export const articles: Article[] = [
     "word_count": 2988,
     "comment_count": 243,
     "likes": 151,
-    "category": "Navigating Voter Demographics and Party Strategies"
+    "category": "Future Democratic Strategies for 2024"
   },
   {
     "id": 18177334,
@@ -26,7 +26,7 @@ export const articles: Article[] = [
     "word_count": 3168,
     "comment_count": 153,
     "likes": 69,
-    "category": "Trump vs. Biden: Policy and Political Implications"
+    "category": "Kamala Harris and Biden's Political Strategy"
   },
   {
     "id": 18503568,
@@ -39,7 +39,7 @@ export const articles: Article[] = [
     "word_count": 2661,
     "comment_count": 107,
     "likes": 56,
-    "category": "Fiscal Clash: Taxes, Cuts, and Debt"
+    "category": "Navigating Fiscal Policy and Debt Challenges"
   },
   {
     "id": 18586396,
@@ -52,7 +52,7 @@ export const articles: Article[] = [
     "word_count": 2654,
     "comment_count": 330,
     "likes": 178,
-    "category": "Housing Policy Changes for Growth"
+    "category": "Complex Interplay of Politics and Policy"
   },
   {
     "id": 18642680,
@@ -65,7 +65,7 @@ export const articles: Article[] = [
     "word_count": 1963,
     "comment_count": 228,
     "likes": 141,
-    "category": "Racial and Economic Justice in America"
+    "category": "Complex Interplay of Politics and Policy"
   },
   {
     "id": 18763957,
@@ -78,7 +78,7 @@ export const articles: Article[] = [
     "word_count": 2697,
     "comment_count": 308,
     "likes": 164,
-    "category": "Media's Role in Political Dynamics and Decline"
+    "category": "Competition, Media, and Future Risks"
   },
   {
     "id": 18980244,
@@ -91,7 +91,7 @@ export const articles: Article[] = [
     "word_count": 1850,
     "comment_count": 143,
     "likes": 77,
-    "category": "Challenges and Advances in Vaccine Development and Distribution"
+    "category": "Challenges and Innovations in Global Vaccination"
   },
   {
     "id": 19229056,
@@ -104,7 +104,7 @@ export const articles: Article[] = [
     "word_count": 1741,
     "comment_count": 198,
     "likes": 100,
-    "category": "Racial and Economic Justice in America"
+    "category": "Complex Interplay of Politics and Policy"
   },
   {
     "id": 19286343,
@@ -117,7 +117,7 @@ export const articles: Article[] = [
     "word_count": 2367,
     "comment_count": 312,
     "likes": 143,
-    "category": "Trump vs. Biden: Policy and Political Implications"
+    "category": "Trump's Influence on Politics and Media"
   },
   {
     "id": 19335206,
@@ -130,7 +130,7 @@ export const articles: Article[] = [
     "word_count": 2885,
     "comment_count": 124,
     "likes": 77,
-    "category": "Economic Stimulus and Inflation Challenges"
+    "category": "Economic Policies and Partisan Divides"
   },
   {
     "id": 19639907,
@@ -143,7 +143,7 @@ export const articles: Article[] = [
     "word_count": 3174,
     "comment_count": 404,
     "likes": 147,
-    "category": "Strategies to Tackle Urban Crime and Gun Violence"
+    "category": "Complex Intersections in Policy and Health"
   },
   {
     "id": 19674370,
@@ -156,7 +156,7 @@ export const articles: Article[] = [
     "word_count": 2542,
     "comment_count": 83,
     "likes": 36,
-    "category": "Navigating Voter Demographics and Party Strategies"
+    "category": "Future Democratic Strategies for 2024"
   },
   {
     "id": 20151892,
@@ -169,7 +169,7 @@ export const articles: Article[] = [
     "word_count": 628,
     "comment_count": 81,
     "likes": 67,
-    "category": "Media's Role in Political Dynamics and Decline"
+    "category": "Competition, Media, and Future Risks"
   },
   {
     "id": 20181001,
@@ -182,7 +182,7 @@ export const articles: Article[] = [
     "word_count": 2776,
     "comment_count": 282,
     "likes": 133,
-    "category": "Navigating Energy Policy Trade-offs and Climate Goals"
+    "category": "Complexities and Debates in Climate Policy"
   },
   {
     "id": 20385917,
@@ -195,7 +195,7 @@ export const articles: Article[] = [
     "word_count": 1815,
     "comment_count": 91,
     "likes": 40,
-    "category": "Strategic Messaging and Policy Prioritization for Elections"
+    "category": "Strategies and Challenges in Modern Politics"
   },
   {
     "id": 20388649,
@@ -208,7 +208,7 @@ export const articles: Article[] = [
     "word_count": 2061,
     "comment_count": 126,
     "likes": 43,
-    "category": "Navigating Voter Demographics and Party Strategies"
+    "category": "Modern Political Challenges and Global Dynamics"
   },
   {
     "id": 21255649,
@@ -221,7 +221,7 @@ export const articles: Article[] = [
     "word_count": 3104,
     "comment_count": 158,
     "likes": 82,
-    "category": "Challenges and Advances in Vaccine Development and Distribution"
+    "category": "Reflections on Pandemic Responses"
   },
   {
     "id": 21384896,
@@ -234,7 +234,7 @@ export const articles: Article[] = [
     "word_count": 3236,
     "comment_count": 267,
     "likes": 159,
-    "category": "Reforming Policing and Crime Strategies"
+    "category": "Policing and Justice System Dynamics"
   },
   {
     "id": 21496045,
@@ -247,7 +247,7 @@ export const articles: Article[] = [
     "word_count": 1795,
     "comment_count": 312,
     "likes": 63,
-    "category": "Democratic Legislative Challenges and Strategies"
+    "category": "Navigating Fiscal Policy and Debt Challenges"
   },
   {
     "id": 21782308,
@@ -260,7 +260,7 @@ export const articles: Article[] = [
     "word_count": 2204,
     "comment_count": 398,
     "likes": 157,
-    "category": "Modern Political and Cultural Alignments"
+    "category": "Strategies and Challenges in Modern Politics"
   },
   {
     "id": 22022458,
@@ -273,7 +273,7 @@ export const articles: Article[] = [
     "word_count": 1463,
     "comment_count": 93,
     "likes": 41,
-    "category": "Challenges and Opportunities for Urban Transportation"
+    "category": "Transportation and Urban Policy Challenges"
   },
   {
     "id": 22223850,
@@ -286,7 +286,7 @@ export const articles: Article[] = [
     "word_count": 1959,
     "comment_count": 119,
     "likes": 74,
-    "category": "Trump vs. Biden: Policy and Political Implications"
+    "category": "Complex Interplay of Politics and Policy"
   },
   {
     "id": 22581912,
@@ -299,7 +299,7 @@ export const articles: Article[] = [
     "word_count": 2007,
     "comment_count": 188,
     "likes": 114,
-    "category": "Challenges and Advances in Vaccine Development and Distribution"
+    "category": "Reflections on Pandemic Responses"
   },
   {
     "id": 24243372,
@@ -312,7 +312,7 @@ export const articles: Article[] = [
     "word_count": 2844,
     "comment_count": 91,
     "likes": 72,
-    "category": "Racial and Economic Justice in America"
+    "category": "Complex Interplay of Politics and Policy"
   },
   {
     "id": 24537925,
@@ -325,7 +325,7 @@ export const articles: Article[] = [
     "word_count": 2903,
     "comment_count": 109,
     "likes": 122,
-    "category": "Economic Stimulus and Inflation Challenges"
+    "category": "Interpreting Economic Forces and Policy Responses"
   },
   {
     "id": 24870617,
@@ -338,7 +338,7 @@ export const articles: Article[] = [
     "word_count": 2437,
     "comment_count": 187,
     "likes": 228,
-    "category": "Contested Narratives in the Israel-Palestine Conflict"
+    "category": "Geopolitical Tensions and Energy Dynamics"
   },
   {
     "id": 25273198,
@@ -351,7 +351,7 @@ export const articles: Article[] = [
     "word_count": 3068,
     "comment_count": 299,
     "likes": 192,
-    "category": "Navigating Voter Demographics and Party Strategies"
+    "category": "Strategies and Challenges in Modern Politics"
   },
   {
     "id": 25629950,
@@ -364,7 +364,7 @@ export const articles: Article[] = [
     "word_count": 2178,
     "comment_count": 135,
     "likes": 54,
-    "category": "Economic Stimulus and Inflation Challenges"
+    "category": "Interpreting Economic Forces and Policy Responses"
   },
   {
     "id": 25631028,
@@ -377,7 +377,7 @@ export const articles: Article[] = [
     "word_count": 852,
     "comment_count": 247,
     "likes": 162,
-    "category": "Challenges and Opportunities for Urban Transportation"
+    "category": "Transportation and Urban Policy Challenges"
   },
   {
     "id": 25928163,
@@ -390,7 +390,7 @@ export const articles: Article[] = [
     "word_count": 2245,
     "comment_count": 196,
     "likes": 212,
-    "category": "Challenges and Advances in Vaccine Development and Distribution"
+    "category": "Challenges and Innovations in Global Vaccination"
   },
   {
     "id": 26052510,
@@ -403,7 +403,7 @@ export const articles: Article[] = [
     "word_count": 1479,
     "comment_count": 151,
     "likes": 177,
-    "category": "Challenges and Opportunities for Urban Transportation"
+    "category": "Challenges and Opportunities in Urban Transit and Development"
   },
   {
     "id": 26785599,
@@ -416,7 +416,7 @@ export const articles: Article[] = [
     "word_count": 726,
     "comment_count": 189,
     "likes": 165,
-    "category": "Challenges and Advances in Vaccine Development and Distribution"
+    "category": "Reflections on Pandemic Responses"
   },
   {
     "id": 27286020,
@@ -429,7 +429,7 @@ export const articles: Article[] = [
     "word_count": 3162,
     "comment_count": 156,
     "likes": 123,
-    "category": "Media's Role in Political Dynamics and Decline"
+    "category": "Transportation and Urban Policy Challenges"
   },
   {
     "id": 27708677,
@@ -442,7 +442,7 @@ export const articles: Article[] = [
     "word_count": 2538,
     "comment_count": 212,
     "likes": 120,
-    "category": "Balancing Market Growth and Government Efficiency"
+    "category": "Exploring Welfare and Economic Policy Reforms"
   },
   {
     "id": 28179971,
@@ -455,7 +455,7 @@ export const articles: Article[] = [
     "word_count": 1439,
     "comment_count": 209,
     "likes": 206,
-    "category": "Improving Prediction Accuracy and Calibration"
+    "category": "Kamala Harris and Biden's Political Strategy"
   },
   {
     "id": 29431751,
@@ -468,7 +468,7 @@ export const articles: Article[] = [
     "word_count": 2156,
     "comment_count": 318,
     "likes": 139,
-    "category": "Balancing Market Growth and Government Efficiency"
+    "category": "Exploring Welfare and Economic Policy Reforms"
   },
   {
     "id": 29540230,
@@ -481,7 +481,7 @@ export const articles: Article[] = [
     "word_count": 2633,
     "comment_count": 280,
     "likes": 130,
-    "category": "Balancing Market Growth and Government Efficiency"
+    "category": "Exploring Welfare and Economic Policy Reforms"
   },
   {
     "id": 29852190,
@@ -494,7 +494,7 @@ export const articles: Article[] = [
     "word_count": 2666,
     "comment_count": 184,
     "likes": 111,
-    "category": "Challenges and Opportunities for Urban Transportation"
+    "category": "Transportation and Urban Policy Challenges"
   },
   {
     "id": 29866749,
@@ -507,7 +507,7 @@ export const articles: Article[] = [
     "word_count": 2243,
     "comment_count": 342,
     "likes": 201,
-    "category": "Challenges in Modern American Education"
+    "category": "Evolving Dynamics in U.S. K-12 Education"
   },
   {
     "id": 30087879,
@@ -520,7 +520,7 @@ export const articles: Article[] = [
     "word_count": 2399,
     "comment_count": 220,
     "likes": 124,
-    "category": "Immigration Debates and Policy Implications"
+    "category": "Economic Policies and Partisan Divides"
   },
   {
     "id": 30324466,
@@ -533,7 +533,7 @@ export const articles: Article[] = [
     "word_count": 2975,
     "comment_count": 279,
     "likes": 224,
-    "category": "Balancing Market Growth and Government Efficiency"
+    "category": "Complex Interplay of Politics and Policy"
   },
   {
     "id": 31019610,
@@ -546,7 +546,7 @@ export const articles: Article[] = [
     "word_count": 2916,
     "comment_count": 141,
     "likes": 131,
-    "category": "Balancing Market Growth and Government Efficiency"
+    "category": "Complex Interplay of Politics and Policy"
   },
   {
     "id": 31043012,
@@ -559,7 +559,7 @@ export const articles: Article[] = [
     "word_count": 3692,
     "comment_count": 342,
     "likes": 203,
-    "category": "Housing Policy Changes for Growth"
+    "category": "Zoning Reforms and Housing Scarcity"
   },
   {
     "id": 31099143,
@@ -572,7 +572,7 @@ export const articles: Article[] = [
     "word_count": 1829,
     "comment_count": 247,
     "likes": 123,
-    "category": "Democratic Legislative Challenges and Strategies"
+    "category": "Kamala Harris and Biden's Political Strategy"
   },
   {
     "id": 31111321,
@@ -585,7 +585,7 @@ export const articles: Article[] = [
     "word_count": 1017,
     "comment_count": 362,
     "likes": 156,
-    "category": "Trump vs. Biden: Policy and Political Implications"
+    "category": "Modern Political Challenges and Global Dynamics"
   },
   {
     "id": 31135140,
@@ -598,7 +598,7 @@ export const articles: Article[] = [
     "word_count": 3262,
     "comment_count": 303,
     "likes": 152,
-    "category": "Modern Political and Cultural Alignments"
+    "category": "Complex Interplay of Politics and Policy"
   },
   {
     "id": 31175374,
@@ -611,7 +611,7 @@ export const articles: Article[] = [
     "word_count": 2177,
     "comment_count": 296,
     "likes": 220,
-    "category": "Trump vs. Biden: Policy and Political Implications"
+    "category": "Modern Political Challenges and Global Dynamics"
   },
   {
     "id": 31205974,
@@ -624,7 +624,7 @@ export const articles: Article[] = [
     "word_count": 3088,
     "comment_count": 249,
     "likes": 163,
-    "category": "Balancing Market Growth and Government Efficiency"
+    "category": "Exploring Welfare and Economic Policy Reforms"
   },
   {
     "id": 31249622,
@@ -637,7 +637,7 @@ export const articles: Article[] = [
     "word_count": 2565,
     "comment_count": 271,
     "likes": 183,
-    "category": "Trump vs. Biden: Policy and Political Implications"
+    "category": "Modern Political Challenges and Global Dynamics"
   },
   {
     "id": 31358451,
@@ -650,7 +650,7 @@ export const articles: Article[] = [
     "word_count": 1972,
     "comment_count": 412,
     "likes": 310,
-    "category": "Racial and Economic Justice in America"
+    "category": "Modern Political Challenges and Global Dynamics"
   },
   {
     "id": 31492838,
@@ -663,7 +663,7 @@ export const articles: Article[] = [
     "word_count": 717,
     "comment_count": 107,
     "likes": 123,
-    "category": "Racial and Economic Justice in America"
+    "category": "Complex Interplay of Politics and Policy"
   },
   {
     "id": 31499698,
@@ -676,7 +676,7 @@ export const articles: Article[] = [
     "word_count": 1151,
     "comment_count": 135,
     "likes": 88,
-    "category": "Democratic Legislative Challenges and Strategies"
+    "category": "Legislative Strategies and Challenges"
   },
   {
     "id": 31559767,
@@ -689,7 +689,7 @@ export const articles: Article[] = [
     "word_count": 3080,
     "comment_count": 256,
     "likes": 94,
-    "category": "Challenges and Advances in Vaccine Development and Distribution"
+    "category": "Challenges and Innovations in Global Vaccination"
   },
   {
     "id": 31707412,
@@ -702,7 +702,7 @@ export const articles: Article[] = [
     "word_count": 2363,
     "comment_count": 318,
     "likes": 161,
-    "category": "Strategic Messaging and Policy Prioritization for Elections"
+    "category": "Strategies and Challenges in Modern Politics"
   },
   {
     "id": 31744223,
@@ -715,7 +715,7 @@ export const articles: Article[] = [
     "word_count": 1256,
     "comment_count": 257,
     "likes": 176,
-    "category": "Electoral Innovations and Democratic Challenges"
+    "category": "Future Democratic Strategies for 2024"
   },
   {
     "id": 31754871,
@@ -728,7 +728,7 @@ export const articles: Article[] = [
     "word_count": 2367,
     "comment_count": 332,
     "likes": 158,
-    "category": "Balancing Market Growth and Government Efficiency"
+    "category": "Exploring Welfare and Economic Policy Reforms"
   },
   {
     "id": 31771252,
@@ -741,7 +741,7 @@ export const articles: Article[] = [
     "word_count": 3481,
     "comment_count": 390,
     "likes": 159,
-    "category": "Reforming Policing and Crime Strategies"
+    "category": "Policing and Justice System Dynamics"
   },
   {
     "id": 31814728,
@@ -754,7 +754,7 @@ export const articles: Article[] = [
     "word_count": 3756,
     "comment_count": 390,
     "likes": 146,
-    "category": "Challenges and Opportunities for Urban Transportation"
+    "category": "Challenges and Opportunities in Urban Transit and Development"
   },
   {
     "id": 31867708,
@@ -767,7 +767,7 @@ export const articles: Article[] = [
     "word_count": 2767,
     "comment_count": 265,
     "likes": 172,
-    "category": "Urban Housing, Policy, and Growth Dynamics"
+    "category": "Zoning Reforms and Housing Scarcity"
   },
   {
     "id": 31913564,
@@ -780,7 +780,7 @@ export const articles: Article[] = [
     "word_count": 2156,
     "comment_count": 278,
     "likes": 177,
-    "category": "Urban Housing, Policy, and Growth Dynamics"
+    "category": "Tourism and Housing Dynamics in Urban Landscapes"
   },
   {
     "id": 31923778,
@@ -793,7 +793,7 @@ export const articles: Article[] = [
     "word_count": 1702,
     "comment_count": 486,
     "likes": 370,
-    "category": "Modern Political and Cultural Alignments"
+    "category": "Complex Interplay of Politics and Policy"
   },
   {
     "id": 31938867,
@@ -806,7 +806,7 @@ export const articles: Article[] = [
     "word_count": 2886,
     "comment_count": 472,
     "likes": 150,
-    "category": "Electoral Innovations and Democratic Challenges"
+    "category": "Strategies and Challenges in Modern Politics"
   },
   {
     "id": 31995237,
@@ -819,7 +819,7 @@ export const articles: Article[] = [
     "word_count": 1411,
     "comment_count": 311,
     "likes": 126,
-    "category": "Education Reform and Teacher Policies"
+    "category": "Evolving Dynamics in U.S. K-12 Education"
   },
   {
     "id": 32070635,
@@ -832,7 +832,7 @@ export const articles: Article[] = [
     "word_count": 1881,
     "comment_count": 277,
     "likes": 214,
-    "category": "Challenges and Advances in Vaccine Development and Distribution"
+    "category": "Challenges and Innovations in Global Vaccination"
   },
   {
     "id": 32083147,
@@ -845,7 +845,7 @@ export const articles: Article[] = [
     "word_count": 2725,
     "comment_count": 188,
     "likes": 92,
-    "category": "Balancing Market Growth and Government Efficiency"
+    "category": "Exploring Welfare and Economic Policy Reforms"
   },
   {
     "id": 32104296,
@@ -858,7 +858,7 @@ export const articles: Article[] = [
     "word_count": 1465,
     "comment_count": 188,
     "likes": 130,
-    "category": "Economic Stimulus and Inflation Challenges"
+    "category": "Interpreting Economic Forces and Policy Responses"
   },
   {
     "id": 32132668,
@@ -871,7 +871,7 @@ export const articles: Article[] = [
     "word_count": 2791,
     "comment_count": 383,
     "likes": 169,
-    "category": "Modern Political and Cultural Alignments"
+    "category": "Modern Political Challenges and Global Dynamics"
   },
   {
     "id": 32193481,
@@ -884,7 +884,7 @@ export const articles: Article[] = [
     "word_count": 2331,
     "comment_count": 180,
     "likes": 165,
-    "category": "Challenges and Advances in Vaccine Development and Distribution"
+    "category": "Challenges and Innovations in Global Vaccination"
   },
   {
     "id": 32225523,
@@ -897,7 +897,7 @@ export const articles: Article[] = [
     "word_count": 1282,
     "comment_count": 208,
     "likes": 99,
-    "category": "Economic Stimulus and Inflation Challenges"
+    "category": "Interpreting Economic Forces and Policy Responses"
   },
   {
     "id": 32246948,
@@ -910,7 +910,7 @@ export const articles: Article[] = [
     "word_count": 3725,
     "comment_count": 158,
     "likes": 81,
-    "category": "Economic Stimulus and Inflation Challenges"
+    "category": "Interpreting Economic Forces and Policy Responses"
   },
   {
     "id": 32299644,
@@ -923,7 +923,7 @@ export const articles: Article[] = [
     "word_count": 2027,
     "comment_count": 177,
     "likes": 178,
-    "category": "Housing Policy Changes for Growth"
+    "category": "Zoning Reforms and Housing Scarcity"
   },
   {
     "id": 32327195,
@@ -936,7 +936,7 @@ export const articles: Article[] = [
     "word_count": 3678,
     "comment_count": 171,
     "likes": 88,
-    "category": "Fiscal Clash: Taxes, Cuts, and Debt"
+    "category": "Exploring Welfare and Economic Policy Reforms"
   },
   {
     "id": 32339536,
@@ -949,7 +949,7 @@ export const articles: Article[] = [
     "word_count": 2972,
     "comment_count": 359,
     "likes": 224,
-    "category": "Strategic Messaging and Policy Prioritization for Elections"
+    "category": "Complex Interplay of Politics and Policy"
   },
   {
     "id": 32380811,
@@ -962,7 +962,7 @@ export const articles: Article[] = [
     "word_count": 1775,
     "comment_count": 55,
     "likes": 46,
-    "category": "Democratic Legislative Challenges and Strategies"
+    "category": "Legislative Strategies and Challenges"
   },
   {
     "id": 32416888,
@@ -975,7 +975,7 @@ export const articles: Article[] = [
     "word_count": 1938,
     "comment_count": 378,
     "likes": 177,
-    "category": "Challenges in Modern American Education"
+    "category": "Evolving Dynamics in U.S. K-12 Education"
   },
   {
     "id": 32452765,
@@ -988,7 +988,7 @@ export const articles: Article[] = [
     "word_count": 1128,
     "comment_count": 181,
     "likes": 94,
-    "category": "Balancing Market Growth and Government Efficiency"
+    "category": "Exploring Welfare and Economic Policy Reforms"
   },
   {
     "id": 32491521,
@@ -1001,7 +1001,7 @@ export const articles: Article[] = [
     "word_count": 3020,
     "comment_count": 375,
     "likes": 156,
-    "category": "Navigating Voter Demographics and Party Strategies"
+    "category": "Strategies and Challenges in Modern Politics"
   },
   {
     "id": 32517388,
@@ -1014,7 +1014,7 @@ export const articles: Article[] = [
     "word_count": 3868,
     "comment_count": 458,
     "likes": 291,
-    "category": "Modern Political and Cultural Alignments"
+    "category": "Competition, Media, and Future Risks"
   },
   {
     "id": 32606158,
@@ -1027,7 +1027,7 @@ export const articles: Article[] = [
     "word_count": 2109,
     "comment_count": 253,
     "likes": 150,
-    "category": "Racial and Economic Justice in America"
+    "category": "Strategies and Challenges in Modern Politics"
   },
   {
     "id": 32608857,
@@ -1040,7 +1040,7 @@ export const articles: Article[] = [
     "word_count": 2331,
     "comment_count": 371,
     "likes": 182,
-    "category": "Challenges in Modern American Education"
+    "category": "Evolving Challenges in Higher Education"
   },
   {
     "id": 32639465,
@@ -1053,7 +1053,7 @@ export const articles: Article[] = [
     "word_count": 2096,
     "comment_count": 219,
     "likes": 129,
-    "category": "Balancing Market Growth and Government Efficiency"
+    "category": "Legislative Strategies and Challenges"
   },
   {
     "id": 32681123,
@@ -1066,7 +1066,7 @@ export const articles: Article[] = [
     "word_count": 1840,
     "comment_count": 275,
     "likes": 146,
-    "category": "Fiscal Clash: Taxes, Cuts, and Debt"
+    "category": "Evolving Challenges in Higher Education"
   },
   {
     "id": 32687718,
@@ -1079,7 +1079,7 @@ export const articles: Article[] = [
     "word_count": 967,
     "comment_count": 180,
     "likes": 122,
-    "category": "Balancing Market Growth and Government Efficiency"
+    "category": "Complex Interplay of Politics and Policy"
   },
   {
     "id": 32719935,
@@ -1092,7 +1092,7 @@ export const articles: Article[] = [
     "word_count": 2306,
     "comment_count": 245,
     "likes": 154,
-    "category": "Balancing Market Growth and Government Efficiency"
+    "category": "Exploring Welfare and Economic Policy Reforms"
   },
   {
     "id": 32732742,
@@ -1105,7 +1105,7 @@ export const articles: Article[] = [
     "word_count": 1414,
     "comment_count": 75,
     "likes": 56,
-    "category": "Immigration Debates and Policy Implications"
+    "category": "Biden's Energy and Climate Strategy"
   },
   {
     "id": 32760649,
@@ -1118,7 +1118,7 @@ export const articles: Article[] = [
     "word_count": 2764,
     "comment_count": 256,
     "likes": 132,
-    "category": "Challenges and Advances in Vaccine Development and Distribution"
+    "category": "Reflections on Pandemic Responses"
   },
   {
     "id": 32803727,
@@ -1131,7 +1131,7 @@ export const articles: Article[] = [
     "word_count": 2144,
     "comment_count": 252,
     "likes": 183,
-    "category": "Challenges and Advances in Vaccine Development and Distribution"
+    "category": "Reflections on Pandemic Responses"
   },
   {
     "id": 32818531,
@@ -1144,7 +1144,7 @@ export const articles: Article[] = [
     "word_count": 2271,
     "comment_count": 212,
     "likes": 114,
-    "category": "Trump vs. Biden: Policy and Political Implications"
+    "category": "Strategies and Challenges in Modern Politics"
   },
   {
     "id": 32872379,
@@ -1157,7 +1157,7 @@ export const articles: Article[] = [
     "word_count": 2975,
     "comment_count": 214,
     "likes": 116,
-    "category": "Education Reform and Teacher Policies"
+    "category": "Evolving Dynamics in U.S. K-12 Education"
   },
   {
     "id": 32945630,
@@ -1170,7 +1170,7 @@ export const articles: Article[] = [
     "word_count": 580,
     "comment_count": 232,
     "likes": 78,
-    "category": "Racial and Economic Justice in America"
+    "category": "Complex Interplay of Politics and Policy"
   },
   {
     "id": 33073895,
@@ -1183,7 +1183,7 @@ export const articles: Article[] = [
     "word_count": 2618,
     "comment_count": 86,
     "likes": 133,
-    "category": "Economic Stimulus and Inflation Challenges"
+    "category": "Interpreting Economic Forces and Policy Responses"
   },
   {
     "id": 33112723,
@@ -1196,7 +1196,7 @@ export const articles: Article[] = [
     "word_count": 3818,
     "comment_count": 192,
     "likes": 82,
-    "category": "Challenges and Advances in Vaccine Development and Distribution"
+    "category": "Challenges and Innovations in Global Vaccination"
   },
   {
     "id": 33117945,
@@ -1209,7 +1209,7 @@ export const articles: Article[] = [
     "word_count": 3773,
     "comment_count": 440,
     "likes": 242,
-    "category": "Navigating Voter Demographics and Party Strategies"
+    "category": "Strategies and Challenges in Modern Politics"
   },
   {
     "id": 33181330,
@@ -1222,7 +1222,7 @@ export const articles: Article[] = [
     "word_count": 4349,
     "comment_count": 234,
     "likes": 96,
-    "category": "Balancing Competition and Regulation in Modern Markets"
+    "category": "Competition, Media, and Future Risks"
   },
   {
     "id": 33205193,
@@ -1235,7 +1235,7 @@ export const articles: Article[] = [
     "word_count": 2228,
     "comment_count": 247,
     "likes": 154,
-    "category": "Challenges and Advances in Vaccine Development and Distribution"
+    "category": "Reflections on Pandemic Responses"
   },
   {
     "id": 33225505,
@@ -1248,7 +1248,7 @@ export const articles: Article[] = [
     "word_count": 2505,
     "comment_count": 367,
     "likes": 137,
-    "category": "Navigating Voter Demographics and Party Strategies"
+    "category": "Kamala Harris and Biden's Political Strategy"
   },
   {
     "id": 33310644,
@@ -1261,7 +1261,7 @@ export const articles: Article[] = [
     "word_count": 897,
     "comment_count": 176,
     "likes": 120,
-    "category": "Strategies to Tackle Urban Crime and Gun Violence"
+    "category": "Modern Political Challenges and Global Dynamics"
   },
   {
     "id": 33385334,
@@ -1274,7 +1274,7 @@ export const articles: Article[] = [
     "word_count": 3355,
     "comment_count": 456,
     "likes": 112,
-    "category": "Fiscal Clash: Taxes, Cuts, and Debt"
+    "category": "Exploring Welfare and Economic Policy Reforms"
   },
   {
     "id": 33419617,
@@ -1287,7 +1287,7 @@ export const articles: Article[] = [
     "word_count": 2313,
     "comment_count": 162,
     "likes": 80,
-    "category": "Economic Stimulus and Inflation Challenges"
+    "category": "Interpreting Economic Forces and Policy Responses"
   },
   {
     "id": 33527887,
@@ -1300,7 +1300,7 @@ export const articles: Article[] = [
     "word_count": 2262,
     "comment_count": 164,
     "likes": 150,
-    "category": "Economic Stimulus and Inflation Challenges"
+    "category": "Interpreting Economic Forces and Policy Responses"
   },
   {
     "id": 33561876,
@@ -1313,7 +1313,7 @@ export const articles: Article[] = [
     "word_count": 1852,
     "comment_count": 235,
     "likes": 98,
-    "category": "Fiscal Clash: Taxes, Cuts, and Debt"
+    "category": "Legislative Strategies and Challenges"
   },
   {
     "id": 33619836,
@@ -1326,7 +1326,7 @@ export const articles: Article[] = [
     "word_count": 1552,
     "comment_count": 195,
     "likes": 102,
-    "category": "Challenges in Modern American Education"
+    "category": "Evolving Challenges in Higher Education"
   },
   {
     "id": 33621408,
@@ -1339,7 +1339,7 @@ export const articles: Article[] = [
     "word_count": 3142,
     "comment_count": 428,
     "likes": 264,
-    "category": "Economic Myths and Policy Debates"
+    "category": "Complex Interplay of Politics and Policy"
   },
   {
     "id": 33623824,
@@ -1352,7 +1352,7 @@ export const articles: Article[] = [
     "word_count": 2954,
     "comment_count": 224,
     "likes": 44,
-    "category": "Fiscal Clash: Taxes, Cuts, and Debt"
+    "category": "Exploring Welfare and Economic Policy Reforms"
   },
   {
     "id": 33700824,
@@ -1365,7 +1365,7 @@ export const articles: Article[] = [
     "word_count": 2269,
     "comment_count": 134,
     "likes": 101,
-    "category": "Challenges and Advances in Vaccine Development and Distribution"
+    "category": "Challenges and Innovations in Global Vaccination"
   },
   {
     "id": 33723873,
@@ -1378,7 +1378,7 @@ export const articles: Article[] = [
     "word_count": 2413,
     "comment_count": 111,
     "likes": 97,
-    "category": "Democratic Legislative Challenges and Strategies"
+    "category": "Strategies and Challenges in Modern Politics"
   },
   {
     "id": 33852109,
@@ -1391,7 +1391,7 @@ export const articles: Article[] = [
     "word_count": 1082,
     "comment_count": 413,
     "likes": 128,
-    "category": "Challenges and Advances in Vaccine Development and Distribution"
+    "category": "Reflections on Pandemic Responses"
   },
   {
     "id": 33880097,
@@ -1404,7 +1404,7 @@ export const articles: Article[] = [
     "word_count": 2245,
     "comment_count": 253,
     "likes": 199,
-    "category": "Reforming Policing and Crime Strategies"
+    "category": "Policing and Justice System Dynamics"
   },
   {
     "id": 33907831,
@@ -1417,7 +1417,7 @@ export const articles: Article[] = [
     "word_count": 3091,
     "comment_count": 407,
     "likes": 248,
-    "category": "Challenges in Modern American Education"
+    "category": "Evolving Dynamics in U.S. K-12 Education"
   },
   {
     "id": 34039930,
@@ -1430,7 +1430,7 @@ export const articles: Article[] = [
     "word_count": 3434,
     "comment_count": 207,
     "likes": 130,
-    "category": "Challenges and Opportunities for Urban Transportation"
+    "category": "Transportation and Urban Policy Challenges"
   },
   {
     "id": 34138201,
@@ -1443,7 +1443,7 @@ export const articles: Article[] = [
     "word_count": 2860,
     "comment_count": 116,
     "likes": 58,
-    "category": "Balancing Market Growth and Government Efficiency"
+    "category": "Exploring Welfare and Economic Policy Reforms"
   },
   {
     "id": 34139213,
@@ -1456,7 +1456,7 @@ export const articles: Article[] = [
     "word_count": 2585,
     "comment_count": 438,
     "likes": 98,
-    "category": "Immigration Debates and Policy Implications"
+    "category": "Complex Interplay of Politics and Policy"
   },
   {
     "id": 34189082,
@@ -1469,7 +1469,7 @@ export const articles: Article[] = [
     "word_count": 1798,
     "comment_count": 271,
     "likes": 76,
-    "category": "Economic Stimulus and Inflation Challenges"
+    "category": "Interpreting Economic Forces and Policy Responses"
   },
   {
     "id": 34274481,
@@ -1482,7 +1482,7 @@ export const articles: Article[] = [
     "word_count": 2005,
     "comment_count": 144,
     "likes": 91,
-    "category": "Economic Stimulus and Inflation Challenges"
+    "category": "Exploring Welfare and Economic Policy Reforms"
   },
   {
     "id": 34346394,
@@ -1495,7 +1495,7 @@ export const articles: Article[] = [
     "word_count": 1506,
     "comment_count": 248,
     "likes": 126,
-    "category": "Housing Policy Changes for Growth"
+    "category": "Zoning Reforms and Housing Scarcity"
   },
   {
     "id": 34407144,
@@ -1508,7 +1508,7 @@ export const articles: Article[] = [
     "word_count": 1807,
     "comment_count": 317,
     "likes": 174,
-    "category": "Urban Housing, Policy, and Growth Dynamics"
+    "category": "Zoning Reforms and Housing Scarcity"
   },
   {
     "id": 34495712,
@@ -1521,7 +1521,7 @@ export const articles: Article[] = [
     "word_count": 1634,
     "comment_count": 92,
     "likes": 93,
-    "category": "Economic Stimulus and Inflation Challenges"
+    "category": "Interpreting Economic Forces and Policy Responses"
   },
   {
     "id": 34505451,
@@ -1534,7 +1534,7 @@ export const articles: Article[] = [
     "word_count": 2016,
     "comment_count": 209,
     "likes": 99,
-    "category": "Trump vs. Biden: Policy and Political Implications"
+    "category": "Strategies and Challenges in Modern Politics"
   },
   {
     "id": 34532548,
@@ -1547,7 +1547,7 @@ export const articles: Article[] = [
     "word_count": 2625,
     "comment_count": 521,
     "likes": 220,
-    "category": "Navigating Voter Demographics and Party Strategies"
+    "category": "Strategies and Challenges in Modern Politics"
   },
   {
     "id": 34560988,
@@ -1560,7 +1560,7 @@ export const articles: Article[] = [
     "word_count": 1442,
     "comment_count": 175,
     "likes": 135,
-    "category": "Navigating Voter Demographics and Party Strategies"
+    "category": "Strategies and Challenges in Modern Politics"
   },
   {
     "id": 34598585,
@@ -1573,7 +1573,7 @@ export const articles: Article[] = [
     "word_count": 2423,
     "comment_count": 257,
     "likes": 93,
-    "category": "Democratic Legislative Challenges and Strategies"
+    "category": "Legislative Strategies and Challenges"
   },
   {
     "id": 34656950,
@@ -1586,7 +1586,7 @@ export const articles: Article[] = [
     "word_count": 1161,
     "comment_count": 139,
     "likes": 108,
-    "category": "Challenges and Advances in Vaccine Development and Distribution"
+    "category": "Reflections on Pandemic Responses"
   },
   {
     "id": 34726651,
@@ -1599,7 +1599,7 @@ export const articles: Article[] = [
     "word_count": 2484,
     "comment_count": 304,
     "likes": 130,
-    "category": "Electoral Innovations and Democratic Challenges"
+    "category": "Modern Political Challenges and Global Dynamics"
   },
   {
     "id": 34795251,
@@ -1612,7 +1612,7 @@ export const articles: Article[] = [
     "word_count": 2622,
     "comment_count": 216,
     "likes": 98,
-    "category": "Challenges and Opportunities for Urban Transportation"
+    "category": "Transportation and Urban Policy Challenges"
   },
   {
     "id": 34805898,
@@ -1625,7 +1625,7 @@ export const articles: Article[] = [
     "word_count": 1755,
     "comment_count": 136,
     "likes": 77,
-    "category": "Balancing Market Growth and Government Efficiency"
+    "category": "Exploring Welfare and Economic Policy Reforms"
   },
   {
     "id": 34878921,
@@ -1638,7 +1638,7 @@ export const articles: Article[] = [
     "word_count": 3427,
     "comment_count": 303,
     "likes": 142,
-    "category": "Strategies to Tackle Urban Crime and Gun Violence"
+    "category": "Policing and Justice System Dynamics"
   },
   {
     "id": 34958079,
@@ -1651,7 +1651,7 @@ export const articles: Article[] = [
     "word_count": 2647,
     "comment_count": 163,
     "likes": 120,
-    "category": "Strategic Messaging and Policy Prioritization for Elections"
+    "category": "Strategies and Challenges in Modern Politics"
   },
   {
     "id": 35023354,
@@ -1664,7 +1664,7 @@ export const articles: Article[] = [
     "word_count": 3273,
     "comment_count": 189,
     "likes": 80,
-    "category": "Electoral Innovations and Democratic Challenges"
+    "category": "Future Democratic Strategies for 2024"
   },
   {
     "id": 35068697,
@@ -1677,7 +1677,7 @@ export const articles: Article[] = [
     "word_count": 2595,
     "comment_count": 85,
     "likes": 99,
-    "category": "Balancing Market Growth and Government Efficiency"
+    "category": "Complex Intersections in Policy and Health"
   },
   {
     "id": 35158309,
@@ -1690,7 +1690,7 @@ export const articles: Article[] = [
     "word_count": 2656,
     "comment_count": 161,
     "likes": 70,
-    "category": "Electoral Innovations and Democratic Challenges"
+    "category": "Future Democratic Strategies for 2024"
   },
   {
     "id": 35192912,
@@ -1703,7 +1703,7 @@ export const articles: Article[] = [
     "word_count": 1019,
     "comment_count": 167,
     "likes": 107,
-    "category": "Navigating Voter Demographics and Party Strategies"
+    "category": "Strategies and Challenges in Modern Politics"
   },
   {
     "id": 35234508,
@@ -1716,7 +1716,7 @@ export const articles: Article[] = [
     "word_count": 1604,
     "comment_count": 88,
     "likes": 121,
-    "category": "Fiscal Clash: Taxes, Cuts, and Debt"
+    "category": "Exploring Welfare and Economic Policy Reforms"
   },
   {
     "id": 35242118,
@@ -1729,7 +1729,7 @@ export const articles: Article[] = [
     "word_count": 3085,
     "comment_count": 305,
     "likes": 155,
-    "category": "Contested Narratives in the Israel-Palestine Conflict"
+    "category": "Geopolitical Tensions and Energy Dynamics"
   },
   {
     "id": 35331456,
@@ -1742,7 +1742,7 @@ export const articles: Article[] = [
     "word_count": 2811,
     "comment_count": 137,
     "likes": 91,
-    "category": "Economic Stimulus and Inflation Challenges"
+    "category": "Exploring Welfare and Economic Policy Reforms"
   },
   {
     "id": 35378482,
@@ -1755,7 +1755,7 @@ export const articles: Article[] = [
     "word_count": 3394,
     "comment_count": 329,
     "likes": 104,
-    "category": "Racial and Economic Justice in America"
+    "category": "Zoning Reforms and Housing Scarcity"
   },
   {
     "id": 35401484,
@@ -1768,7 +1768,7 @@ export const articles: Article[] = [
     "word_count": 1976,
     "comment_count": 425,
     "likes": 231,
-    "category": "Challenges and Advances in Vaccine Development and Distribution"
+    "category": "Reflections on Pandemic Responses"
   },
   {
     "id": 35481514,
@@ -1781,7 +1781,7 @@ export const articles: Article[] = [
     "word_count": 1107,
     "comment_count": 150,
     "likes": 128,
-    "category": "Modern Political and Cultural Alignments"
+    "category": "Complexities and Debates in Climate Policy"
   },
   {
     "id": 35485569,
@@ -1794,7 +1794,7 @@ export const articles: Article[] = [
     "word_count": 3035,
     "comment_count": 267,
     "likes": 111,
-    "category": "Balancing Competition and Regulation in Modern Markets"
+    "category": "Competition, Media, and Future Risks"
   },
   {
     "id": 35565119,
@@ -1807,7 +1807,7 @@ export const articles: Article[] = [
     "word_count": 1470,
     "comment_count": 159,
     "likes": 112,
-    "category": "Urban Housing, Policy, and Growth Dynamics"
+    "category": "Tourism and Housing Dynamics in Urban Landscapes"
   },
   {
     "id": 35574511,
@@ -1820,7 +1820,7 @@ export const articles: Article[] = [
     "word_count": 2718,
     "comment_count": 167,
     "likes": 126,
-    "category": "Fiscal Clash: Taxes, Cuts, and Debt"
+    "category": "Navigating Fiscal Policy and Debt Challenges"
   },
   {
     "id": 35640356,
@@ -1833,7 +1833,7 @@ export const articles: Article[] = [
     "word_count": 3230,
     "comment_count": 360,
     "likes": 147,
-    "category": "Racial and Economic Justice in America"
+    "category": "Strategies and Challenges in Modern Politics"
   },
   {
     "id": 35707392,
@@ -1846,7 +1846,7 @@ export const articles: Article[] = [
     "word_count": 1090,
     "comment_count": 43,
     "likes": 60,
-    "category": "Balancing Market Growth and Government Efficiency"
+    "category": "Exploring Welfare and Economic Policy Reforms"
   },
   {
     "id": 35728483,
@@ -1859,7 +1859,7 @@ export const articles: Article[] = [
     "word_count": 3512,
     "comment_count": 420,
     "likes": 173,
-    "category": "Navigating Voter Demographics and Party Strategies"
+    "category": "Strategies and Challenges in Modern Politics"
   },
   {
     "id": 35736024,
@@ -1872,7 +1872,7 @@ export const articles: Article[] = [
     "word_count": 1719,
     "comment_count": 221,
     "likes": 84,
-    "category": "Balancing Market Growth and Government Efficiency"
+    "category": "Exploring Welfare and Economic Policy Reforms"
   },
   {
     "id": 35775832,
@@ -1885,7 +1885,7 @@ export const articles: Article[] = [
     "word_count": 2395,
     "comment_count": 68,
     "likes": 56,
-    "category": "Fiscal Clash: Taxes, Cuts, and Debt"
+    "category": "Exploring Welfare and Economic Policy Reforms"
   },
   {
     "id": 35841942,
@@ -1898,7 +1898,7 @@ export const articles: Article[] = [
     "word_count": 2455,
     "comment_count": 228,
     "likes": 114,
-    "category": "Urban Housing, Policy, and Growth Dynamics"
+    "category": "Zoning Reforms and Housing Scarcity"
   },
   {
     "id": 35971137,
@@ -1911,7 +1911,7 @@ export const articles: Article[] = [
     "word_count": 2324,
     "comment_count": 141,
     "likes": 100,
-    "category": "Economic Stimulus and Inflation Challenges"
+    "category": "Interpreting Economic Forces and Policy Responses"
   },
   {
     "id": 36036186,
@@ -1924,7 +1924,7 @@ export const articles: Article[] = [
     "word_count": 2110,
     "comment_count": 179,
     "likes": 144,
-    "category": "Challenges and Advances in Vaccine Development and Distribution"
+    "category": "Challenges and Innovations in Global Vaccination"
   },
   {
     "id": 36068169,
@@ -1937,7 +1937,7 @@ export const articles: Article[] = [
     "word_count": 1046,
     "comment_count": 258,
     "likes": 109,
-    "category": "Racial and Economic Justice in America"
+    "category": "Strategies and Challenges in Modern Politics"
   },
   {
     "id": 36110503,
@@ -1950,7 +1950,7 @@ export const articles: Article[] = [
     "word_count": 2587,
     "comment_count": 380,
     "likes": 401,
-    "category": "Modern Political and Cultural Alignments"
+    "category": "Complex Interplay of Politics and Policy"
   },
   {
     "id": 36158790,
@@ -1963,7 +1963,7 @@ export const articles: Article[] = [
     "word_count": 2632,
     "comment_count": 263,
     "likes": 158,
-    "category": "Media's Role in Political Dynamics and Decline"
+    "category": "Competition, Media, and Future Risks"
   },
   {
     "id": 36203851,
@@ -1976,7 +1976,7 @@ export const articles: Article[] = [
     "word_count": 3542,
     "comment_count": 157,
     "likes": 94,
-    "category": "Economic Stimulus and Inflation Challenges"
+    "category": "Interpreting Economic Forces and Policy Responses"
   },
   {
     "id": 36270312,
@@ -1989,7 +1989,7 @@ export const articles: Article[] = [
     "word_count": 2444,
     "comment_count": 484,
     "likes": 185,
-    "category": "Electoral Innovations and Democratic Challenges"
+    "category": "Modern Political Challenges and Global Dynamics"
   },
   {
     "id": 36315083,
@@ -2002,7 +2002,7 @@ export const articles: Article[] = [
     "word_count": 2481,
     "comment_count": 110,
     "likes": 81,
-    "category": "Navigating Voter Demographics and Party Strategies"
+    "category": "Future Democratic Strategies for 2024"
   },
   {
     "id": 36340664,
@@ -2015,7 +2015,7 @@ export const articles: Article[] = [
     "word_count": 2669,
     "comment_count": 401,
     "likes": 123,
-    "category": "Kamala Harris and Democratic Elections Strategy"
+    "category": "Kamala Harris and Biden's Political Strategy"
   },
   {
     "id": 36374925,
@@ -2028,7 +2028,7 @@ export const articles: Article[] = [
     "word_count": 2850,
     "comment_count": 249,
     "likes": 139,
-    "category": "Urban Housing, Policy, and Growth Dynamics"
+    "category": "Tourism and Housing Dynamics in Urban Landscapes"
   },
   {
     "id": 36414669,
@@ -2041,7 +2041,7 @@ export const articles: Article[] = [
     "word_count": 2598,
     "comment_count": 85,
     "likes": 52,
-    "category": "Economic Stimulus and Inflation Challenges"
+    "category": "Interpreting Economic Forces and Policy Responses"
   },
   {
     "id": 36480369,
@@ -2054,7 +2054,7 @@ export const articles: Article[] = [
     "word_count": 1554,
     "comment_count": 479,
     "likes": 202,
-    "category": "Contested Narratives in the Israel-Palestine Conflict"
+    "category": "Complexities of the Israel-Palestine Conflict"
   },
   {
     "id": 36527916,
@@ -2067,7 +2067,7 @@ export const articles: Article[] = [
     "word_count": 3275,
     "comment_count": 119,
     "likes": 59,
-    "category": "US-China Geopolitical and Economic Strategies"
+    "category": "Evolving Strategies in US-China Relations"
   },
   {
     "id": 36559376,
@@ -2080,7 +2080,7 @@ export const articles: Article[] = [
     "word_count": 3202,
     "comment_count": 333,
     "likes": 239,
-    "category": "Challenges in Modern American Education"
+    "category": "Evolving Challenges in Higher Education"
   },
   {
     "id": 36641597,
@@ -2093,7 +2093,7 @@ export const articles: Article[] = [
     "word_count": 1917,
     "comment_count": 256,
     "likes": 153,
-    "category": "Balancing Market Growth and Government Efficiency"
+    "category": "Exploring Welfare and Economic Policy Reforms"
   },
   {
     "id": 36745286,
@@ -2106,7 +2106,7 @@ export const articles: Article[] = [
     "word_count": 2204,
     "comment_count": 392,
     "likes": 172,
-    "category": "Reforming Policing and Crime Strategies"
+    "category": "Policing and Justice System Dynamics"
   },
   {
     "id": 36778380,
@@ -2119,7 +2119,7 @@ export const articles: Article[] = [
     "word_count": 4265,
     "comment_count": 484,
     "likes": 176,
-    "category": "US-China Geopolitical and Economic Strategies"
+    "category": "Uncategorized"
   },
   {
     "id": 36790995,
@@ -2132,7 +2132,7 @@ export const articles: Article[] = [
     "word_count": 2130,
     "comment_count": 303,
     "likes": 164,
-    "category": "Housing Policy Changes for Growth"
+    "category": "Zoning Reforms and Housing Scarcity"
   },
   {
     "id": 36843889,
@@ -2145,7 +2145,7 @@ export const articles: Article[] = [
     "word_count": 3720,
     "comment_count": 299,
     "likes": 190,
-    "category": "US-China Geopolitical and Economic Strategies"
+    "category": "Evolving Strategies in US-China Relations"
   },
   {
     "id": 36906625,
@@ -2158,7 +2158,7 @@ export const articles: Article[] = [
     "word_count": 2342,
     "comment_count": 318,
     "likes": 156,
-    "category": "US-China Geopolitical and Economic Strategies"
+    "category": "Evolving Strategies in US-China Relations"
   },
   {
     "id": 36964454,
@@ -2171,7 +2171,7 @@ export const articles: Article[] = [
     "word_count": 819,
     "comment_count": 196,
     "likes": 137,
-    "category": "Media's Role in Political Dynamics and Decline"
+    "category": "Competition, Media, and Future Risks"
   },
   {
     "id": 37050919,
@@ -2184,7 +2184,7 @@ export const articles: Article[] = [
     "word_count": 2729,
     "comment_count": 242,
     "likes": 169,
-    "category": "Balancing Competition and Regulation in Modern Markets"
+    "category": "Competition, Media, and Future Risks"
   },
   {
     "id": 37075486,
@@ -2197,7 +2197,7 @@ export const articles: Article[] = [
     "word_count": 3109,
     "comment_count": 186,
     "likes": 154,
-    "category": "Economic Stimulus and Inflation Challenges"
+    "category": "Economic Policies and Partisan Divides"
   },
   {
     "id": 37095438,
@@ -2210,7 +2210,7 @@ export const articles: Article[] = [
     "word_count": 2779,
     "comment_count": 530,
     "likes": 251,
-    "category": "Navigating Voter Demographics and Party Strategies"
+    "category": "Strategies and Challenges in Modern Politics"
   },
   {
     "id": 37135025,
@@ -2223,7 +2223,7 @@ export const articles: Article[] = [
     "word_count": 2664,
     "comment_count": 203,
     "likes": 111,
-    "category": "Housing Policy Changes for Growth"
+    "category": "Zoning Reforms and Housing Scarcity"
   },
   {
     "id": 37186799,
@@ -2236,7 +2236,7 @@ export const articles: Article[] = [
     "word_count": 851,
     "comment_count": 107,
     "likes": 22,
-    "category": "Navigating Voter Demographics and Party Strategies"
+    "category": "Strategies and Challenges in Modern Politics"
   },
   {
     "id": 37207186,
@@ -2249,7 +2249,7 @@ export const articles: Article[] = [
     "word_count": 2033,
     "comment_count": 167,
     "likes": 181,
-    "category": "Media's Role in Political Dynamics and Decline"
+    "category": "Competition, Media, and Future Risks"
   },
   {
     "id": 37283393,
@@ -2262,7 +2262,7 @@ export const articles: Article[] = [
     "word_count": 3497,
     "comment_count": 289,
     "likes": 135,
-    "category": "Balancing Competition and Regulation in Modern Markets"
+    "category": "Transportation and Urban Policy Challenges"
   },
   {
     "id": 37317231,
@@ -2275,7 +2275,7 @@ export const articles: Article[] = [
     "word_count": 2522,
     "comment_count": 95,
     "likes": 134,
-    "category": "Challenges in Housing, AI Education, and Politics"
+    "category": "Competition, Media, and Future Risks"
   },
   {
     "id": 37362427,
@@ -2288,7 +2288,7 @@ export const articles: Article[] = [
     "word_count": 2670,
     "comment_count": 331,
     "likes": 131,
-    "category": "Electoral Innovations and Democratic Challenges"
+    "category": "Modern Political Challenges and Global Dynamics"
   },
   {
     "id": 37391492,
@@ -2301,7 +2301,7 @@ export const articles: Article[] = [
     "word_count": 2645,
     "comment_count": 326,
     "likes": 181,
-    "category": "Racial and Economic Justice in America"
+    "category": "Complex Interplay of Politics and Policy"
   },
   {
     "id": 37443861,
@@ -2314,7 +2314,7 @@ export const articles: Article[] = [
     "word_count": 3550,
     "comment_count": 110,
     "likes": 143,
-    "category": "Economic Stimulus and Inflation Challenges"
+    "category": "Interpreting Economic Forces and Policy Responses"
   },
   {
     "id": 37486827,
@@ -2327,7 +2327,7 @@ export const articles: Article[] = [
     "word_count": 2158,
     "comment_count": 334,
     "likes": 139,
-    "category": "Modern Political and Cultural Alignments"
+    "category": "Modern Political Challenges and Global Dynamics"
   },
   {
     "id": 37489725,
@@ -2340,7 +2340,7 @@ export const articles: Article[] = [
     "word_count": 2536,
     "comment_count": 188,
     "likes": 89,
-    "category": "Democratic Legislative Challenges and Strategies"
+    "category": "Legislative Strategies and Challenges"
   },
   {
     "id": 37513989,
@@ -2353,7 +2353,7 @@ export const articles: Article[] = [
     "word_count": 4134,
     "comment_count": 276,
     "likes": 99,
-    "category": "Balancing Competition and Regulation in Modern Markets"
+    "category": "Competition, Media, and Future Risks"
   },
   {
     "id": 37602910,
@@ -2366,7 +2366,7 @@ export const articles: Article[] = [
     "word_count": 2795,
     "comment_count": 388,
     "likes": 145,
-    "category": "Challenges and Advances in Vaccine Development and Distribution"
+    "category": "Reflections on Pandemic Responses"
   },
   {
     "id": 37621689,
@@ -2379,7 +2379,7 @@ export const articles: Article[] = [
     "word_count": 2060,
     "comment_count": 290,
     "likes": 156,
-    "category": "Electoral Innovations and Democratic Challenges"
+    "category": "Strategies and Challenges in Modern Politics"
   },
   {
     "id": 37683483,
@@ -2392,7 +2392,7 @@ export const articles: Article[] = [
     "word_count": 2315,
     "comment_count": 192,
     "likes": 121,
-    "category": "Media's Role in Political Dynamics and Decline"
+    "category": "Competition, Media, and Future Risks"
   },
   {
     "id": 37783952,
@@ -2405,7 +2405,7 @@ export const articles: Article[] = [
     "word_count": 1976,
     "comment_count": 146,
     "likes": 143,
-    "category": "Urban Housing, Policy, and Growth Dynamics"
+    "category": "Zoning Reforms and Housing Scarcity"
   },
   {
     "id": 37840867,
@@ -2418,7 +2418,7 @@ export const articles: Article[] = [
     "word_count": 932,
     "comment_count": 62,
     "likes": 59,
-    "category": "Electoral Innovations and Democratic Challenges"
+    "category": "Future Democratic Strategies for 2024"
   },
   {
     "id": 37846642,
@@ -2431,7 +2431,7 @@ export const articles: Article[] = [
     "word_count": 1246,
     "comment_count": 158,
     "likes": 82,
-    "category": "Racial and Economic Justice in America"
+    "category": "Complex Interplay of Politics and Policy"
   },
   {
     "id": 37860687,
@@ -2444,7 +2444,7 @@ export const articles: Article[] = [
     "word_count": 2182,
     "comment_count": 165,
     "likes": 128,
-    "category": "Challenges and Opportunities for Urban Transportation"
+    "category": "Transportation and Urban Policy Challenges"
   },
   {
     "id": 37905476,
@@ -2457,7 +2457,7 @@ export const articles: Article[] = [
     "word_count": 1309,
     "comment_count": 147,
     "likes": 104,
-    "category": "Democratic Legislative Challenges and Strategies"
+    "category": "Economic Policies and Partisan Divides"
   },
   {
     "id": 37935686,
@@ -2470,7 +2470,7 @@ export const articles: Article[] = [
     "word_count": 2120,
     "comment_count": 175,
     "likes": 107,
-    "category": "Trump vs. Biden: Policy and Political Implications"
+    "category": "Kamala Harris and Biden's Political Strategy"
   },
   {
     "id": 38021094,
@@ -2483,7 +2483,7 @@ export const articles: Article[] = [
     "word_count": 1011,
     "comment_count": 98,
     "likes": 65,
-    "category": "Democratic Legislative Challenges and Strategies"
+    "category": "Legislative Strategies and Challenges"
   },
   {
     "id": 38102501,
@@ -2496,7 +2496,7 @@ export const articles: Article[] = [
     "word_count": 2935,
     "comment_count": 528,
     "likes": 165,
-    "category": "Economic Myths and Policy Debates"
+    "category": "Complex Interplay of Politics and Policy"
   },
   {
     "id": 38120969,
@@ -2509,7 +2509,7 @@ export const articles: Article[] = [
     "word_count": 2742,
     "comment_count": 226,
     "likes": 185,
-    "category": "Challenges and Advances in Vaccine Development and Distribution"
+    "category": "Reflections on Pandemic Responses"
   },
   {
     "id": 38223101,
@@ -2522,7 +2522,7 @@ export const articles: Article[] = [
     "word_count": 3002,
     "comment_count": 265,
     "likes": 172,
-    "category": "Challenges and Opportunities for Urban Transportation"
+    "category": "Challenges and Opportunities in Urban Transit and Development"
   },
   {
     "id": 38235209,
@@ -2535,7 +2535,7 @@ export const articles: Article[] = [
     "word_count": 2633,
     "comment_count": 107,
     "likes": 83,
-    "category": "Housing Policy Changes for Growth"
+    "category": "Tourism and Housing Dynamics in Urban Landscapes"
   },
   {
     "id": 38260421,
@@ -2548,7 +2548,7 @@ export const articles: Article[] = [
     "word_count": 1676,
     "comment_count": 120,
     "likes": 104,
-    "category": "Navigating Energy Policy Trade-offs and Climate Goals"
+    "category": "Complexities and Debates in Climate Policy"
   },
   {
     "id": 38348118,
@@ -2561,7 +2561,7 @@ export const articles: Article[] = [
     "word_count": 2272,
     "comment_count": 231,
     "likes": 144,
-    "category": "Strategies to Tackle Urban Crime and Gun Violence"
+    "category": "Complex Intersections in Policy and Health"
   },
   {
     "id": 38366395,
@@ -2574,7 +2574,7 @@ export const articles: Article[] = [
     "word_count": 2573,
     "comment_count": 319,
     "likes": 142,
-    "category": "Racial and Economic Justice in America"
+    "category": "Complex Interplay of Politics and Policy"
   },
   {
     "id": 38521728,
@@ -2587,7 +2587,7 @@ export const articles: Article[] = [
     "word_count": 2991,
     "comment_count": 382,
     "likes": 251,
-    "category": "Navigating Energy Policy Trade-offs and Climate Goals"
+    "category": "Complexities and Debates in Climate Policy"
   },
   {
     "id": 38538877,
@@ -2600,7 +2600,7 @@ export const articles: Article[] = [
     "word_count": 573,
     "comment_count": 24,
     "likes": 35,
-    "category": "Media's Role in Political Dynamics and Decline"
+    "category": "Competition, Media, and Future Risks"
   },
   {
     "id": 38568767,
@@ -2613,7 +2613,7 @@ export const articles: Article[] = [
     "word_count": 2558,
     "comment_count": 229,
     "likes": 119,
-    "category": "Urban Housing, Policy, and Growth Dynamics"
+    "category": "Zoning Reforms and Housing Scarcity"
   },
   {
     "id": 38599439,
@@ -2626,7 +2626,7 @@ export const articles: Article[] = [
     "word_count": 1538,
     "comment_count": 97,
     "likes": 98,
-    "category": "Navigating Energy Policy Trade-offs and Climate Goals"
+    "category": "Energy Transition and Innovation Strategies"
   },
   {
     "id": 38685806,
@@ -2639,7 +2639,7 @@ export const articles: Article[] = [
     "word_count": 1661,
     "comment_count": 204,
     "likes": 202,
-    "category": "Strategic Messaging and Policy Prioritization for Elections"
+    "category": "Complex Interplay of Politics and Policy"
   },
   {
     "id": 38707895,
@@ -2652,7 +2652,7 @@ export const articles: Article[] = [
     "word_count": 2372,
     "comment_count": 134,
     "likes": 95,
-    "category": "Balancing Competition and Regulation in Modern Markets"
+    "category": "Interpreting Economic Forces and Policy Responses"
   },
   {
     "id": 38745208,
@@ -2665,7 +2665,7 @@ export const articles: Article[] = [
     "word_count": 2198,
     "comment_count": 106,
     "likes": 160,
-    "category": "Contested Narratives in the Israel-Palestine Conflict"
+    "category": "Competition, Media, and Future Risks"
   },
   {
     "id": 38843718,
@@ -2678,7 +2678,7 @@ export const articles: Article[] = [
     "word_count": 2680,
     "comment_count": 256,
     "likes": 143,
-    "category": "Challenges and Advances in Vaccine Development and Distribution"
+    "category": "Challenges and Innovations in Global Vaccination"
   },
   {
     "id": 38861337,
@@ -2691,7 +2691,7 @@ export const articles: Article[] = [
     "word_count": 1657,
     "comment_count": 203,
     "likes": 103,
-    "category": "Fiscal Clash: Taxes, Cuts, and Debt"
+    "category": "Exploring Welfare and Economic Policy Reforms"
   },
   {
     "id": 38911753,
@@ -2704,7 +2704,7 @@ export const articles: Article[] = [
     "word_count": 2459,
     "comment_count": 208,
     "likes": 95,
-    "category": "US-China Geopolitical and Economic Strategies"
+    "category": "Evolving Strategies in US-China Relations"
   },
   {
     "id": 38961287,
@@ -2717,7 +2717,7 @@ export const articles: Article[] = [
     "word_count": 1928,
     "comment_count": 320,
     "likes": 199,
-    "category": "Racial and Economic Justice in America"
+    "category": "Complex Interplay of Politics and Policy"
   },
   {
     "id": 39031370,
@@ -2730,7 +2730,7 @@ export const articles: Article[] = [
     "word_count": 3053,
     "comment_count": 211,
     "likes": 99,
-    "category": "Challenges and Advances in Vaccine Development and Distribution"
+    "category": "Challenges and Innovations in Global Vaccination"
   },
   {
     "id": 39070202,
@@ -2743,7 +2743,7 @@ export const articles: Article[] = [
     "word_count": 1976,
     "comment_count": 327,
     "likes": 158,
-    "category": "Balancing Competition and Regulation in Modern Markets"
+    "category": "Interpreting Economic Forces and Policy Responses"
   },
   {
     "id": 39090718,
@@ -2756,7 +2756,7 @@ export const articles: Article[] = [
     "word_count": 2279,
     "comment_count": 230,
     "likes": 225,
-    "category": "Challenges in Modern American Education"
+    "category": "Evolving Challenges in Higher Education"
   },
   {
     "id": 39132207,
@@ -2769,7 +2769,7 @@ export const articles: Article[] = [
     "word_count": 3389,
     "comment_count": 483,
     "likes": 224,
-    "category": "Kamala Harris and Democratic Elections Strategy"
+    "category": "Kamala Harris and Biden's Political Strategy"
   },
   {
     "id": 39198875,
@@ -2782,7 +2782,7 @@ export const articles: Article[] = [
     "word_count": 1506,
     "comment_count": 434,
     "likes": 128,
-    "category": "Balancing Market Growth and Government Efficiency"
+    "category": "Exploring Welfare and Economic Policy Reforms"
   },
   {
     "id": 39277028,
@@ -2795,7 +2795,7 @@ export const articles: Article[] = [
     "word_count": 2601,
     "comment_count": 68,
     "likes": 57,
-    "category": "Fiscal Clash: Taxes, Cuts, and Debt"
+    "category": "Exploring Welfare and Economic Policy Reforms"
   },
   {
     "id": 39401906,
@@ -2808,7 +2808,7 @@ export const articles: Article[] = [
     "word_count": 2011,
     "comment_count": 81,
     "likes": 118,
-    "category": "Democratic Legislative Challenges and Strategies"
+    "category": "Navigating Fiscal Policy and Debt Challenges"
   },
   {
     "id": 39438399,
@@ -2821,7 +2821,7 @@ export const articles: Article[] = [
     "word_count": 2084,
     "comment_count": 241,
     "likes": 138,
-    "category": "Challenges and Opportunities for Urban Transportation"
+    "category": "Transportation and Urban Policy Challenges"
   },
   {
     "id": 39501472,
@@ -2834,7 +2834,7 @@ export const articles: Article[] = [
     "word_count": 2346,
     "comment_count": 189,
     "likes": 119,
-    "category": "Challenges and Advances in Vaccine Development and Distribution"
+    "category": "Challenges and Innovations in Global Vaccination"
   },
   {
     "id": 39521210,
@@ -2847,7 +2847,7 @@ export const articles: Article[] = [
     "word_count": 2381,
     "comment_count": 354,
     "likes": 134,
-    "category": "Housing Policy Changes for Growth"
+    "category": "Zoning Reforms and Housing Scarcity"
   },
   {
     "id": 39567255,
@@ -2860,7 +2860,7 @@ export const articles: Article[] = [
     "word_count": 2322,
     "comment_count": 398,
     "likes": 213,
-    "category": "Economic Myths and Policy Debates"
+    "category": "Complex Interplay of Politics and Policy"
   },
   {
     "id": 39652693,
@@ -2873,7 +2873,7 @@ export const articles: Article[] = [
     "word_count": 2245,
     "comment_count": 225,
     "likes": 107,
-    "category": "Fiscal Clash: Taxes, Cuts, and Debt"
+    "category": "Navigating Fiscal Policy and Debt Challenges"
   },
   {
     "id": 39691221,
@@ -2886,7 +2886,7 @@ export const articles: Article[] = [
     "word_count": 3019,
     "comment_count": 316,
     "likes": 134,
-    "category": "Immigration Debates and Policy Implications"
+    "category": "Complex Interplay of Politics and Policy"
   },
   {
     "id": 39788317,
@@ -2899,7 +2899,7 @@ export const articles: Article[] = [
     "word_count": 2763,
     "comment_count": 216,
     "likes": 185,
-    "category": "Media's Role in Political Dynamics and Decline"
+    "category": "Competition, Media, and Future Risks"
   },
   {
     "id": 39814820,
@@ -2912,7 +2912,7 @@ export const articles: Article[] = [
     "word_count": 3459,
     "comment_count": 431,
     "likes": 204,
-    "category": "Modern Political and Cultural Alignments"
+    "category": "Complex Interplay of Politics and Policy"
   },
   {
     "id": 39881555,
@@ -2925,7 +2925,7 @@ export const articles: Article[] = [
     "word_count": 1679,
     "comment_count": 107,
     "likes": 85,
-    "category": "Economic Stimulus and Inflation Challenges"
+    "category": "Economic Policies and Partisan Divides"
   },
   {
     "id": 39924073,
@@ -2938,7 +2938,7 @@ export const articles: Article[] = [
     "word_count": 2320,
     "comment_count": 179,
     "likes": 148,
-    "category": "Reforming Policing and Crime Strategies"
+    "category": "Policing and Justice System Dynamics"
   },
   {
     "id": 39976329,
@@ -2951,7 +2951,7 @@ export const articles: Article[] = [
     "word_count": 3296,
     "comment_count": 236,
     "likes": 119,
-    "category": "US-China Geopolitical and Economic Strategies"
+    "category": "Complex Intersections in Policy and Health"
   },
   {
     "id": 40013897,
@@ -2964,7 +2964,7 @@ export const articles: Article[] = [
     "word_count": 2166,
     "comment_count": 310,
     "likes": 153,
-    "category": "Urban Housing, Policy, and Growth Dynamics"
+    "category": "Zoning Reforms and Housing Scarcity"
   },
   {
     "id": 40057542,
@@ -2977,7 +2977,7 @@ export const articles: Article[] = [
     "word_count": 2102,
     "comment_count": 418,
     "likes": 195,
-    "category": "Contested Narratives in the Israel-Palestine Conflict"
+    "category": "Geopolitical Tensions and Energy Dynamics"
   },
   {
     "id": 40101165,
@@ -2990,7 +2990,7 @@ export const articles: Article[] = [
     "word_count": 2112,
     "comment_count": 273,
     "likes": 171,
-    "category": "Contested Narratives in the Israel-Palestine Conflict"
+    "category": "Geopolitical Tensions and Energy Dynamics"
   },
   {
     "id": 40122162,
@@ -3003,7 +3003,7 @@ export const articles: Article[] = [
     "word_count": 2332,
     "comment_count": 156,
     "likes": 111,
-    "category": "Balancing Market Growth and Government Efficiency"
+    "category": "Transportation and Urban Policy Challenges"
   },
   {
     "id": 40223294,
@@ -3016,7 +3016,7 @@ export const articles: Article[] = [
     "word_count": 2482,
     "comment_count": 156,
     "likes": 152,
-    "category": "Economic Myths and Policy Debates"
+    "category": "Complex Intersections in Policy and Health"
   },
   {
     "id": 40269001,
@@ -3029,7 +3029,7 @@ export const articles: Article[] = [
     "word_count": 2492,
     "comment_count": 337,
     "likes": 168,
-    "category": "Contested Narratives in the Israel-Palestine Conflict"
+    "category": "Geopolitical Tensions and Energy Dynamics"
   },
   {
     "id": 40304298,
@@ -3042,7 +3042,7 @@ export const articles: Article[] = [
     "word_count": 1869,
     "comment_count": 191,
     "likes": 120,
-    "category": "Challenges and Opportunities for Urban Transportation"
+    "category": "Challenges and Opportunities in Urban Transit and Development"
   },
   {
     "id": 40369585,
@@ -3055,7 +3055,7 @@ export const articles: Article[] = [
     "word_count": 2048,
     "comment_count": 183,
     "likes": 111,
-    "category": "Education Reform and Teacher Policies"
+    "category": "Evolving Dynamics in U.S. K-12 Education"
   },
   {
     "id": 40445033,
@@ -3068,7 +3068,7 @@ export const articles: Article[] = [
     "word_count": 2583,
     "comment_count": 233,
     "likes": 154,
-    "category": "Challenges and Advances in Vaccine Development and Distribution"
+    "category": "Reflections on Pandemic Responses"
   },
   {
     "id": 40505560,
@@ -3081,7 +3081,7 @@ export const articles: Article[] = [
     "word_count": 832,
     "comment_count": 129,
     "likes": 125,
-    "category": "Reforming Policing and Crime Strategies"
+    "category": "Policing and Justice System Dynamics"
   },
   {
     "id": 40561074,
@@ -3094,7 +3094,7 @@ export const articles: Article[] = [
     "word_count": 2310,
     "comment_count": 263,
     "likes": 151,
-    "category": "Trump vs. Biden: Policy and Political Implications"
+    "category": "Kamala Harris and Biden's Political Strategy"
   },
   {
     "id": 40605148,
@@ -3107,7 +3107,7 @@ export const articles: Article[] = [
     "word_count": 1910,
     "comment_count": 72,
     "likes": 52,
-    "category": "Education Reform and Teacher Policies"
+    "category": "Evolving Dynamics in U.S. K-12 Education"
   },
   {
     "id": 40667497,
@@ -3120,7 +3120,7 @@ export const articles: Article[] = [
     "word_count": 1923,
     "comment_count": 236,
     "likes": 126,
-    "category": "Challenges and Advances in Vaccine Development and Distribution"
+    "category": "Reflections on Pandemic Responses"
   },
   {
     "id": 40717676,
@@ -3133,7 +3133,7 @@ export const articles: Article[] = [
     "word_count": 2724,
     "comment_count": 168,
     "likes": 102,
-    "category": "Navigating Energy Policy Trade-offs and Climate Goals"
+    "category": "Complexities and Debates in Climate Policy"
   },
   {
     "id": 40811123,
@@ -3146,7 +3146,7 @@ export const articles: Article[] = [
     "word_count": 1729,
     "comment_count": 163,
     "likes": 118,
-    "category": "Challenges and Opportunities for Urban Transportation"
+    "category": "Transportation and Urban Policy Challenges"
   },
   {
     "id": 40815332,
@@ -3159,7 +3159,7 @@ export const articles: Article[] = [
     "word_count": 1696,
     "comment_count": 132,
     "likes": 69,
-    "category": "Immigration Debates and Policy Implications"
+    "category": "Legislative Strategies and Challenges"
   },
   {
     "id": 40859634,
@@ -3172,7 +3172,7 @@ export const articles: Article[] = [
     "word_count": 1900,
     "comment_count": 286,
     "likes": 145,
-    "category": "Democratic Legislative Challenges and Strategies"
+    "category": "Legislative Strategies and Challenges"
   },
   {
     "id": 40930116,
@@ -3185,7 +3185,7 @@ export const articles: Article[] = [
     "word_count": 1796,
     "comment_count": 211,
     "likes": 169,
-    "category": "Housing Policy Changes for Growth"
+    "category": "Zoning Reforms and Housing Scarcity"
   },
   {
     "id": 41019553,
@@ -3198,7 +3198,7 @@ export const articles: Article[] = [
     "word_count": 2658,
     "comment_count": 136,
     "likes": 98,
-    "category": "Economic Stimulus and Inflation Challenges"
+    "category": "Interpreting Economic Forces and Policy Responses"
   },
   {
     "id": 41065980,
@@ -3211,7 +3211,7 @@ export const articles: Article[] = [
     "word_count": 2573,
     "comment_count": 148,
     "likes": 54,
-    "category": "Challenges and Advances in Vaccine Development and Distribution"
+    "category": "Challenges and Innovations in Global Vaccination"
   },
   {
     "id": 41126571,
@@ -3224,7 +3224,7 @@ export const articles: Article[] = [
     "word_count": 1929,
     "comment_count": 147,
     "likes": 75,
-    "category": "Challenges and Opportunities for Urban Transportation"
+    "category": "Challenges and Opportunities in Urban Transit and Development"
   },
   {
     "id": 41191192,
@@ -3237,7 +3237,7 @@ export const articles: Article[] = [
     "word_count": 790,
     "comment_count": 341,
     "likes": 109,
-    "category": "Challenges and Advances in Vaccine Development and Distribution"
+    "category": "Reflections on Pandemic Responses"
   },
   {
     "id": 41219220,
@@ -3250,7 +3250,7 @@ export const articles: Article[] = [
     "word_count": 1470,
     "comment_count": 352,
     "likes": 165,
-    "category": "Urban Housing, Policy, and Growth Dynamics"
+    "category": "Tourism and Housing Dynamics in Urban Landscapes"
   },
   {
     "id": 41221238,
@@ -3263,7 +3263,7 @@ export const articles: Article[] = [
     "word_count": 2414,
     "comment_count": 166,
     "likes": 96,
-    "category": "Fiscal Clash: Taxes, Cuts, and Debt"
+    "category": "Navigating Fiscal Policy and Debt Challenges"
   },
   {
     "id": 41325034,
@@ -3276,7 +3276,7 @@ export const articles: Article[] = [
     "word_count": 1914,
     "comment_count": 71,
     "likes": 65,
-    "category": "Challenges and Opportunities for Urban Transportation"
+    "category": "Challenges and Opportunities in Urban Transit and Development"
   },
   {
     "id": 41366749,
@@ -3289,7 +3289,7 @@ export const articles: Article[] = [
     "word_count": 1873,
     "comment_count": 191,
     "likes": 96,
-    "category": "Electoral Innovations and Democratic Challenges"
+    "category": "Modern Political Challenges and Global Dynamics"
   },
   {
     "id": 41538326,
@@ -3302,7 +3302,7 @@ export const articles: Article[] = [
     "word_count": 1963,
     "comment_count": 445,
     "likes": 181,
-    "category": "Navigating Voter Demographics and Party Strategies"
+    "category": "Strategies and Challenges in Modern Politics"
   },
   {
     "id": 41611441,
@@ -3315,7 +3315,7 @@ export const articles: Article[] = [
     "word_count": 1406,
     "comment_count": 333,
     "likes": 148,
-    "category": "Democratic Legislative Challenges and Strategies"
+    "category": "Strategies and Challenges in Modern Politics"
   },
   {
     "id": 41651022,
@@ -3328,7 +3328,7 @@ export const articles: Article[] = [
     "word_count": 1964,
     "comment_count": 475,
     "likes": 184,
-    "category": "Modern Political and Cultural Alignments"
+    "category": "Strategies and Challenges in Modern Politics"
   },
   {
     "id": 41661400,
@@ -3341,7 +3341,7 @@ export const articles: Article[] = [
     "word_count": 1248,
     "comment_count": 416,
     "likes": 187,
-    "category": "Racial and Economic Justice in America"
+    "category": "Strategies and Challenges in Modern Politics"
   },
   {
     "id": 41674868,
@@ -3354,7 +3354,7 @@ export const articles: Article[] = [
     "word_count": 1812,
     "comment_count": 303,
     "likes": 141,
-    "category": "Urban Housing, Policy, and Growth Dynamics"
+    "category": "Tourism and Housing Dynamics in Urban Landscapes"
   },
   {
     "id": 41717672,
@@ -3367,7 +3367,7 @@ export const articles: Article[] = [
     "word_count": 2390,
     "comment_count": 98,
     "likes": 86,
-    "category": "Electoral Innovations and Democratic Challenges"
+    "category": "Future Democratic Strategies for 2024"
   },
   {
     "id": 41819786,
@@ -3380,7 +3380,7 @@ export const articles: Article[] = [
     "word_count": 1667,
     "comment_count": 227,
     "likes": 75,
-    "category": "Fiscal Clash: Taxes, Cuts, and Debt"
+    "category": "Exploring Welfare and Economic Policy Reforms"
   },
   {
     "id": 41876619,
@@ -3393,7 +3393,7 @@ export const articles: Article[] = [
     "word_count": 1750,
     "comment_count": 254,
     "likes": 95,
-    "category": "Challenges and Advances in Vaccine Development and Distribution"
+    "category": "Trump's Influence on Politics and Media"
   },
   {
     "id": 41890896,
@@ -3406,7 +3406,7 @@ export const articles: Article[] = [
     "word_count": 2307,
     "comment_count": 245,
     "likes": 139,
-    "category": "Trump vs. Biden: Policy and Political Implications"
+    "category": "Strategies and Challenges in Modern Politics"
   },
   {
     "id": 41987541,
@@ -3419,7 +3419,7 @@ export const articles: Article[] = [
     "word_count": 3045,
     "comment_count": 58,
     "likes": 82,
-    "category": "Housing Policy Changes for Growth"
+    "category": "Zoning Reforms and Housing Scarcity"
   },
   {
     "id": 42005076,
@@ -3432,7 +3432,7 @@ export const articles: Article[] = [
     "word_count": 1911,
     "comment_count": 301,
     "likes": 194,
-    "category": "Strategic Messaging and Policy Prioritization for Elections"
+    "category": "Strategies and Challenges in Modern Politics"
   },
   {
     "id": 42019701,
@@ -3458,7 +3458,7 @@ export const articles: Article[] = [
     "word_count": 1868,
     "comment_count": 321,
     "likes": 212,
-    "category": "Navigating Energy Policy Trade-offs and Climate Goals"
+    "category": "Complexities and Debates in Climate Policy"
   },
   {
     "id": 42166798,
@@ -3471,7 +3471,7 @@ export const articles: Article[] = [
     "word_count": 1417,
     "comment_count": 165,
     "likes": 119,
-    "category": "Urban Housing, Policy, and Growth Dynamics"
+    "category": "Tourism and Housing Dynamics in Urban Landscapes"
   },
   {
     "id": 42216941,
@@ -3484,7 +3484,7 @@ export const articles: Article[] = [
     "word_count": 2141,
     "comment_count": 264,
     "likes": 235,
-    "category": "Navigating Energy Policy Trade-offs and Climate Goals"
+    "category": "Energy Transition and Innovation Strategies"
   },
   {
     "id": 42254178,
@@ -3497,7 +3497,7 @@ export const articles: Article[] = [
     "word_count": 2047,
     "comment_count": 128,
     "likes": 113,
-    "category": "Democratic Legislative Challenges and Strategies"
+    "category": "Legislative Strategies and Challenges"
   },
   {
     "id": 42293229,
@@ -3510,7 +3510,7 @@ export const articles: Article[] = [
     "word_count": 2543,
     "comment_count": 141,
     "likes": 201,
-    "category": "Navigating Energy Policy Trade-offs and Climate Goals"
+    "category": "Energy Transition and Innovation Strategies"
   },
   {
     "id": 42357605,
@@ -3523,7 +3523,7 @@ export const articles: Article[] = [
     "word_count": 1581,
     "comment_count": 300,
     "likes": 112,
-    "category": "Trump vs. Biden: Policy and Political Implications"
+    "category": "Strategies and Challenges in Modern Politics"
   },
   {
     "id": 42483229,
@@ -3536,7 +3536,7 @@ export const articles: Article[] = [
     "word_count": 2017,
     "comment_count": 232,
     "likes": 141,
-    "category": "Balancing Competition and Regulation in Modern Markets"
+    "category": "Interpreting Economic Forces and Policy Responses"
   },
   {
     "id": 42544154,
@@ -3549,7 +3549,7 @@ export const articles: Article[] = [
     "word_count": 2155,
     "comment_count": 203,
     "likes": 130,
-    "category": "Navigating Energy Policy Trade-offs and Climate Goals"
+    "category": "Complexities and Debates in Climate Policy"
   },
   {
     "id": 42593733,
@@ -3562,7 +3562,7 @@ export const articles: Article[] = [
     "word_count": 2230,
     "comment_count": 243,
     "likes": 121,
-    "category": "Trump vs. Biden: Policy and Political Implications"
+    "category": "Strategies and Challenges in Modern Politics"
   },
   {
     "id": 42642779,
@@ -3575,7 +3575,7 @@ export const articles: Article[] = [
     "word_count": 2079,
     "comment_count": 176,
     "likes": 142,
-    "category": "Economic Stimulus and Inflation Challenges"
+    "category": "Interpreting Economic Forces and Policy Responses"
   },
   {
     "id": 42751863,
@@ -3588,7 +3588,7 @@ export const articles: Article[] = [
     "word_count": 1866,
     "comment_count": 621,
     "likes": 172,
-    "category": "Strategic Messaging and Policy Prioritization for Elections"
+    "category": "Strategies and Challenges in Modern Politics"
   },
   {
     "id": 42771495,
@@ -3601,7 +3601,7 @@ export const articles: Article[] = [
     "word_count": 702,
     "comment_count": 220,
     "likes": 212,
-    "category": "Media's Role in Political Dynamics and Decline"
+    "category": "Competition, Media, and Future Risks"
   },
   {
     "id": 42799609,
@@ -3614,7 +3614,7 @@ export const articles: Article[] = [
     "word_count": 1872,
     "comment_count": 483,
     "likes": 255,
-    "category": "Challenges and Advances in Vaccine Development and Distribution"
+    "category": "Reflections on Pandemic Responses"
   },
   {
     "id": 42818394,
@@ -3627,7 +3627,7 @@ export const articles: Article[] = [
     "word_count": 1609,
     "comment_count": 317,
     "likes": 188,
-    "category": "Navigating Voter Demographics and Party Strategies"
+    "category": "Strategies and Challenges in Modern Politics"
   },
   {
     "id": 42849313,
@@ -3640,7 +3640,7 @@ export const articles: Article[] = [
     "word_count": 2527,
     "comment_count": 145,
     "likes": 111,
-    "category": "Democratic Legislative Challenges and Strategies"
+    "category": "Legislative Strategies and Challenges"
   },
   {
     "id": 42994582,
@@ -3653,7 +3653,7 @@ export const articles: Article[] = [
     "word_count": 2430,
     "comment_count": 169,
     "likes": 120,
-    "category": "Electoral Innovations and Democratic Challenges"
+    "category": "Future Democratic Strategies for 2024"
   },
   {
     "id": 43078271,
@@ -3666,7 +3666,7 @@ export const articles: Article[] = [
     "word_count": 2026,
     "comment_count": 265,
     "likes": 134,
-    "category": "Balancing Market Growth and Government Efficiency"
+    "category": "Interpreting Economic Forces and Policy Responses"
   },
   {
     "id": 43108837,
@@ -3679,7 +3679,7 @@ export const articles: Article[] = [
     "word_count": 2278,
     "comment_count": 134,
     "likes": 103,
-    "category": "Economic Stimulus and Inflation Challenges"
+    "category": "Interpreting Economic Forces and Policy Responses"
   },
   {
     "id": 43195629,
@@ -3692,7 +3692,7 @@ export const articles: Article[] = [
     "word_count": 1655,
     "comment_count": 298,
     "likes": 131,
-    "category": "Strategies to Tackle Urban Crime and Gun Violence"
+    "category": "Policing and Justice System Dynamics"
   },
   {
     "id": 43217704,
@@ -3705,7 +3705,7 @@ export const articles: Article[] = [
     "word_count": 2212,
     "comment_count": 136,
     "likes": 114,
-    "category": "Navigating Energy Policy Trade-offs and Climate Goals"
+    "category": "Energy Transition and Innovation Strategies"
   },
   {
     "id": 43395570,
@@ -3718,7 +3718,7 @@ export const articles: Article[] = [
     "word_count": 1903,
     "comment_count": 140,
     "likes": 95,
-    "category": "Challenges and Advances in Vaccine Development and Distribution"
+    "category": "Challenges and Innovations in Global Vaccination"
   },
   {
     "id": 43437512,
@@ -3731,7 +3731,7 @@ export const articles: Article[] = [
     "word_count": 1178,
     "comment_count": 463,
     "likes": 146,
-    "category": "Strategies to Tackle Urban Crime and Gun Violence"
+    "category": "Policing and Justice System Dynamics"
   },
   {
     "id": 43462576,
@@ -3744,7 +3744,7 @@ export const articles: Article[] = [
     "word_count": 1978,
     "comment_count": 269,
     "likes": 127,
-    "category": "Economic Myths and Policy Debates"
+    "category": "Competition, Media, and Future Risks"
   },
   {
     "id": 43489135,
@@ -3757,7 +3757,7 @@ export const articles: Article[] = [
     "word_count": 2656,
     "comment_count": 87,
     "likes": 80,
-    "category": "Challenges and Opportunities for Urban Transportation"
+    "category": "Transportation and Urban Policy Challenges"
   },
   {
     "id": 43503862,
@@ -3770,7 +3770,7 @@ export const articles: Article[] = [
     "word_count": 2476,
     "comment_count": 417,
     "likes": 175,
-    "category": "Challenges in Modern American Education"
+    "category": "Evolving Dynamics in U.S. K-12 Education"
   },
   {
     "id": 43680098,
@@ -3783,7 +3783,7 @@ export const articles: Article[] = [
     "word_count": 2212,
     "comment_count": 154,
     "likes": 103,
-    "category": "Balancing Market Growth and Government Efficiency"
+    "category": "Exploring Welfare and Economic Policy Reforms"
   },
   {
     "id": 43694106,
@@ -3796,7 +3796,7 @@ export const articles: Article[] = [
     "word_count": 2148,
     "comment_count": 608,
     "likes": 278,
-    "category": "Challenges in Modern American Education"
+    "category": "Evolving Dynamics in U.S. K-12 Education"
   },
   {
     "id": 43776715,
@@ -3809,7 +3809,7 @@ export const articles: Article[] = [
     "word_count": 2134,
     "comment_count": 438,
     "likes": 195,
-    "category": "Balancing Market Growth and Government Efficiency"
+    "category": "Exploring Welfare and Economic Policy Reforms"
   },
   {
     "id": 43822350,
@@ -3822,7 +3822,7 @@ export const articles: Article[] = [
     "word_count": 1943,
     "comment_count": 251,
     "likes": 104,
-    "category": "Immigration Debates and Policy Implications"
+    "category": "Interpreting Economic Forces and Policy Responses"
   },
   {
     "id": 43937960,
@@ -3835,7 +3835,7 @@ export const articles: Article[] = [
     "word_count": 2073,
     "comment_count": 201,
     "likes": 114,
-    "category": "Economic Stimulus and Inflation Challenges"
+    "category": "Interpreting Economic Forces and Policy Responses"
   },
   {
     "id": 44069530,
@@ -3848,7 +3848,7 @@ export const articles: Article[] = [
     "word_count": 2161,
     "comment_count": 295,
     "likes": 196,
-    "category": "Racial and Economic Justice in America"
+    "category": "Complex Intersections in Policy and Health"
   },
   {
     "id": 44116431,
@@ -3861,7 +3861,7 @@ export const articles: Article[] = [
     "word_count": 2485,
     "comment_count": 247,
     "likes": 179,
-    "category": "Racial and Economic Justice in America"
+    "category": "Complex Interplay of Politics and Policy"
   },
   {
     "id": 44164067,
@@ -3874,7 +3874,7 @@ export const articles: Article[] = [
     "word_count": 2570,
     "comment_count": 140,
     "likes": 83,
-    "category": "Economic Stimulus and Inflation Challenges"
+    "category": "Interpreting Economic Forces and Policy Responses"
   },
   {
     "id": 44244341,
@@ -3887,7 +3887,7 @@ export const articles: Article[] = [
     "word_count": 2604,
     "comment_count": 316,
     "likes": 178,
-    "category": "Racial and Economic Justice in America"
+    "category": "Complex Interplay of Politics and Policy"
   },
   {
     "id": 44284522,
@@ -3900,7 +3900,7 @@ export const articles: Article[] = [
     "word_count": 2533,
     "comment_count": 257,
     "likes": 133,
-    "category": "Electoral Innovations and Democratic Challenges"
+    "category": "Navigating Fiscal Policy and Debt Challenges"
   },
   {
     "id": 44331429,
@@ -3913,7 +3913,7 @@ export const articles: Article[] = [
     "word_count": 3081,
     "comment_count": 107,
     "likes": 132,
-    "category": "US-China Geopolitical and Economic Strategies"
+    "category": "Reflections on Pandemic Responses"
   },
   {
     "id": 44365270,
@@ -3926,7 +3926,7 @@ export const articles: Article[] = [
     "word_count": 1825,
     "comment_count": 92,
     "likes": 83,
-    "category": "Navigating Energy Policy Trade-offs and Climate Goals"
+    "category": "Complexities and Debates in Climate Policy"
   },
   {
     "id": 44385797,
@@ -3939,7 +3939,7 @@ export const articles: Article[] = [
     "word_count": 2141,
     "comment_count": 291,
     "likes": 177,
-    "category": "Challenges and Advances in Vaccine Development and Distribution"
+    "category": "Reflections on Pandemic Responses"
   },
   {
     "id": 44411395,
@@ -3952,7 +3952,7 @@ export const articles: Article[] = [
     "word_count": 2487,
     "comment_count": 300,
     "likes": 148,
-    "category": "Navigating Voter Demographics and Party Strategies"
+    "category": "Kamala Harris and Biden's Political Strategy"
   },
   {
     "id": 44608127,
@@ -3965,7 +3965,7 @@ export const articles: Article[] = [
     "word_count": 2000,
     "comment_count": 152,
     "likes": 100,
-    "category": "Democratic Legislative Challenges and Strategies"
+    "category": "Legislative Strategies and Challenges"
   },
   {
     "id": 44637943,
@@ -3978,7 +3978,7 @@ export const articles: Article[] = [
     "word_count": 2411,
     "comment_count": 135,
     "likes": 102,
-    "category": "Challenges and Advances in Vaccine Development and Distribution"
+    "category": "Challenges and Innovations in Global Vaccination"
   },
   {
     "id": 44701852,
@@ -3991,7 +3991,7 @@ export const articles: Article[] = [
     "word_count": 1583,
     "comment_count": 193,
     "likes": 100,
-    "category": "Reforming Policing and Crime Strategies"
+    "category": "Policing and Justice System Dynamics"
   },
   {
     "id": 44794053,
@@ -4004,7 +4004,7 @@ export const articles: Article[] = [
     "word_count": 1558,
     "comment_count": 310,
     "likes": 95,
-    "category": "Strategic Messaging and Policy Prioritization for Elections"
+    "category": "Strategies and Challenges in Modern Politics"
   },
   {
     "id": 44832459,
@@ -4017,7 +4017,7 @@ export const articles: Article[] = [
     "word_count": 2225,
     "comment_count": 210,
     "likes": 125,
-    "category": "Balancing Market Growth and Government Efficiency"
+    "category": "Exploring Welfare and Economic Policy Reforms"
   },
   {
     "id": 44867270,
@@ -4030,7 +4030,7 @@ export const articles: Article[] = [
     "word_count": 1263,
     "comment_count": 162,
     "likes": 70,
-    "category": "Fiscal Clash: Taxes, Cuts, and Debt"
+    "category": "Exploring Welfare and Economic Policy Reforms"
   },
   {
     "id": 44963138,
@@ -4043,7 +4043,7 @@ export const articles: Article[] = [
     "word_count": 1814,
     "comment_count": 139,
     "likes": 117,
-    "category": "Challenges and Advances in Vaccine Development and Distribution"
+    "category": "Complex Intersections in Policy and Health"
   },
   {
     "id": 45036946,
@@ -4056,7 +4056,7 @@ export const articles: Article[] = [
     "word_count": 2473,
     "comment_count": 143,
     "likes": 87,
-    "category": "Challenges and Advances in Vaccine Development and Distribution"
+    "category": "Challenges and Innovations in Global Vaccination"
   },
   {
     "id": 45073472,
@@ -4069,7 +4069,7 @@ export const articles: Article[] = [
     "word_count": 2768,
     "comment_count": 146,
     "likes": 130,
-    "category": "Economic Stimulus and Inflation Challenges"
+    "category": "Interpreting Economic Forces and Policy Responses"
   },
   {
     "id": 45091161,
@@ -4082,7 +4082,7 @@ export const articles: Article[] = [
     "word_count": 2595,
     "comment_count": 408,
     "likes": 151,
-    "category": "Racial and Economic Justice in America"
+    "category": "Strategies and Challenges in Modern Politics"
   },
   {
     "id": 45221732,
@@ -4095,7 +4095,7 @@ export const articles: Article[] = [
     "word_count": 2104,
     "comment_count": 361,
     "likes": 183,
-    "category": "Challenges in Modern American Education"
+    "category": "Evolving Dynamics in U.S. K-12 Education"
   },
   {
     "id": 45283189,
@@ -4108,7 +4108,7 @@ export const articles: Article[] = [
     "word_count": 2636,
     "comment_count": 86,
     "likes": 61,
-    "category": "Balancing Market Growth and Government Efficiency"
+    "category": "Exploring Welfare and Economic Policy Reforms"
   },
   {
     "id": 45304661,
@@ -4121,7 +4121,7 @@ export const articles: Article[] = [
     "word_count": 2104,
     "comment_count": 153,
     "likes": 73,
-    "category": "Immigration Debates and Policy Implications"
+    "category": "Interpreting Economic Forces and Policy Responses"
   },
   {
     "id": 45324667,
@@ -4134,7 +4134,7 @@ export const articles: Article[] = [
     "word_count": 1470,
     "comment_count": 84,
     "likes": 112,
-    "category": "Navigating Energy Policy Trade-offs and Climate Goals"
+    "category": "Complexities and Debates in Climate Policy"
   },
   {
     "id": 45362144,
@@ -4147,7 +4147,7 @@ export const articles: Article[] = [
     "word_count": 3213,
     "comment_count": 258,
     "likes": 166,
-    "category": "Racial and Economic Justice in America"
+    "category": "Complex Interplay of Politics and Policy"
   },
   {
     "id": 45384490,
@@ -4160,7 +4160,7 @@ export const articles: Article[] = [
     "word_count": 2706,
     "comment_count": 235,
     "likes": 318,
-    "category": "Urban Evolution and Housing Challenges"
+    "category": "Competition, Media, and Future Risks"
   },
   {
     "id": 45439251,
@@ -4173,7 +4173,7 @@ export const articles: Article[] = [
     "word_count": 2824,
     "comment_count": 437,
     "likes": 168,
-    "category": "Challenges and Advances in Vaccine Development and Distribution"
+    "category": "Challenges and Innovations in Global Vaccination"
   },
   {
     "id": 45497623,
@@ -4186,7 +4186,7 @@ export const articles: Article[] = [
     "word_count": 1858,
     "comment_count": 101,
     "likes": 99,
-    "category": "Media's Role in Political Dynamics and Decline"
+    "category": "Competition, Media, and Future Risks"
   },
   {
     "id": 45523273,
@@ -4199,7 +4199,7 @@ export const articles: Article[] = [
     "word_count": 2378,
     "comment_count": 182,
     "likes": 103,
-    "category": "Balancing Market Growth and Government Efficiency"
+    "category": "Exploring Welfare and Economic Policy Reforms"
   },
   {
     "id": 45612097,
@@ -4212,7 +4212,7 @@ export const articles: Article[] = [
     "word_count": 2394,
     "comment_count": 163,
     "likes": 131,
-    "category": "Democratic Legislative Challenges and Strategies"
+    "category": "Legislative Strategies and Challenges"
   },
   {
     "id": 45612841,
@@ -4225,7 +4225,7 @@ export const articles: Article[] = [
     "word_count": 2145,
     "comment_count": 401,
     "likes": 178,
-    "category": "Trump vs. Biden: Policy and Political Implications"
+    "category": "Strategies and Challenges in Modern Politics"
   },
   {
     "id": 45699207,
@@ -4238,7 +4238,7 @@ export const articles: Article[] = [
     "word_count": 2037,
     "comment_count": 319,
     "likes": 137,
-    "category": "Challenges and Advances in Vaccine Development and Distribution"
+    "category": "Reflections on Pandemic Responses"
   },
   {
     "id": 45716094,
@@ -4251,7 +4251,7 @@ export const articles: Article[] = [
     "word_count": 1468,
     "comment_count": 209,
     "likes": 198,
-    "category": "Improving Prediction Accuracy and Calibration"
+    "category": "Future Democratic Strategies for 2024"
   },
   {
     "id": 46030715,
@@ -4264,7 +4264,7 @@ export const articles: Article[] = [
     "word_count": 3509,
     "comment_count": 296,
     "likes": 190,
-    "category": "Balancing Market Growth and Government Efficiency"
+    "category": "Evolving Challenges in Higher Education"
   },
   {
     "id": 46047177,
@@ -4277,7 +4277,7 @@ export const articles: Article[] = [
     "word_count": 2288,
     "comment_count": 207,
     "likes": 113,
-    "category": "Navigating Energy Policy Trade-offs and Climate Goals"
+    "category": "Energy Transition and Innovation Strategies"
   },
   {
     "id": 46255603,
@@ -4290,7 +4290,7 @@ export const articles: Article[] = [
     "word_count": 779,
     "comment_count": 111,
     "likes": 129,
-    "category": "Challenges in Housing, AI Education, and Politics"
+    "category": "Democratic Party and Electoral Dynamics"
   },
   {
     "id": 46309170,
@@ -4303,7 +4303,7 @@ export const articles: Article[] = [
     "word_count": 3006,
     "comment_count": 208,
     "likes": 90,
-    "category": "Challenges and Opportunities for Urban Transportation"
+    "category": "Challenges and Opportunities in Urban Transit and Development"
   },
   {
     "id": 46339666,
@@ -4316,7 +4316,7 @@ export const articles: Article[] = [
     "word_count": 2518,
     "comment_count": 225,
     "likes": 144,
-    "category": "Challenges and Advances in Vaccine Development and Distribution"
+    "category": "Reflections on Pandemic Responses"
   },
   {
     "id": 46630592,
@@ -4329,7 +4329,7 @@ export const articles: Article[] = [
     "word_count": 2121,
     "comment_count": 308,
     "likes": 127,
-    "category": "Electoral Innovations and Democratic Challenges"
+    "category": "Future Democratic Strategies for 2024"
   },
   {
     "id": 46701030,
@@ -4342,7 +4342,7 @@ export const articles: Article[] = [
     "word_count": 1786,
     "comment_count": 508,
     "likes": 182,
-    "category": "Challenges and Advances in Vaccine Development and Distribution"
+    "category": "Reflections on Pandemic Responses"
   },
   {
     "id": 46744436,
@@ -4355,7 +4355,7 @@ export const articles: Article[] = [
     "word_count": 2090,
     "comment_count": 326,
     "likes": 145,
-    "category": "Modern Political and Cultural Alignments"
+    "category": "Reflections on Pandemic Responses"
   },
   {
     "id": 46838055,
@@ -4368,7 +4368,7 @@ export const articles: Article[] = [
     "word_count": 2567,
     "comment_count": 442,
     "likes": 163,
-    "category": "Balancing Market Growth and Government Efficiency"
+    "category": "Exploring Welfare and Economic Policy Reforms"
   },
   {
     "id": 46943642,
@@ -4381,7 +4381,7 @@ export const articles: Article[] = [
     "word_count": 1416,
     "comment_count": 280,
     "likes": 182,
-    "category": "Economic Stimulus and Inflation Challenges"
+    "category": "Interpreting Economic Forces and Policy Responses"
   },
   {
     "id": 47017468,
@@ -4394,7 +4394,7 @@ export const articles: Article[] = [
     "word_count": 1403,
     "comment_count": 214,
     "likes": 122,
-    "category": "Electoral Innovations and Democratic Challenges"
+    "category": "Kamala Harris and Biden's Political Strategy"
   },
   {
     "id": 47077335,
@@ -4407,7 +4407,7 @@ export const articles: Article[] = [
     "word_count": 1811,
     "comment_count": 237,
     "likes": 154,
-    "category": "Navigating Energy Policy Trade-offs and Climate Goals"
+    "category": "Energy Transition and Innovation Strategies"
   },
   {
     "id": 47133316,
@@ -4420,7 +4420,7 @@ export const articles: Article[] = [
     "word_count": 620,
     "comment_count": 171,
     "likes": 87,
-    "category": "Racial and Economic Justice in America"
+    "category": "Complex Interplay of Politics and Policy"
   },
   {
     "id": 47140290,
@@ -4433,7 +4433,7 @@ export const articles: Article[] = [
     "word_count": 2018,
     "comment_count": 161,
     "likes": 71,
-    "category": "Contested Narratives in the Israel-Palestine Conflict"
+    "category": "Geopolitical Tensions and Energy Dynamics"
   },
   {
     "id": 47275872,
@@ -4446,7 +4446,7 @@ export const articles: Article[] = [
     "word_count": 1801,
     "comment_count": 326,
     "likes": 173,
-    "category": "Electoral Innovations and Democratic Challenges"
+    "category": "Navigating Fiscal Policy and Debt Challenges"
   },
   {
     "id": 47301886,
@@ -4459,7 +4459,7 @@ export const articles: Article[] = [
     "word_count": 1613,
     "comment_count": 268,
     "likes": 203,
-    "category": "Urban Housing, Policy, and Growth Dynamics"
+    "category": "Interpreting Economic Forces and Policy Responses"
   },
   {
     "id": 47340895,
@@ -4472,7 +4472,7 @@ export const articles: Article[] = [
     "word_count": 2612,
     "comment_count": 166,
     "likes": 112,
-    "category": "Challenges in Housing, AI Education, and Politics"
+    "category": "Democratic Party and Electoral Dynamics"
   },
   {
     "id": 47387100,
@@ -4485,7 +4485,7 @@ export const articles: Article[] = [
     "word_count": 3075,
     "comment_count": 301,
     "likes": 89,
-    "category": "Challenges and Advances in Vaccine Development and Distribution"
+    "category": "Reflections on Pandemic Responses"
   },
   {
     "id": 47420388,
@@ -4498,7 +4498,7 @@ export const articles: Article[] = [
     "word_count": 1857,
     "comment_count": 238,
     "likes": 173,
-    "category": "Urban Housing, Policy, and Growth Dynamics"
+    "category": "Tourism and Housing Dynamics in Urban Landscapes"
   },
   {
     "id": 47491031,
@@ -4511,7 +4511,7 @@ export const articles: Article[] = [
     "word_count": 3931,
     "comment_count": 239,
     "likes": 188,
-    "category": "Trump vs. Biden: Policy and Political Implications"
+    "category": "Kamala Harris and Biden's Political Strategy"
   },
   {
     "id": 47565914,
@@ -4524,7 +4524,7 @@ export const articles: Article[] = [
     "word_count": 2095,
     "comment_count": 347,
     "likes": 158,
-    "category": "Balancing Competition and Regulation in Modern Markets"
+    "category": "Complex Intersections in Policy and Health"
   },
   {
     "id": 47628364,
@@ -4537,7 +4537,7 @@ export const articles: Article[] = [
     "word_count": 2109,
     "comment_count": 172,
     "likes": 86,
-    "category": "US-China Geopolitical and Economic Strategies"
+    "category": "Complex Intersections in Policy and Health"
   },
   {
     "id": 47648339,
@@ -4550,7 +4550,7 @@ export const articles: Article[] = [
     "word_count": 2973,
     "comment_count": 146,
     "likes": 47,
-    "category": "Challenges in Housing, AI Education, and Politics"
+    "category": "Democratic Party and Electoral Dynamics"
   },
   {
     "id": 47817166,
@@ -4563,7 +4563,7 @@ export const articles: Article[] = [
     "word_count": 2621,
     "comment_count": 665,
     "likes": 166,
-    "category": "Challenges and Advances in Vaccine Development and Distribution"
+    "category": "Reflections on Pandemic Responses"
   },
   {
     "id": 47951599,
@@ -4576,7 +4576,7 @@ export const articles: Article[] = [
     "word_count": 2530,
     "comment_count": 136,
     "likes": 90,
-    "category": "Balancing Competition and Regulation in Modern Markets"
+    "category": "Competition, Media, and Future Risks"
   },
   {
     "id": 47994408,
@@ -4589,7 +4589,7 @@ export const articles: Article[] = [
     "word_count": 2539,
     "comment_count": 360,
     "likes": 134,
-    "category": "Challenges in Modern American Education"
+    "category": "Evolving Challenges in Higher Education"
   },
   {
     "id": 48076067,
@@ -4602,7 +4602,7 @@ export const articles: Article[] = [
     "word_count": 2066,
     "comment_count": 270,
     "likes": 118,
-    "category": "Challenges and Opportunities for Urban Transportation"
+    "category": "Challenges and Opportunities in Urban Transit and Development"
   },
   {
     "id": 48096690,
@@ -4615,7 +4615,7 @@ export const articles: Article[] = [
     "word_count": 3721,
     "comment_count": 464,
     "likes": 95,
-    "category": "Challenges in Housing, AI Education, and Politics"
+    "category": "Democratic Party and Electoral Dynamics"
   },
   {
     "id": 48152830,
@@ -4628,7 +4628,7 @@ export const articles: Article[] = [
     "word_count": 2265,
     "comment_count": 218,
     "likes": 117,
-    "category": "Democratic Legislative Challenges and Strategies"
+    "category": "Legislative Strategies and Challenges"
   },
   {
     "id": 48220002,
@@ -4641,7 +4641,7 @@ export const articles: Article[] = [
     "word_count": 2674,
     "comment_count": 202,
     "likes": 127,
-    "category": "Housing Policy Changes for Growth"
+    "category": "Zoning Reforms and Housing Scarcity"
   },
   {
     "id": 48296586,
@@ -4654,7 +4654,7 @@ export const articles: Article[] = [
     "word_count": 2255,
     "comment_count": 110,
     "likes": 57,
-    "category": "Economic Stimulus and Inflation Challenges"
+    "category": "Interpreting Economic Forces and Policy Responses"
   },
   {
     "id": 48313805,
@@ -4667,7 +4667,7 @@ export const articles: Article[] = [
     "word_count": 2647,
     "comment_count": 261,
     "likes": 174,
-    "category": "Contested Narratives in the Israel-Palestine Conflict"
+    "category": "Geopolitical Tensions and Energy Dynamics"
   },
   {
     "id": 48318249,
@@ -4680,7 +4680,7 @@ export const articles: Article[] = [
     "word_count": 2783,
     "comment_count": 328,
     "likes": 214,
-    "category": "Navigating Energy Policy Trade-offs and Climate Goals"
+    "category": "Complexities and Debates in Climate Policy"
   },
   {
     "id": 48427324,
@@ -4693,7 +4693,7 @@ export const articles: Article[] = [
     "word_count": 3045,
     "comment_count": 219,
     "likes": 80,
-    "category": "Challenges in Housing, AI Education, and Politics"
+    "category": "Democratic Party and Electoral Dynamics"
   },
   {
     "id": 48468569,
@@ -4706,7 +4706,7 @@ export const articles: Article[] = [
     "word_count": 1462,
     "comment_count": 365,
     "likes": 141,
-    "category": "Navigating Voter Demographics and Party Strategies"
+    "category": "Strategies and Challenges in Modern Politics"
   },
   {
     "id": 48557327,
@@ -4719,7 +4719,7 @@ export const articles: Article[] = [
     "word_count": 2535,
     "comment_count": 162,
     "likes": 191,
-    "category": "Contested Narratives in the Israel-Palestine Conflict"
+    "category": "Geopolitical Tensions and Energy Dynamics"
   },
   {
     "id": 48603804,
@@ -4732,7 +4732,7 @@ export const articles: Article[] = [
     "word_count": 3138,
     "comment_count": 191,
     "likes": 225,
-    "category": "Modern Political and Cultural Alignments"
+    "category": "Modern Political Challenges and Global Dynamics"
   },
   {
     "id": 48704934,
@@ -4745,7 +4745,7 @@ export const articles: Article[] = [
     "word_count": 2569,
     "comment_count": 357,
     "likes": 160,
-    "category": "Balancing Market Growth and Government Efficiency"
+    "category": "Complex Intersections in Policy and Health"
   },
   {
     "id": 48771270,
@@ -4758,7 +4758,7 @@ export const articles: Article[] = [
     "word_count": 2365,
     "comment_count": 358,
     "likes": 178,
-    "category": "Media's Role in Political Dynamics and Decline"
+    "category": "Competition, Media, and Future Risks"
   },
   {
     "id": 48797501,
@@ -4771,7 +4771,7 @@ export const articles: Article[] = [
     "word_count": 2847,
     "comment_count": 230,
     "likes": 110,
-    "category": "Challenges in Housing, AI Education, and Politics"
+    "category": "Democratic Party and Electoral Dynamics"
   },
   {
     "id": 48889500,
@@ -4784,7 +4784,7 @@ export const articles: Article[] = [
     "word_count": 2270,
     "comment_count": 252,
     "likes": 93,
-    "category": "Balancing Competition and Regulation in Modern Markets"
+    "category": "Challenges and Innovations in Sports and Gambling"
   },
   {
     "id": 49001746,
@@ -4797,7 +4797,7 @@ export const articles: Article[] = [
     "word_count": 1466,
     "comment_count": 243,
     "likes": 149,
-    "category": "Racial and Economic Justice in America"
+    "category": "Complex Intersections in Policy and Health"
   },
   {
     "id": 49184248,
@@ -4810,7 +4810,7 @@ export const articles: Article[] = [
     "word_count": 3532,
     "comment_count": 148,
     "likes": 64,
-    "category": "Challenges in Housing, AI Education, and Politics"
+    "category": "Democratic Party and Electoral Dynamics"
   },
   {
     "id": 49319517,
@@ -4823,7 +4823,7 @@ export const articles: Article[] = [
     "word_count": 1972,
     "comment_count": 101,
     "likes": 150,
-    "category": "Immigration Debates and Policy Implications"
+    "category": "Economic Policies and Partisan Divides"
   },
   {
     "id": 49371173,
@@ -4836,7 +4836,7 @@ export const articles: Article[] = [
     "word_count": 2044,
     "comment_count": 392,
     "likes": 192,
-    "category": "Contested Narratives in the Israel-Palestine Conflict"
+    "category": "Geopolitical Tensions and Energy Dynamics"
   },
   {
     "id": 49495257,
@@ -4849,7 +4849,7 @@ export const articles: Article[] = [
     "word_count": 2928,
     "comment_count": 188,
     "likes": 105,
-    "category": "Contested Narratives in the Israel-Palestine Conflict"
+    "category": "Geopolitical Tensions and Energy Dynamics"
   },
   {
     "id": 49545670,
@@ -4862,7 +4862,7 @@ export const articles: Article[] = [
     "word_count": 2681,
     "comment_count": 267,
     "likes": 109,
-    "category": "Challenges and Advances in Vaccine Development and Distribution"
+    "category": "Reflections on Pandemic Responses"
   },
   {
     "id": 49586092,
@@ -4875,7 +4875,7 @@ export const articles: Article[] = [
     "word_count": 4277,
     "comment_count": 154,
     "likes": 71,
-    "category": "Challenges and Strategies for Democrats in Modern Politics"
+    "category": "Democratic Party and Electoral Dynamics"
   },
   {
     "id": 49685582,
@@ -4888,7 +4888,7 @@ export const articles: Article[] = [
     "word_count": 2897,
     "comment_count": 254,
     "likes": 173,
-    "category": "Reforming Policing and Crime Strategies"
+    "category": "Policing and Justice System Dynamics"
   },
   {
     "id": 49698652,
@@ -4901,7 +4901,7 @@ export const articles: Article[] = [
     "word_count": 2907,
     "comment_count": 263,
     "likes": 169,
-    "category": "Contested Narratives in the Israel-Palestine Conflict"
+    "category": "Geopolitical Tensions and Energy Dynamics"
   },
   {
     "id": 49875916,
@@ -4914,7 +4914,7 @@ export const articles: Article[] = [
     "word_count": 2887,
     "comment_count": 139,
     "likes": 111,
-    "category": "Navigating Energy Policy Trade-offs and Climate Goals"
+    "category": "Biden's Energy and Climate Strategy"
   },
   {
     "id": 49884768,
@@ -4927,7 +4927,7 @@ export const articles: Article[] = [
     "word_count": 2266,
     "comment_count": 74,
     "likes": 64,
-    "category": "Strategies to Tackle Urban Crime and Gun Violence"
+    "category": "Competition, Media, and Future Risks"
   },
   {
     "id": 49957000,
@@ -4940,7 +4940,7 @@ export const articles: Article[] = [
     "word_count": 4193,
     "comment_count": 157,
     "likes": 90,
-    "category": "Challenges in Housing, AI Education, and Politics"
+    "category": "Democratic Party and Electoral Dynamics"
   },
   {
     "id": 50027852,
@@ -4953,7 +4953,7 @@ export const articles: Article[] = [
     "word_count": 2108,
     "comment_count": 160,
     "likes": 112,
-    "category": "Immigration Debates and Policy Implications"
+    "category": "Geopolitical Tensions and Energy Dynamics"
   },
   {
     "id": 50154475,
@@ -4966,7 +4966,7 @@ export const articles: Article[] = [
     "word_count": 3333,
     "comment_count": 110,
     "likes": 147,
-    "category": "Contested Narratives in the Israel-Palestine Conflict"
+    "category": "Geopolitical Tensions and Energy Dynamics"
   },
   {
     "id": 50312161,
@@ -4979,7 +4979,7 @@ export const articles: Article[] = [
     "word_count": 2013,
     "comment_count": 97,
     "likes": 88,
-    "category": "Navigating Energy Policy Trade-offs and Climate Goals"
+    "category": "Biden's Energy and Climate Strategy"
   },
   {
     "id": 50313114,
@@ -4992,7 +4992,7 @@ export const articles: Article[] = [
     "word_count": 2353,
     "comment_count": 223,
     "likes": 184,
-    "category": "Navigating Energy Policy Trade-offs and Climate Goals"
+    "category": "Complexities and Debates in Climate Policy"
   },
   {
     "id": 50420977,
@@ -5005,7 +5005,7 @@ export const articles: Article[] = [
     "word_count": 4819,
     "comment_count": 203,
     "likes": 65,
-    "category": "Strategies to Tackle Urban Crime and Gun Violence"
+    "category": "Competition, Media, and Future Risks"
   },
   {
     "id": 50525181,
@@ -5018,7 +5018,7 @@ export const articles: Article[] = [
     "word_count": 2097,
     "comment_count": 77,
     "likes": 75,
-    "category": "Economic Stimulus and Inflation Challenges"
+    "category": "Interpreting Economic Forces and Policy Responses"
   },
   {
     "id": 50546657,
@@ -5031,7 +5031,7 @@ export const articles: Article[] = [
     "word_count": 1853,
     "comment_count": 261,
     "likes": 166,
-    "category": "Strategic Messaging and Policy Prioritization for Elections"
+    "category": "Strategies and Challenges in Modern Politics"
   },
   {
     "id": 50591662,
@@ -5044,7 +5044,7 @@ export const articles: Article[] = [
     "word_count": 1982,
     "comment_count": 161,
     "likes": 95,
-    "category": "Urban Housing, Policy, and Growth Dynamics"
+    "category": "Zoning Reforms and Housing Scarcity"
   },
   {
     "id": 50645190,
@@ -5057,7 +5057,7 @@ export const articles: Article[] = [
     "word_count": 2038,
     "comment_count": 210,
     "likes": 145,
-    "category": "Balancing Market Growth and Government Efficiency"
+    "category": "Exploring Welfare and Economic Policy Reforms"
   },
   {
     "id": 50890967,
@@ -5070,7 +5070,7 @@ export const articles: Article[] = [
     "word_count": 2565,
     "comment_count": 183,
     "likes": 98,
-    "category": "Challenges in Housing, AI Education, and Politics"
+    "category": "Democratic Party and Electoral Dynamics"
   },
   {
     "id": 50907408,
@@ -5083,7 +5083,7 @@ export const articles: Article[] = [
     "word_count": 1657,
     "comment_count": 160,
     "likes": 128,
-    "category": "Challenges in Modern American Education"
+    "category": "Evolving Challenges in Higher Education"
   },
   {
     "id": 51043454,
@@ -5096,7 +5096,7 @@ export const articles: Article[] = [
     "word_count": 2048,
     "comment_count": 341,
     "likes": 234,
-    "category": "Electoral Innovations and Democratic Challenges"
+    "category": "Strategies and Challenges in Modern Politics"
   },
   {
     "id": 51046626,
@@ -5109,7 +5109,7 @@ export const articles: Article[] = [
     "word_count": 1324,
     "comment_count": 169,
     "likes": 83,
-    "category": "Strategic Messaging and Policy Prioritization for Elections"
+    "category": "Strategies and Challenges in Modern Politics"
   },
   {
     "id": 51122253,
@@ -5122,7 +5122,7 @@ export const articles: Article[] = [
     "word_count": 3199,
     "comment_count": 156,
     "likes": 134,
-    "category": "Contested Narratives in the Israel-Palestine Conflict"
+    "category": "Geopolitical Tensions and Energy Dynamics"
   },
   {
     "id": 51206634,
@@ -5135,7 +5135,7 @@ export const articles: Article[] = [
     "word_count": 2503,
     "comment_count": 302,
     "likes": 176,
-    "category": "Modern Political and Cultural Alignments"
+    "category": "Complex Interplay of Politics and Policy"
   },
   {
     "id": 51236416,
@@ -5148,7 +5148,7 @@ export const articles: Article[] = [
     "word_count": 1875,
     "comment_count": 206,
     "likes": 123,
-    "category": "Navigating Energy Policy Trade-offs and Climate Goals"
+    "category": "Energy Transition and Innovation Strategies"
   },
   {
     "id": 51255546,
@@ -5161,7 +5161,7 @@ export const articles: Article[] = [
     "word_count": 4333,
     "comment_count": 164,
     "likes": 110,
-    "category": "Challenges in Housing, AI Education, and Politics"
+    "category": "Democratic Party and Electoral Dynamics"
   },
   {
     "id": 51320519,
@@ -5174,7 +5174,7 @@ export const articles: Article[] = [
     "word_count": 2093,
     "comment_count": 115,
     "likes": 70,
-    "category": "Economic Stimulus and Inflation Challenges"
+    "category": "Navigating Fiscal Policy and Debt Challenges"
   },
   {
     "id": 51403483,
@@ -5187,7 +5187,7 @@ export const articles: Article[] = [
     "word_count": 1999,
     "comment_count": 236,
     "likes": 143,
-    "category": "Strategic Messaging and Policy Prioritization for Elections"
+    "category": "Strategies and Challenges in Modern Politics"
   },
   {
     "id": 51509642,
@@ -5200,7 +5200,7 @@ export const articles: Article[] = [
     "word_count": 2301,
     "comment_count": 132,
     "likes": 95,
-    "category": "Challenges and Advances in Vaccine Development and Distribution"
+    "category": "Challenges and Innovations in Global Vaccination"
   },
   {
     "id": 51595945,
@@ -5213,7 +5213,7 @@ export const articles: Article[] = [
     "word_count": 2720,
     "comment_count": 125,
     "likes": 114,
-    "category": "Contested Narratives in the Israel-Palestine Conflict"
+    "category": "Geopolitical Tensions and Energy Dynamics"
   },
   {
     "id": 51621477,
@@ -5226,7 +5226,7 @@ export const articles: Article[] = [
     "word_count": 2811,
     "comment_count": 260,
     "likes": 139,
-    "category": "Balancing Competition and Regulation in Modern Markets"
+    "category": "Competition, Media, and Future Risks"
   },
   {
     "id": 51677020,
@@ -5239,7 +5239,7 @@ export const articles: Article[] = [
     "word_count": 3289,
     "comment_count": 186,
     "likes": 90,
-    "category": "Challenges in Housing, AI Education, and Politics"
+    "category": "Democratic Party and Electoral Dynamics"
   },
   {
     "id": 51850560,
@@ -5252,7 +5252,7 @@ export const articles: Article[] = [
     "word_count": 1179,
     "comment_count": 381,
     "likes": 115,
-    "category": "Navigating Voter Demographics and Party Strategies"
+    "category": "Future Democratic Strategies for 2024"
   },
   {
     "id": 51906346,
@@ -5265,7 +5265,7 @@ export const articles: Article[] = [
     "word_count": 3368,
     "comment_count": 175,
     "likes": 111,
-    "category": "Contested Narratives in the Israel-Palestine Conflict"
+    "category": "Geopolitical Tensions and Energy Dynamics"
   },
   {
     "id": 52098549,
@@ -5278,7 +5278,7 @@ export const articles: Article[] = [
     "word_count": 3803,
     "comment_count": 219,
     "likes": 81,
-    "category": "Challenges and Strategies for Democrats in Modern Politics"
+    "category": "Democratic Party and Electoral Dynamics"
   },
   {
     "id": 52218768,
@@ -5291,7 +5291,7 @@ export const articles: Article[] = [
     "word_count": 2326,
     "comment_count": 248,
     "likes": 134,
-    "category": "Housing Policy Changes for Growth"
+    "category": "Zoning Reforms and Housing Scarcity"
   },
   {
     "id": 52275496,
@@ -5304,7 +5304,7 @@ export const articles: Article[] = [
     "word_count": 2115,
     "comment_count": 212,
     "likes": 164,
-    "category": "Fiscal Clash: Taxes, Cuts, and Debt"
+    "category": "Economic Policies and Partisan Divides"
   },
   {
     "id": 52294719,
@@ -5317,7 +5317,7 @@ export const articles: Article[] = [
     "word_count": 1959,
     "comment_count": 80,
     "likes": 62,
-    "category": "Economic Stimulus and Inflation Challenges"
+    "category": "Interpreting Economic Forces and Policy Responses"
   },
   {
     "id": 52318807,
@@ -5330,7 +5330,7 @@ export const articles: Article[] = [
     "word_count": 2984,
     "comment_count": 447,
     "likes": 198,
-    "category": "Modern Political and Cultural Alignments"
+    "category": "Complex Intersections in Policy and Health"
   },
   {
     "id": 52323997,
@@ -5343,7 +5343,7 @@ export const articles: Article[] = [
     "word_count": 2040,
     "comment_count": 421,
     "likes": 204,
-    "category": "Navigating Voter Demographics and Party Strategies"
+    "category": "Strategies and Challenges in Modern Politics"
   },
   {
     "id": 52476450,
@@ -5356,7 +5356,7 @@ export const articles: Article[] = [
     "word_count": 2255,
     "comment_count": 259,
     "likes": 127,
-    "category": "US-China Geopolitical and Economic Strategies"
+    "category": "Evolving Strategies in US-China Relations"
   },
   {
     "id": 52491210,
@@ -5369,7 +5369,7 @@ export const articles: Article[] = [
     "word_count": 4158,
     "comment_count": 300,
     "likes": 90,
-    "category": "Challenges in Housing, AI Education, and Politics"
+    "category": "Democratic Party and Electoral Dynamics"
   },
   {
     "id": 52577286,
@@ -5382,7 +5382,7 @@ export const articles: Article[] = [
     "word_count": 2440,
     "comment_count": 319,
     "likes": 187,
-    "category": "Trump vs. Biden: Policy and Political Implications"
+    "category": "Trump's Influence on Politics and Media"
   },
   {
     "id": 52767182,
@@ -5395,7 +5395,7 @@ export const articles: Article[] = [
     "word_count": 2272,
     "comment_count": 216,
     "likes": 145,
-    "category": "Democratic Legislative Challenges and Strategies"
+    "category": "Navigating Fiscal Policy and Debt Challenges"
   },
   {
     "id": 52816815,
@@ -5408,7 +5408,7 @@ export const articles: Article[] = [
     "word_count": 1807,
     "comment_count": 115,
     "likes": 118,
-    "category": "Trump vs. Biden: Policy and Political Implications"
+    "category": "Strategies and Challenges in Modern Politics"
   },
   {
     "id": 52832260,
@@ -5421,7 +5421,7 @@ export const articles: Article[] = [
     "word_count": 1621,
     "comment_count": 271,
     "likes": 179,
-    "category": "Balancing Competition and Regulation in Modern Markets"
+    "category": "Evolving Strategies in US-China Relations"
   },
   {
     "id": 52906498,
@@ -5434,7 +5434,7 @@ export const articles: Article[] = [
     "word_count": 3189,
     "comment_count": 224,
     "likes": 98,
-    "category": "Challenges in Housing, AI Education, and Politics"
+    "category": "Democratic Party and Electoral Dynamics"
   },
   {
     "id": 53053394,
@@ -5447,7 +5447,7 @@ export const articles: Article[] = [
     "word_count": 1928,
     "comment_count": 213,
     "likes": 115,
-    "category": "Urban Housing, Policy, and Growth Dynamics"
+    "category": "Zoning Reforms and Housing Scarcity"
   },
   {
     "id": 53251092,
@@ -5460,7 +5460,7 @@ export const articles: Article[] = [
     "word_count": 1996,
     "comment_count": 190,
     "likes": 136,
-    "category": "Trump vs. Biden: Policy and Political Implications"
+    "category": "Trump's Influence on Politics and Media"
   },
   {
     "id": 53260750,
@@ -5473,7 +5473,7 @@ export const articles: Article[] = [
     "word_count": 2817,
     "comment_count": 217,
     "likes": 133,
-    "category": "Navigating Voter Demographics and Party Strategies"
+    "category": "Strategies and Challenges in Modern Politics"
   },
   {
     "id": 53302113,
@@ -5486,7 +5486,7 @@ export const articles: Article[] = [
     "word_count": 1653,
     "comment_count": 149,
     "likes": 133,
-    "category": "Navigating Voter Demographics and Party Strategies"
+    "category": "Strategies and Challenges in Modern Politics"
   },
   {
     "id": 53313492,
@@ -5499,7 +5499,7 @@ export const articles: Article[] = [
     "word_count": 3510,
     "comment_count": 336,
     "likes": 83,
-    "category": "Challenges and Strategies for Democrats in Modern Politics"
+    "category": "Democratic Party and Electoral Dynamics"
   },
   {
     "id": 53612371,
@@ -5512,7 +5512,7 @@ export const articles: Article[] = [
     "word_count": 2089,
     "comment_count": 369,
     "likes": 202,
-    "category": "Strategic Messaging and Policy Prioritization for Elections"
+    "category": "Strategies and Challenges in Modern Politics"
   },
   {
     "id": 53938535,
@@ -5525,7 +5525,7 @@ export const articles: Article[] = [
     "word_count": 1871,
     "comment_count": 148,
     "likes": 101,
-    "category": "Media's Role in Political Dynamics and Decline"
+    "category": "Competition, Media, and Future Risks"
   },
   {
     "id": 54003982,
@@ -5538,7 +5538,7 @@ export const articles: Article[] = [
     "word_count": 2720,
     "comment_count": 146,
     "likes": 130,
-    "category": "Balancing Market Growth and Government Efficiency"
+    "category": "Challenges and Innovations in Global Vaccination"
   },
   {
     "id": 54303445,
@@ -5551,7 +5551,7 @@ export const articles: Article[] = [
     "word_count": 3871,
     "comment_count": 262,
     "likes": 68,
-    "category": "Challenges and Strategies for Democrats in Modern Politics"
+    "category": "Democratic Party and Electoral Dynamics"
   },
   {
     "id": 54679617,
@@ -5564,7 +5564,7 @@ export const articles: Article[] = [
     "word_count": 2224,
     "comment_count": 266,
     "likes": 183,
-    "category": "Economic Stimulus and Inflation Challenges"
+    "category": "Economic Policies and Partisan Divides"
   },
   {
     "id": 54876506,
@@ -5577,7 +5577,7 @@ export const articles: Article[] = [
     "word_count": 2047,
     "comment_count": 148,
     "likes": 101,
-    "category": "Challenges and Advances in Vaccine Development and Distribution"
+    "category": "Challenges and Innovations in Global Vaccination"
   },
   {
     "id": 55172787,
@@ -5590,7 +5590,7 @@ export const articles: Article[] = [
     "word_count": 1867,
     "comment_count": 130,
     "likes": 95,
-    "category": "Challenges and Advances in Vaccine Development and Distribution"
+    "category": "Challenges and Innovations in Global Vaccination"
   },
   {
     "id": 55315571,
@@ -5603,7 +5603,7 @@ export const articles: Article[] = [
     "word_count": 1934,
     "comment_count": 231,
     "likes": 110,
-    "category": "Urban Housing, Policy, and Growth Dynamics"
+    "category": "Zoning Reforms and Housing Scarcity"
   },
   {
     "id": 55324481,
@@ -5616,7 +5616,7 @@ export const articles: Article[] = [
     "word_count": 2261,
     "comment_count": 199,
     "likes": 177,
-    "category": "Strategic Messaging and Policy Prioritization for Elections"
+    "category": "Strategies and Challenges in Modern Politics"
   },
   {
     "id": 55471340,
@@ -5629,7 +5629,7 @@ export const articles: Article[] = [
     "word_count": 3350,
     "comment_count": 187,
     "likes": 71,
-    "category": "Challenges and Strategies for Democrats in Modern Politics"
+    "category": "Democratic Party and Electoral Dynamics"
   },
   {
     "id": 55715489,
@@ -5642,7 +5642,7 @@ export const articles: Article[] = [
     "word_count": 2482,
     "comment_count": 384,
     "likes": 156,
-    "category": "Balancing Competition and Regulation in Modern Markets"
+    "category": "Competition, Media, and Future Risks"
   },
   {
     "id": 55799999,
@@ -5655,7 +5655,7 @@ export const articles: Article[] = [
     "word_count": 2810,
     "comment_count": 122,
     "likes": 148,
-    "category": "Navigating Energy Policy Trade-offs and Climate Goals"
+    "category": "Biden's Energy and Climate Strategy"
   },
   {
     "id": 56289053,
@@ -5668,7 +5668,7 @@ export const articles: Article[] = [
     "word_count": 2958,
     "comment_count": 292,
     "likes": 80,
-    "category": "Challenges in Housing, AI Education, and Politics"
+    "category": "Democratic Party and Electoral Dynamics"
   },
   {
     "id": 56290221,
@@ -5681,7 +5681,7 @@ export const articles: Article[] = [
     "word_count": 2942,
     "comment_count": 439,
     "likes": 139,
-    "category": "Balancing Market Growth and Government Efficiency"
+    "category": "Exploring Welfare and Economic Policy Reforms"
   },
   {
     "id": 56724202,
@@ -5694,7 +5694,7 @@ export const articles: Article[] = [
     "word_count": 2259,
     "comment_count": 654,
     "likes": 229,
-    "category": "Modern Political and Cultural Alignments"
+    "category": "Modern Political Challenges and Global Dynamics"
   },
   {
     "id": 56809511,
@@ -5707,7 +5707,7 @@ export const articles: Article[] = [
     "word_count": 2969,
     "comment_count": 148,
     "likes": 113,
-    "category": "Challenges and Advances in Vaccine Development and Distribution"
+    "category": "Reflections on Pandemic Responses"
   },
   {
     "id": 57340427,
@@ -5720,7 +5720,7 @@ export const articles: Article[] = [
     "word_count": 2642,
     "comment_count": 338,
     "likes": 136,
-    "category": "Challenges in Modern American Education"
+    "category": "Evolving Challenges in Higher Education"
   },
   {
     "id": 57532707,
@@ -5733,7 +5733,7 @@ export const articles: Article[] = [
     "word_count": 2079,
     "comment_count": 158,
     "likes": 107,
-    "category": "Contested Narratives in the Israel-Palestine Conflict"
+    "category": "Geopolitical Tensions and Energy Dynamics"
   },
   {
     "id": 57548064,
@@ -5746,7 +5746,7 @@ export const articles: Article[] = [
     "word_count": 2810,
     "comment_count": 210,
     "likes": 84,
-    "category": "Challenges in Housing, AI Education, and Politics"
+    "category": "Democratic Party and Electoral Dynamics"
   },
   {
     "id": 57830726,
@@ -5759,7 +5759,7 @@ export const articles: Article[] = [
     "word_count": 1876,
     "comment_count": 232,
     "likes": 110,
-    "category": "Reforming Policing and Crime Strategies"
+    "category": "Policing and Justice System Dynamics"
   },
   {
     "id": 57982533,
@@ -5772,7 +5772,7 @@ export const articles: Article[] = [
     "word_count": 1895,
     "comment_count": 283,
     "likes": 162,
-    "category": "Navigating Voter Demographics and Party Strategies"
+    "category": "Strategies and Challenges in Modern Politics"
   },
   {
     "id": 58251621,
@@ -5785,7 +5785,7 @@ export const articles: Article[] = [
     "word_count": 2312,
     "comment_count": 277,
     "likes": 149,
-    "category": "Modern Political and Cultural Alignments"
+    "category": "Strategies and Challenges in Modern Politics"
   },
   {
     "id": 58394722,
@@ -5798,7 +5798,7 @@ export const articles: Article[] = [
     "word_count": 2493,
     "comment_count": 257,
     "likes": 181,
-    "category": "Electoral Innovations and Democratic Challenges"
+    "category": "Modern Political Challenges and Global Dynamics"
   },
   {
     "id": 58582964,
@@ -5811,7 +5811,7 @@ export const articles: Article[] = [
     "word_count": 2874,
     "comment_count": 182,
     "likes": 63,
-    "category": "Challenges in Housing, AI Education, and Politics"
+    "category": "Democratic Party and Electoral Dynamics"
   },
   {
     "id": 58601559,
@@ -5824,7 +5824,7 @@ export const articles: Article[] = [
     "word_count": 2241,
     "comment_count": 223,
     "likes": 142,
-    "category": "Navigating Energy Policy Trade-offs and Climate Goals"
+    "category": "Complexities and Debates in Climate Policy"
   },
   {
     "id": 58867637,
@@ -5837,7 +5837,7 @@ export const articles: Article[] = [
     "word_count": 2415,
     "comment_count": 335,
     "likes": 236,
-    "category": "Urban Housing, Policy, and Growth Dynamics"
+    "category": "Tourism and Housing Dynamics in Urban Landscapes"
   },
   {
     "id": 58893445,
@@ -5850,7 +5850,7 @@ export const articles: Article[] = [
     "word_count": 1624,
     "comment_count": 85,
     "likes": 63,
-    "category": "Navigating Energy Policy Trade-offs and Climate Goals"
+    "category": "Biden's Energy and Climate Strategy"
   },
   {
     "id": 58991483,
@@ -5863,7 +5863,7 @@ export const articles: Article[] = [
     "word_count": 2264,
     "comment_count": 218,
     "likes": 146,
-    "category": "Balancing Competition and Regulation in Modern Markets"
+    "category": "Competition, Media, and Future Risks"
   },
   {
     "id": 59518168,
@@ -5876,7 +5876,7 @@ export const articles: Article[] = [
     "word_count": 2800,
     "comment_count": 189,
     "likes": 148,
-    "category": "Balancing Competition and Regulation in Modern Markets"
+    "category": "Competition, Media, and Future Risks"
   },
   {
     "id": 59616580,
@@ -5889,7 +5889,7 @@ export const articles: Article[] = [
     "word_count": 1803,
     "comment_count": 406,
     "likes": 190,
-    "category": "Strategic Messaging and Policy Prioritization for Elections"
+    "category": "Strategies and Challenges in Modern Politics"
   },
   {
     "id": 59628308,
@@ -5902,7 +5902,7 @@ export const articles: Article[] = [
     "word_count": 3053,
     "comment_count": 265,
     "likes": 110,
-    "category": "Challenges in Housing, AI Education, and Politics"
+    "category": "Democratic Party and Electoral Dynamics"
   },
   {
     "id": 59752737,
@@ -5915,7 +5915,7 @@ export const articles: Article[] = [
     "word_count": 2046,
     "comment_count": 305,
     "likes": 223,
-    "category": "Racial and Economic Justice in America"
+    "category": "Complex Interplay of Politics and Policy"
   },
   {
     "id": 60336780,
@@ -5928,7 +5928,7 @@ export const articles: Article[] = [
     "word_count": 2477,
     "comment_count": 78,
     "likes": 77,
-    "category": "Economic Stimulus and Inflation Challenges"
+    "category": "Interpreting Economic Forces and Policy Responses"
   },
   {
     "id": 60539716,
@@ -5941,7 +5941,7 @@ export const articles: Article[] = [
     "word_count": 3447,
     "comment_count": 436,
     "likes": 94,
-    "category": "Challenges and Opportunities for Urban Transportation"
+    "category": "Transportation and Urban Policy Challenges"
   },
   {
     "id": 60621688,
@@ -5954,7 +5954,7 @@ export const articles: Article[] = [
     "word_count": 2686,
     "comment_count": 186,
     "likes": 127,
-    "category": "Housing Policy Changes for Growth"
+    "category": "Zoning Reforms and Housing Scarcity"
   },
   {
     "id": 60813397,
@@ -5967,7 +5967,7 @@ export const articles: Article[] = [
     "word_count": 1803,
     "comment_count": 506,
     "likes": 213,
-    "category": "Urban Evolution and Housing Challenges"
+    "category": "Tourism and Housing Dynamics in Urban Landscapes"
   },
   {
     "id": 61042827,
@@ -5980,7 +5980,7 @@ export const articles: Article[] = [
     "word_count": 2447,
     "comment_count": 201,
     "likes": 180,
-    "category": "Challenges and Opportunities for Urban Transportation"
+    "category": "Challenges and Opportunities in Urban Transit and Development"
   },
   {
     "id": 61349681,
@@ -5993,7 +5993,7 @@ export const articles: Article[] = [
     "word_count": 2378,
     "comment_count": 367,
     "likes": 179,
-    "category": "Strategic Messaging and Policy Prioritization for Elections"
+    "category": "Strategies and Challenges in Modern Politics"
   },
   {
     "id": 61556524,
@@ -6006,7 +6006,7 @@ export const articles: Article[] = [
     "word_count": 2007,
     "comment_count": 235,
     "likes": 183,
-    "category": "Economic Stimulus and Inflation Challenges"
+    "category": "Interpreting Economic Forces and Policy Responses"
   },
   {
     "id": 61636691,
@@ -6019,7 +6019,7 @@ export const articles: Article[] = [
     "word_count": 3704,
     "comment_count": 673,
     "likes": 100,
-    "category": "Challenges in Housing, AI Education, and Politics"
+    "category": "Democratic Party and Electoral Dynamics"
   },
   {
     "id": 61760608,
@@ -6032,7 +6032,7 @@ export const articles: Article[] = [
     "word_count": 1813,
     "comment_count": 519,
     "likes": 242,
-    "category": "Navigating Voter Demographics and Party Strategies"
+    "category": "Kamala Harris and Biden's Political Strategy"
   },
   {
     "id": 61904141,
@@ -6045,7 +6045,7 @@ export const articles: Article[] = [
     "word_count": 1800,
     "comment_count": 203,
     "likes": 147,
-    "category": "Challenges and Advances in Vaccine Development and Distribution"
+    "category": "Challenges and Innovations in Global Vaccination"
   },
   {
     "id": 62033902,
@@ -6058,7 +6058,7 @@ export const articles: Article[] = [
     "word_count": 2068,
     "comment_count": 242,
     "likes": 75,
-    "category": "Navigating Energy Policy Trade-offs and Climate Goals"
+    "category": "Biden's Energy and Climate Strategy"
   },
   {
     "id": 62060883,
@@ -6071,7 +6071,7 @@ export const articles: Article[] = [
     "word_count": 2975,
     "comment_count": 598,
     "likes": 188,
-    "category": "Strategic Messaging and Policy Prioritization for Elections"
+    "category": "Strategies and Challenges in Modern Politics"
   },
   {
     "id": 62102053,
@@ -6084,7 +6084,7 @@ export const articles: Article[] = [
     "word_count": 705,
     "comment_count": 162,
     "likes": 118,
-    "category": "Economic Myths and Policy Debates"
+    "category": "Complex Interplay of Politics and Policy"
   },
   {
     "id": 62508623,
@@ -6097,7 +6097,7 @@ export const articles: Article[] = [
     "word_count": 2063,
     "comment_count": 183,
     "likes": 92,
-    "category": "Navigating Energy Policy Trade-offs and Climate Goals"
+    "category": "Complexities and Debates in Climate Policy"
   },
   {
     "id": 62667855,
@@ -6110,7 +6110,7 @@ export const articles: Article[] = [
     "word_count": 2479,
     "comment_count": 407,
     "likes": 147,
-    "category": "Balancing Market Growth and Government Efficiency"
+    "category": "Complex Intersections in Policy and Health"
   },
   {
     "id": 62717990,
@@ -6123,7 +6123,7 @@ export const articles: Article[] = [
     "word_count": 1531,
     "comment_count": 130,
     "likes": 174,
-    "category": "Challenges and Advances in Vaccine Development and Distribution"
+    "category": "Challenges and Innovations in Global Vaccination"
   },
   {
     "id": 62789022,
@@ -6136,7 +6136,7 @@ export const articles: Article[] = [
     "word_count": 2736,
     "comment_count": 364,
     "likes": 84,
-    "category": "Challenges in Housing, AI Education, and Politics"
+    "category": "Democratic Party and Electoral Dynamics"
   },
   {
     "id": 62988475,
@@ -6149,7 +6149,7 @@ export const articles: Article[] = [
     "word_count": 985,
     "comment_count": 502,
     "likes": 105,
-    "category": "Strategic Messaging and Policy Prioritization for Elections"
+    "category": "Exploring Welfare and Economic Policy Reforms"
   },
   {
     "id": 63680761,
@@ -6175,7 +6175,7 @@ export const articles: Article[] = [
     "word_count": 3659,
     "comment_count": 271,
     "likes": 76,
-    "category": "Challenges and Strategies for Democrats in Modern Politics"
+    "category": "Democratic Party and Electoral Dynamics"
   },
   {
     "id": 64200864,
@@ -6188,7 +6188,7 @@ export const articles: Article[] = [
     "word_count": 2325,
     "comment_count": 95,
     "likes": 109,
-    "category": "Electoral Innovations and Democratic Challenges"
+    "category": "Future Democratic Strategies for 2024"
   },
   {
     "id": 64793172,
@@ -6201,7 +6201,7 @@ export const articles: Article[] = [
     "word_count": 3588,
     "comment_count": 434,
     "likes": 77,
-    "category": "Challenges and Strategies for Democrats in Modern Politics"
+    "category": "Democratic Party and Electoral Dynamics"
   },
   {
     "id": 65737481,
@@ -6214,7 +6214,7 @@ export const articles: Article[] = [
     "word_count": 2895,
     "comment_count": 179,
     "likes": 162,
-    "category": "Urban Evolution and Housing Challenges"
+    "category": "Tourism and Housing Dynamics in Urban Landscapes"
   },
   {
     "id": 65785401,
@@ -6227,7 +6227,7 @@ export const articles: Article[] = [
     "word_count": 1826,
     "comment_count": 244,
     "likes": 95,
-    "category": "Balancing Market Growth and Government Efficiency"
+    "category": "Exploring Welfare and Economic Policy Reforms"
   },
   {
     "id": 65843580,
@@ -6240,7 +6240,7 @@ export const articles: Article[] = [
     "word_count": 4405,
     "comment_count": 334,
     "likes": 81,
-    "category": "Challenges and Strategies for Democrats in Modern Politics"
+    "category": "Democratic Party and Electoral Dynamics"
   },
   {
     "id": 66061792,
@@ -6253,7 +6253,7 @@ export const articles: Article[] = [
     "word_count": 2636,
     "comment_count": 240,
     "likes": 157,
-    "category": "Democratic Legislative Challenges and Strategies"
+    "category": "Legislative Strategies and Challenges"
   },
   {
     "id": 66285562,
@@ -6266,7 +6266,7 @@ export const articles: Article[] = [
     "word_count": 3836,
     "comment_count": 237,
     "likes": 200,
-    "category": "Economic Myths and Policy Debates"
+    "category": "Complex Interplay of Politics and Policy"
   },
   {
     "id": 66504795,
@@ -6279,7 +6279,7 @@ export const articles: Article[] = [
     "word_count": 2647,
     "comment_count": 292,
     "likes": 178,
-    "category": "Democratic Legislative Challenges and Strategies"
+    "category": "Complexities and Debates in Climate Policy"
   },
   {
     "id": 66679912,
@@ -6292,7 +6292,7 @@ export const articles: Article[] = [
     "word_count": 2104,
     "comment_count": 393,
     "likes": 210,
-    "category": "Challenges and Opportunities for Urban Transportation"
+    "category": "Transportation and Urban Policy Challenges"
   },
   {
     "id": 66833698,
@@ -6305,7 +6305,7 @@ export const articles: Article[] = [
     "word_count": 2346,
     "comment_count": 292,
     "likes": 185,
-    "category": "Challenges and Advances in Vaccine Development and Distribution"
+    "category": "Reflections on Pandemic Responses"
   },
   {
     "id": 67028943,
@@ -6318,7 +6318,7 @@ export const articles: Article[] = [
     "word_count": 3546,
     "comment_count": 293,
     "likes": 93,
-    "category": "Education Reform and Teacher Policies"
+    "category": "Democratic Party and Electoral Dynamics"
   },
   {
     "id": 67128817,
@@ -6331,7 +6331,7 @@ export const articles: Article[] = [
     "word_count": 2102,
     "comment_count": 324,
     "likes": 113,
-    "category": "Electoral Innovations and Democratic Challenges"
+    "category": "Future Democratic Strategies for 2024"
   },
   {
     "id": 67219249,
@@ -6344,7 +6344,7 @@ export const articles: Article[] = [
     "word_count": 1770,
     "comment_count": 497,
     "likes": 140,
-    "category": "Strategic Messaging and Policy Prioritization for Elections"
+    "category": "Strategies and Challenges in Modern Politics"
   },
   {
     "id": 67297001,
@@ -6357,7 +6357,7 @@ export const articles: Article[] = [
     "word_count": 2525,
     "comment_count": 313,
     "likes": 167,
-    "category": "Fiscal Clash: Taxes, Cuts, and Debt"
+    "category": "Exploring Welfare and Economic Policy Reforms"
   },
   {
     "id": 67642825,
@@ -6370,7 +6370,7 @@ export const articles: Article[] = [
     "word_count": 2103,
     "comment_count": 195,
     "likes": 123,
-    "category": "Democratic Legislative Challenges and Strategies"
+    "category": "Strategies and Challenges in Modern Politics"
   },
   {
     "id": 67724659,
@@ -6383,7 +6383,7 @@ export const articles: Article[] = [
     "word_count": 2128,
     "comment_count": 194,
     "likes": 208,
-    "category": "Trump vs. Biden: Policy and Political Implications"
+    "category": "Kamala Harris and Biden's Political Strategy"
   },
   {
     "id": 67862093,
@@ -6396,7 +6396,7 @@ export const articles: Article[] = [
     "word_count": 5325,
     "comment_count": 383,
     "likes": 79,
-    "category": "Challenges in Housing, AI Education, and Politics"
+    "category": "Democratic Party and Electoral Dynamics"
   },
   {
     "id": 68190824,
@@ -6409,7 +6409,7 @@ export const articles: Article[] = [
     "word_count": 2561,
     "comment_count": 320,
     "likes": 125,
-    "category": "Balancing Competition and Regulation in Modern Markets"
+    "category": "Competition, Media, and Future Risks"
   },
   {
     "id": 68903073,
@@ -6422,7 +6422,7 @@ export const articles: Article[] = [
     "word_count": 2761,
     "comment_count": 506,
     "likes": 181,
-    "category": "Modern Political and Cultural Alignments"
+    "category": "Complex Interplay of Politics and Policy"
   },
   {
     "id": 69004628,
@@ -6435,7 +6435,7 @@ export const articles: Article[] = [
     "word_count": 3434,
     "comment_count": 298,
     "likes": 85,
-    "category": "Challenges and Strategies for Democrats in Modern Politics"
+    "category": "Democratic Party and Electoral Dynamics"
   },
   {
     "id": 69245031,
@@ -6448,7 +6448,7 @@ export const articles: Article[] = [
     "word_count": 2034,
     "comment_count": 476,
     "likes": 195,
-    "category": "Media's Role in Political Dynamics and Decline"
+    "category": "Competition, Media, and Future Risks"
   },
   {
     "id": 69515164,
@@ -6461,7 +6461,7 @@ export const articles: Article[] = [
     "word_count": 2060,
     "comment_count": 333,
     "likes": 179,
-    "category": "Fiscal Clash: Taxes, Cuts, and Debt"
+    "category": "Exploring Welfare and Economic Policy Reforms"
   },
   {
     "id": 69828105,
@@ -6474,7 +6474,7 @@ export const articles: Article[] = [
     "word_count": 2439,
     "comment_count": 172,
     "likes": 198,
-    "category": "Challenges and Advances in Vaccine Development and Distribution"
+    "category": "Reflections on Pandemic Responses"
   },
   {
     "id": 69956089,
@@ -6487,7 +6487,7 @@ export const articles: Article[] = [
     "word_count": 1744,
     "comment_count": 366,
     "likes": 168,
-    "category": "Economic Stimulus and Inflation Challenges"
+    "category": "Economic Policies and Partisan Divides"
   },
   {
     "id": 70000534,
@@ -6500,7 +6500,7 @@ export const articles: Article[] = [
     "word_count": 4216,
     "comment_count": 292,
     "likes": 76,
-    "category": "Challenges in Housing, AI Education, and Politics"
+    "category": "Democratic Party and Electoral Dynamics"
   },
   {
     "id": 70330779,
@@ -6513,7 +6513,7 @@ export const articles: Article[] = [
     "word_count": 2216,
     "comment_count": 308,
     "likes": 262,
-    "category": "Balancing Competition and Regulation in Modern Markets"
+    "category": "Competition, Media, and Future Risks"
   },
   {
     "id": 70469724,
@@ -6526,7 +6526,7 @@ export const articles: Article[] = [
     "word_count": 2301,
     "comment_count": 301,
     "likes": 148,
-    "category": "Economic Stimulus and Inflation Challenges"
+    "category": "Evolving Challenges in Higher Education"
   },
   {
     "id": 70608891,
@@ -6539,7 +6539,7 @@ export const articles: Article[] = [
     "word_count": 2235,
     "comment_count": 182,
     "likes": 107,
-    "category": "Trump vs. Biden: Policy and Political Implications"
+    "category": "Strategies and Challenges in Modern Politics"
   },
   {
     "id": 70864744,
@@ -6552,7 +6552,7 @@ export const articles: Article[] = [
     "word_count": 1521,
     "comment_count": 372,
     "likes": 181,
-    "category": "Trump vs. Biden: Policy and Political Implications"
+    "category": "Trump's Influence on Politics and Media"
   },
   {
     "id": 71054684,
@@ -6565,7 +6565,7 @@ export const articles: Article[] = [
     "word_count": 3789,
     "comment_count": 275,
     "likes": 71,
-    "category": "Challenges in Housing, AI Education, and Politics"
+    "category": "Democratic Party and Electoral Dynamics"
   },
   {
     "id": 71584256,
@@ -6578,7 +6578,7 @@ export const articles: Article[] = [
     "word_count": 2500,
     "comment_count": 320,
     "likes": 250,
-    "category": "Challenges in Modern American Education"
+    "category": "Evolving Dynamics in U.S. K-12 Education"
   },
   {
     "id": 71786926,
@@ -6591,7 +6591,7 @@ export const articles: Article[] = [
     "word_count": 1928,
     "comment_count": 377,
     "likes": 149,
-    "category": "Trump vs. Biden: Policy and Political Implications"
+    "category": "Trump's Influence on Politics and Media"
   },
   {
     "id": 71941523,
@@ -6604,7 +6604,7 @@ export const articles: Article[] = [
     "word_count": 1850,
     "comment_count": 268,
     "likes": 167,
-    "category": "Urban Housing, Policy, and Growth Dynamics"
+    "category": "Tourism and Housing Dynamics in Urban Landscapes"
   },
   {
     "id": 71970237,
@@ -6617,7 +6617,7 @@ export const articles: Article[] = [
     "word_count": 2102,
     "comment_count": 357,
     "likes": 200,
-    "category": "Racial and Economic Justice in America"
+    "category": "Complex Interplay of Politics and Policy"
   },
   {
     "id": 72130698,
@@ -6630,7 +6630,7 @@ export const articles: Article[] = [
     "word_count": 2434,
     "comment_count": 218,
     "likes": 61,
-    "category": "Challenges and Strategies for Democrats in Modern Politics"
+    "category": "Democratic Party and Electoral Dynamics"
   },
   {
     "id": 72273018,
@@ -6643,7 +6643,7 @@ export const articles: Article[] = [
     "word_count": 1479,
     "comment_count": 90,
     "likes": 145,
-    "category": "Economic Stimulus and Inflation Challenges"
+    "category": "Economic Policies and Partisan Divides"
   },
   {
     "id": 72587432,
@@ -6656,7 +6656,7 @@ export const articles: Article[] = [
     "word_count": 1698,
     "comment_count": 276,
     "likes": 115,
-    "category": "Balancing Market Growth and Government Efficiency"
+    "category": "Exploring Welfare and Economic Policy Reforms"
   },
   {
     "id": 72689224,
@@ -6669,7 +6669,7 @@ export const articles: Article[] = [
     "word_count": 2607,
     "comment_count": 212,
     "likes": 242,
-    "category": "Navigating Energy Policy Trade-offs and Climate Goals"
+    "category": "Complexities and Debates in Climate Policy"
   },
   {
     "id": 73006846,
@@ -6682,7 +6682,7 @@ export const articles: Article[] = [
     "word_count": 2300,
     "comment_count": 430,
     "likes": 160,
-    "category": "Education Reform and Teacher Policies"
+    "category": "Evolving Dynamics in U.S. K-12 Education"
   },
   {
     "id": 73166055,
@@ -6695,7 +6695,7 @@ export const articles: Article[] = [
     "word_count": 1858,
     "comment_count": 200,
     "likes": 125,
-    "category": "Urban Evolution and Housing Challenges"
+    "category": "Transportation and Urban Policy Challenges"
   },
   {
     "id": 73254041,
@@ -6708,7 +6708,7 @@ export const articles: Article[] = [
     "word_count": 3521,
     "comment_count": 308,
     "likes": 100,
-    "category": "Contested Narratives in the Israel-Palestine Conflict"
+    "category": "Geopolitical Tensions and Energy Dynamics"
   },
   {
     "id": 73546248,
@@ -6721,7 +6721,7 @@ export const articles: Article[] = [
     "word_count": 3366,
     "comment_count": 426,
     "likes": 180,
-    "category": "Immigration Debates and Policy Implications"
+    "category": "Complex Interplay of Politics and Policy"
   },
   {
     "id": 73638721,
@@ -6734,7 +6734,7 @@ export const articles: Article[] = [
     "word_count": 3036,
     "comment_count": 208,
     "likes": 229,
-    "category": "Contested Narratives in the Israel-Palestine Conflict"
+    "category": "Geopolitical Tensions and Energy Dynamics"
   },
   {
     "id": 73868099,
@@ -6747,7 +6747,7 @@ export const articles: Article[] = [
     "word_count": 2616,
     "comment_count": 120,
     "likes": 89,
-    "category": "Navigating Energy Policy Trade-offs and Climate Goals"
+    "category": "Biden's Energy and Climate Strategy"
   },
   {
     "id": 74135684,
@@ -6760,7 +6760,7 @@ export const articles: Article[] = [
     "word_count": 1875,
     "comment_count": 316,
     "likes": 156,
-    "category": "Reforming Policing and Crime Strategies"
+    "category": "Policing and Justice System Dynamics"
   },
   {
     "id": 74140735,
@@ -6773,7 +6773,7 @@ export const articles: Article[] = [
     "word_count": 3297,
     "comment_count": 465,
     "likes": 78,
-    "category": "Challenges and Strategies for Democrats in Modern Politics"
+    "category": "Future Democratic Strategies for 2024"
   },
   {
     "id": 74480700,
@@ -6786,7 +6786,7 @@ export const articles: Article[] = [
     "word_count": 2344,
     "comment_count": 208,
     "likes": 218,
-    "category": "Navigating Energy Policy Trade-offs and Climate Goals"
+    "category": "Energy Transition and Innovation Strategies"
   },
   {
     "id": 75013636,
@@ -6799,7 +6799,7 @@ export const articles: Article[] = [
     "word_count": 1677,
     "comment_count": 220,
     "likes": 104,
-    "category": "Balancing Competition and Regulation in Modern Markets"
+    "category": "Evolving Strategies in US-China Relations"
   },
   {
     "id": 75232689,
@@ -6812,7 +6812,7 @@ export const articles: Article[] = [
     "word_count": 2046,
     "comment_count": 224,
     "likes": 209,
-    "category": "Challenges and Opportunities for Urban Transportation"
+    "category": "Transportation and Urban Policy Challenges"
   },
   {
     "id": 75489758,
@@ -6825,7 +6825,7 @@ export const articles: Article[] = [
     "word_count": 3022,
     "comment_count": 385,
     "likes": 100,
-    "category": "Challenges in Housing, AI Education, and Politics"
+    "category": "Democratic Party and Electoral Dynamics"
   },
   {
     "id": 75584109,
@@ -6838,7 +6838,7 @@ export const articles: Article[] = [
     "word_count": 2026,
     "comment_count": 400,
     "likes": 179,
-    "category": "Strategies to Tackle Urban Crime and Gun Violence"
+    "category": "Policing and Justice System Dynamics"
   },
   {
     "id": 75632816,
@@ -6851,7 +6851,7 @@ export const articles: Article[] = [
     "word_count": 3223,
     "comment_count": 293,
     "likes": 83,
-    "category": "Challenges in Housing, AI Education, and Politics"
+    "category": "Democratic Party and Electoral Dynamics"
   },
   {
     "id": 75812096,
@@ -6864,7 +6864,7 @@ export const articles: Article[] = [
     "word_count": 2028,
     "comment_count": 431,
     "likes": 230,
-    "category": "Challenges in Modern American Education"
+    "category": "Competition, Media, and Future Risks"
   },
   {
     "id": 75920855,
@@ -6877,7 +6877,7 @@ export const articles: Article[] = [
     "word_count": 2326,
     "comment_count": 265,
     "likes": 137,
-    "category": "Urban Housing, Policy, and Growth Dynamics"
+    "category": "Tourism and Housing Dynamics in Urban Landscapes"
   },
   {
     "id": 76246796,
@@ -6890,7 +6890,7 @@ export const articles: Article[] = [
     "word_count": 2606,
     "comment_count": 228,
     "likes": 173,
-    "category": "Housing Policy Changes for Growth"
+    "category": "Zoning Reforms and Housing Scarcity"
   },
   {
     "id": 76633342,
@@ -6903,7 +6903,7 @@ export const articles: Article[] = [
     "word_count": 1896,
     "comment_count": 67,
     "likes": 113,
-    "category": "Navigating Energy Policy Trade-offs and Climate Goals"
+    "category": "Energy Transition and Innovation Strategies"
   },
   {
     "id": 76672613,
@@ -6916,7 +6916,7 @@ export const articles: Article[] = [
     "word_count": 1256,
     "comment_count": 157,
     "likes": 141,
-    "category": "Economic Myths and Policy Debates"
+    "category": "Complex Interplay of Politics and Policy"
   },
   {
     "id": 77568330,
@@ -6929,7 +6929,7 @@ export const articles: Article[] = [
     "word_count": 2913,
     "comment_count": 158,
     "likes": 142,
-    "category": "Navigating Energy Policy Trade-offs and Climate Goals"
+    "category": "Geopolitical Tensions and Energy Dynamics"
   },
   {
     "id": 77653288,
@@ -6942,7 +6942,7 @@ export const articles: Article[] = [
     "word_count": 2017,
     "comment_count": 259,
     "likes": 152,
-    "category": "Urban Housing, Policy, and Growth Dynamics"
+    "category": "Zoning Reforms and Housing Scarcity"
   },
   {
     "id": 77835827,
@@ -6955,7 +6955,7 @@ export const articles: Article[] = [
     "word_count": 3493,
     "comment_count": 441,
     "likes": 88,
-    "category": "Challenges in Housing, AI Education, and Politics"
+    "category": "Democratic Party and Electoral Dynamics"
   },
   {
     "id": 78108991,
@@ -6968,7 +6968,7 @@ export const articles: Article[] = [
     "word_count": 2175,
     "comment_count": 255,
     "likes": 229,
-    "category": "US-China Geopolitical and Economic Strategies"
+    "category": "Evolving Strategies in US-China Relations"
   },
   {
     "id": 78234449,
@@ -6981,7 +6981,7 @@ export const articles: Article[] = [
     "word_count": 1974,
     "comment_count": 242,
     "likes": 142,
-    "category": "Balancing Market Growth and Government Efficiency"
+    "category": "Interpreting Economic Forces and Policy Responses"
   },
   {
     "id": 78427282,
@@ -6994,7 +6994,7 @@ export const articles: Article[] = [
     "word_count": 2886,
     "comment_count": 343,
     "likes": 154,
-    "category": "Contested Narratives in the Israel-Palestine Conflict"
+    "category": "Geopolitical Tensions and Energy Dynamics"
   },
   {
     "id": 78581735,
@@ -7007,7 +7007,7 @@ export const articles: Article[] = [
     "word_count": 2120,
     "comment_count": 259,
     "likes": 179,
-    "category": "Navigating Voter Demographics and Party Strategies"
+    "category": "Strategies and Challenges in Modern Politics"
   },
   {
     "id": 78751941,
@@ -7020,7 +7020,7 @@ export const articles: Article[] = [
     "word_count": 2230,
     "comment_count": 219,
     "likes": 123,
-    "category": "Economic Stimulus and Inflation Challenges"
+    "category": "Interpreting Economic Forces and Policy Responses"
   },
   {
     "id": 79072865,
@@ -7033,7 +7033,7 @@ export const articles: Article[] = [
     "word_count": 2498,
     "comment_count": 306,
     "likes": 209,
-    "category": "Navigating Voter Demographics and Party Strategies"
+    "category": "Strategies and Challenges in Modern Politics"
   },
   {
     "id": 79379632,
@@ -7046,7 +7046,7 @@ export const articles: Article[] = [
     "word_count": 3168,
     "comment_count": 545,
     "likes": 81,
-    "category": "Challenges and Strategies for Democrats in Modern Politics"
+    "category": "Democratic Party and Electoral Dynamics"
   },
   {
     "id": 79622747,
@@ -7059,7 +7059,7 @@ export const articles: Article[] = [
     "word_count": 3641,
     "comment_count": 67,
     "likes": 71,
-    "category": "Economic Myths and Policy Debates"
+    "category": "Competition, Media, and Future Risks"
   },
   {
     "id": 79778119,
@@ -7072,7 +7072,7 @@ export const articles: Article[] = [
     "word_count": 2176,
     "comment_count": 402,
     "likes": 169,
-    "category": "Navigating Energy Policy Trade-offs and Climate Goals"
+    "category": "Complexities and Debates in Climate Policy"
   },
   {
     "id": 79827888,
@@ -7085,7 +7085,7 @@ export const articles: Article[] = [
     "word_count": 5412,
     "comment_count": 51,
     "likes": 36,
-    "category": "Economic Myths and Policy Debates"
+    "category": "Competition, Media, and Future Risks"
   },
   {
     "id": 79982868,
@@ -7098,7 +7098,7 @@ export const articles: Article[] = [
     "word_count": 2178,
     "comment_count": 227,
     "likes": 182,
-    "category": "US-China Geopolitical and Economic Strategies"
+    "category": "Evolving Strategies in US-China Relations"
   },
   {
     "id": 80475018,
@@ -7111,7 +7111,7 @@ export const articles: Article[] = [
     "word_count": 3543,
     "comment_count": 267,
     "likes": 97,
-    "category": "Challenges and Strategies for Democrats in Modern Politics"
+    "category": "Democratic Party and Electoral Dynamics"
   },
   {
     "id": 81292136,
@@ -7124,7 +7124,7 @@ export const articles: Article[] = [
     "word_count": 2433,
     "comment_count": 364,
     "likes": 180,
-    "category": "Balancing Competition and Regulation in Modern Markets"
+    "category": "Competition, Media, and Future Risks"
   },
   {
     "id": 81372927,
@@ -7137,7 +7137,7 @@ export const articles: Article[] = [
     "word_count": 2291,
     "comment_count": 493,
     "likes": 174,
-    "category": "Strategies to Tackle Urban Crime and Gun Violence"
+    "category": "Transportation and Urban Policy Challenges"
   },
   {
     "id": 81631713,
@@ -7150,7 +7150,7 @@ export const articles: Article[] = [
     "word_count": 2530,
     "comment_count": 149,
     "likes": 118,
-    "category": "Economic Myths and Policy Debates"
+    "category": "Competition, Media, and Future Risks"
   },
   {
     "id": 81750627,
@@ -7163,7 +7163,7 @@ export const articles: Article[] = [
     "word_count": 2301,
     "comment_count": 376,
     "likes": 174,
-    "category": "Trump vs. Biden: Policy and Political Implications"
+    "category": "Navigating Fiscal Policy and Debt Challenges"
   },
   {
     "id": 82102641,
@@ -7176,7 +7176,7 @@ export const articles: Article[] = [
     "word_count": 3781,
     "comment_count": 301,
     "likes": 67,
-    "category": "Challenges and Strategies for Democrats in Modern Politics"
+    "category": "Democratic Party and Electoral Dynamics"
   },
   {
     "id": 82320227,
@@ -7189,7 +7189,7 @@ export const articles: Article[] = [
     "word_count": 2296,
     "comment_count": 312,
     "likes": 217,
-    "category": "Trump vs. Biden: Policy and Political Implications"
+    "category": "Trump's Influence on Politics and Media"
   },
   {
     "id": 83218989,
@@ -7202,7 +7202,7 @@ export const articles: Article[] = [
     "word_count": 3951,
     "comment_count": 369,
     "likes": 85,
-    "category": "Challenges and Strategies for Democrats in Modern Politics"
+    "category": "Democratic Party and Electoral Dynamics"
   },
   {
     "id": 83441825,
@@ -7215,7 +7215,7 @@ export const articles: Article[] = [
     "word_count": 2050,
     "comment_count": 298,
     "likes": 212,
-    "category": "Democratic Legislative Challenges and Strategies"
+    "category": "Economic Policies and Partisan Divides"
   },
   {
     "id": 83900508,
@@ -7228,7 +7228,7 @@ export const articles: Article[] = [
     "word_count": 3253,
     "comment_count": 276,
     "likes": 208,
-    "category": "Trump vs. Biden: Policy and Political Implications"
+    "category": "Strategies and Challenges in Modern Politics"
   },
   {
     "id": 84371323,
@@ -7241,7 +7241,7 @@ export const articles: Article[] = [
     "word_count": 2171,
     "comment_count": 258,
     "likes": 200,
-    "category": "Trump vs. Biden: Policy and Political Implications"
+    "category": "Trump's Influence on Politics and Media"
   },
   {
     "id": 84489473,
@@ -7254,7 +7254,7 @@ export const articles: Article[] = [
     "word_count": 2771,
     "comment_count": 538,
     "likes": 194,
-    "category": "Balancing Competition and Regulation in Modern Markets"
+    "category": "Competition, Media, and Future Risks"
   },
   {
     "id": 84695778,
@@ -7267,7 +7267,7 @@ export const articles: Article[] = [
     "word_count": 2733,
     "comment_count": 261,
     "likes": 96,
-    "category": "Challenges and Strategies for Democrats in Modern Politics"
+    "category": "Democratic Party and Electoral Dynamics"
   },
   {
     "id": 85218122,
@@ -7280,7 +7280,7 @@ export const articles: Article[] = [
     "word_count": 1978,
     "comment_count": 205,
     "likes": 173,
-    "category": "Trump vs. Biden: Policy and Political Implications"
+    "category": "Kamala Harris and Biden's Political Strategy"
   },
   {
     "id": 85410902,
@@ -7293,7 +7293,7 @@ export const articles: Article[] = [
     "word_count": 2345,
     "comment_count": 228,
     "likes": 151,
-    "category": "Balancing Market Growth and Government Efficiency"
+    "category": "Economic Policies and Partisan Divides"
   },
   {
     "id": 85908926,
@@ -7306,7 +7306,7 @@ export const articles: Article[] = [
     "word_count": 2292,
     "comment_count": 113,
     "likes": 161,
-    "category": "Balancing Competition and Regulation in Modern Markets"
+    "category": "Competition, Media, and Future Risks"
   },
   {
     "id": 86223678,
@@ -7319,7 +7319,7 @@ export const articles: Article[] = [
     "word_count": 3515,
     "comment_count": 257,
     "likes": 130,
-    "category": "Challenges and Strategies for Democrats in Modern Politics"
+    "category": "Democratic Party and Electoral Dynamics"
   },
   {
     "id": 86347660,
@@ -7332,7 +7332,7 @@ export const articles: Article[] = [
     "word_count": 2408,
     "comment_count": 252,
     "likes": 141,
-    "category": "Navigating Energy Policy Trade-offs and Climate Goals"
+    "category": "Complexities and Debates in Climate Policy"
   },
   {
     "id": 86783389,
@@ -7345,7 +7345,7 @@ export const articles: Article[] = [
     "word_count": 2204,
     "comment_count": 144,
     "likes": 200,
-    "category": "Urban Evolution and Housing Challenges"
+    "category": "Tourism and Housing Dynamics in Urban Landscapes"
   },
   {
     "id": 87219657,
@@ -7358,7 +7358,7 @@ export const articles: Article[] = [
     "word_count": 2647,
     "comment_count": 215,
     "likes": 185,
-    "category": "Media's Role in Political Dynamics and Decline"
+    "category": "Competition, Media, and Future Risks"
   },
   {
     "id": 87551177,
@@ -7371,7 +7371,7 @@ export const articles: Article[] = [
     "word_count": 2252,
     "comment_count": 163,
     "likes": 173,
-    "category": "Navigating Energy Policy Trade-offs and Climate Goals"
+    "category": "Biden's Energy and Climate Strategy"
   },
   {
     "id": 87749070,
@@ -7384,7 +7384,7 @@ export const articles: Article[] = [
     "word_count": 4388,
     "comment_count": 525,
     "likes": 128,
-    "category": "Challenges in Housing, AI Education, and Politics"
+    "category": "Democratic Party and Electoral Dynamics"
   },
   {
     "id": 88097777,
@@ -7397,7 +7397,7 @@ export const articles: Article[] = [
     "word_count": 2390,
     "comment_count": 402,
     "likes": 179,
-    "category": "Strategic Messaging and Policy Prioritization for Elections"
+    "category": "Strategies and Challenges in Modern Politics"
   },
   {
     "id": 88219618,
@@ -7410,7 +7410,7 @@ export const articles: Article[] = [
     "word_count": 2978,
     "comment_count": 122,
     "likes": 100,
-    "category": "Fiscal Clash: Taxes, Cuts, and Debt"
+    "category": "Exploring Welfare and Economic Policy Reforms"
   },
   {
     "id": 88579100,
@@ -7423,7 +7423,7 @@ export const articles: Article[] = [
     "word_count": 2713,
     "comment_count": 450,
     "likes": 363,
-    "category": "Media's Role in Political Dynamics and Decline"
+    "category": "Competition, Media, and Future Risks"
   },
   {
     "id": 88818373,
@@ -7436,7 +7436,7 @@ export const articles: Article[] = [
     "word_count": 1684,
     "comment_count": 331,
     "likes": 188,
-    "category": "Balancing Market Growth and Government Efficiency"
+    "category": "Complex Intersections in Policy and Health"
   },
   {
     "id": 88859649,
@@ -7449,7 +7449,7 @@ export const articles: Article[] = [
     "word_count": 2463,
     "comment_count": 256,
     "likes": 304,
-    "category": "Challenges and Opportunities for Urban Transportation"
+    "category": "Challenges and Opportunities in Urban Transit and Development"
   },
   {
     "id": 89196577,
@@ -7462,7 +7462,7 @@ export const articles: Article[] = [
     "word_count": 3894,
     "comment_count": 383,
     "likes": 106,
-    "category": "Challenges in Housing, AI Education, and Politics"
+    "category": "Democratic Party and Electoral Dynamics"
   },
   {
     "id": 89412470,
@@ -7475,7 +7475,7 @@ export const articles: Article[] = [
     "word_count": 2281,
     "comment_count": 238,
     "likes": 136,
-    "category": "Balancing Competition and Regulation in Modern Markets"
+    "category": "Evolving Challenges in Higher Education"
   },
   {
     "id": 89637783,
@@ -7488,7 +7488,7 @@ export const articles: Article[] = [
     "word_count": 2286,
     "comment_count": 228,
     "likes": 232,
-    "category": "Strategic Messaging and Policy Prioritization for Elections"
+    "category": "Strategies and Challenges in Modern Politics"
   },
   {
     "id": 89799685,
@@ -7501,7 +7501,7 @@ export const articles: Article[] = [
     "word_count": 1919,
     "comment_count": 699,
     "likes": 284,
-    "category": "Modern Political and Cultural Alignments"
+    "category": "Competition, Media, and Future Risks"
   },
   {
     "id": 90227373,
@@ -7514,7 +7514,7 @@ export const articles: Article[] = [
     "word_count": 3392,
     "comment_count": 272,
     "likes": 119,
-    "category": "Media's Role in Political Dynamics and Decline"
+    "category": "Competition, Media, and Future Risks"
   },
   {
     "id": 90417774,
@@ -7527,7 +7527,7 @@ export const articles: Article[] = [
     "word_count": 2564,
     "comment_count": 247,
     "likes": 244,
-    "category": "Balancing Competition and Regulation in Modern Markets"
+    "category": "Competition, Media, and Future Risks"
   },
   {
     "id": 90613026,
@@ -7540,7 +7540,7 @@ export const articles: Article[] = [
     "word_count": 4093,
     "comment_count": 465,
     "likes": 96,
-    "category": "Challenges and Strategies for Democrats in Modern Politics"
+    "category": "Kamala Harris and Biden's Political Strategy"
   },
   {
     "id": 90873639,
@@ -7553,7 +7553,7 @@ export const articles: Article[] = [
     "word_count": 1926,
     "comment_count": 154,
     "likes": 84,
-    "category": "Economic Stimulus and Inflation Challenges"
+    "category": "Interpreting Economic Forces and Policy Responses"
   },
   {
     "id": 91040205,
@@ -7566,7 +7566,7 @@ export const articles: Article[] = [
     "word_count": 2255,
     "comment_count": 424,
     "likes": 173,
-    "category": "Urban Housing, Policy, and Growth Dynamics"
+    "category": "Zoning Reforms and Housing Scarcity"
   },
   {
     "id": 91424801,
@@ -7579,7 +7579,7 @@ export const articles: Article[] = [
     "word_count": 2374,
     "comment_count": 166,
     "likes": 266,
-    "category": "Media's Role in Political Dynamics and Decline"
+    "category": "Competition, Media, and Future Risks"
   },
   {
     "id": 91838658,
@@ -7592,7 +7592,7 @@ export const articles: Article[] = [
     "word_count": 2274,
     "comment_count": 225,
     "likes": 159,
-    "category": "Improving Prediction Accuracy and Calibration"
+    "category": "Democratic Party and Electoral Dynamics"
   },
   {
     "id": 91892733,
@@ -7605,7 +7605,7 @@ export const articles: Article[] = [
     "word_count": 1732,
     "comment_count": 298,
     "likes": 181,
-    "category": "Improving Prediction Accuracy and Calibration"
+    "category": "Future Democratic Strategies for 2024"
   },
   {
     "id": 91985864,
@@ -7618,7 +7618,7 @@ export const articles: Article[] = [
     "word_count": 4183,
     "comment_count": 181,
     "likes": 94,
-    "category": "Challenges in Housing, AI Education, and Politics"
+    "category": "Democratic Party and Electoral Dynamics"
   },
   {
     "id": 92091362,
@@ -7631,7 +7631,7 @@ export const articles: Article[] = [
     "word_count": 717,
     "comment_count": 214,
     "likes": 155,
-    "category": "Reforming Policing and Crime Strategies"
+    "category": "Policing and Justice System Dynamics"
   },
   {
     "id": 92669045,
@@ -7644,7 +7644,7 @@ export const articles: Article[] = [
     "word_count": 2329,
     "comment_count": 121,
     "likes": 69,
-    "category": "Economic Stimulus and Inflation Challenges"
+    "category": "Interpreting Economic Forces and Policy Responses"
   },
   {
     "id": 92903238,
@@ -7657,7 +7657,7 @@ export const articles: Article[] = [
     "word_count": 2133,
     "comment_count": 253,
     "likes": 196,
-    "category": "Democratic Legislative Challenges and Strategies"
+    "category": "Economic Policies and Partisan Divides"
   },
   {
     "id": 93095527,
@@ -7670,7 +7670,7 @@ export const articles: Article[] = [
     "word_count": 5079,
     "comment_count": 363,
     "likes": 113,
-    "category": "Challenges in Housing, AI Education, and Politics"
+    "category": "Democratic Party and Electoral Dynamics"
   },
   {
     "id": 93547723,
@@ -7683,7 +7683,7 @@ export const articles: Article[] = [
     "word_count": 2204,
     "comment_count": 242,
     "likes": 108,
-    "category": "Trump vs. Biden: Policy and Political Implications"
+    "category": "Trump's Influence on Politics and Media"
   },
   {
     "id": 94305150,
@@ -7696,7 +7696,7 @@ export const articles: Article[] = [
     "word_count": 2616,
     "comment_count": 311,
     "likes": 247,
-    "category": "Challenges and Opportunities for Urban Transportation"
+    "category": "Transportation and Urban Policy Challenges"
   },
   {
     "id": 94483917,
@@ -7709,7 +7709,7 @@ export const articles: Article[] = [
     "word_count": 2338,
     "comment_count": 343,
     "likes": 159,
-    "category": "Trump vs. Biden: Policy and Political Implications"
+    "category": "Kamala Harris and Biden's Political Strategy"
   },
   {
     "id": 94530532,
@@ -7722,7 +7722,7 @@ export const articles: Article[] = [
     "word_count": 4048,
     "comment_count": 346,
     "likes": 107,
-    "category": "Challenges in Housing, AI Education, and Politics"
+    "category": "Democratic Party and Electoral Dynamics"
   },
   {
     "id": 94620281,
@@ -7748,7 +7748,7 @@ export const articles: Article[] = [
     "word_count": 2429,
     "comment_count": 697,
     "likes": 446,
-    "category": "Challenges in Modern American Education"
+    "category": "Evolving Challenges in Higher Education"
   },
   {
     "id": 95523951,
@@ -7761,7 +7761,7 @@ export const articles: Article[] = [
     "word_count": 3042,
     "comment_count": 213,
     "likes": 133,
-    "category": "Fiscal Clash: Taxes, Cuts, and Debt"
+    "category": "Navigating Fiscal Policy and Debt Challenges"
   },
   {
     "id": 95825718,
@@ -7774,7 +7774,7 @@ export const articles: Article[] = [
     "word_count": 2301,
     "comment_count": 292,
     "likes": 168,
-    "category": "Challenges and Opportunities for Urban Transportation"
+    "category": "Transportation and Urban Policy Challenges"
   },
   {
     "id": 95838542,
@@ -7787,7 +7787,7 @@ export const articles: Article[] = [
     "word_count": 2591,
     "comment_count": 394,
     "likes": 216,
-    "category": "Media's Role in Political Dynamics and Decline"
+    "category": "Competition, Media, and Future Risks"
   },
   {
     "id": 96085279,
@@ -7800,7 +7800,7 @@ export const articles: Article[] = [
     "word_count": 3688,
     "comment_count": 460,
     "likes": 167,
-    "category": "Housing Policy Changes for Growth"
+    "category": "Zoning Reforms and Housing Scarcity"
   },
   {
     "id": 96474788,
@@ -7813,7 +7813,7 @@ export const articles: Article[] = [
     "word_count": 2703,
     "comment_count": 274,
     "likes": 169,
-    "category": "Racial and Economic Justice in America"
+    "category": "Complex Interplay of Politics and Policy"
   },
   {
     "id": 96502847,
@@ -7826,7 +7826,7 @@ export const articles: Article[] = [
     "word_count": 2482,
     "comment_count": 257,
     "likes": 139,
-    "category": "Navigating Energy Policy Trade-offs and Climate Goals"
+    "category": "Energy Transition and Innovation Strategies"
   },
   {
     "id": 97471398,
@@ -7839,7 +7839,7 @@ export const articles: Article[] = [
     "word_count": 3315,
     "comment_count": 405,
     "likes": 143,
-    "category": "Challenges in Housing, AI Education, and Politics"
+    "category": "Evolving Challenges in Higher Education"
   },
   {
     "id": 97693814,
@@ -7852,7 +7852,7 @@ export const articles: Article[] = [
     "word_count": 2674,
     "comment_count": 231,
     "likes": 145,
-    "category": "Urban Evolution and Housing Challenges"
+    "category": "Zoning Reforms and Housing Scarcity"
   },
   {
     "id": 97886423,
@@ -7865,7 +7865,7 @@ export const articles: Article[] = [
     "word_count": 2556,
     "comment_count": 538,
     "likes": 183,
-    "category": "Strategies to Tackle Urban Crime and Gun Violence"
+    "category": "Policing and Justice System Dynamics"
   },
   {
     "id": 97902560,
@@ -7878,7 +7878,7 @@ export const articles: Article[] = [
     "word_count": 1995,
     "comment_count": 212,
     "likes": 156,
-    "category": "Trump vs. Biden: Policy and Political Implications"
+    "category": "Kamala Harris and Biden's Political Strategy"
   },
   {
     "id": 98194166,
@@ -7891,7 +7891,7 @@ export const articles: Article[] = [
     "word_count": 2624,
     "comment_count": 286,
     "likes": 146,
-    "category": "Economic Myths and Policy Debates"
+    "category": "Complex Interplay of Politics and Policy"
   },
   {
     "id": 98492911,
@@ -7904,7 +7904,7 @@ export const articles: Article[] = [
     "word_count": 1885,
     "comment_count": 269,
     "likes": 172,
-    "category": "Fiscal Clash: Taxes, Cuts, and Debt"
+    "category": "Navigating Fiscal Policy and Debt Challenges"
   },
   {
     "id": 98659742,
@@ -7917,7 +7917,7 @@ export const articles: Article[] = [
     "word_count": 3557,
     "comment_count": 545,
     "likes": 111,
-    "category": "Challenges and Strategies for Democrats in Modern Politics"
+    "category": "Economic Policies and Partisan Divides"
   },
   {
     "id": 99102422,
@@ -7930,7 +7930,7 @@ export const articles: Article[] = [
     "word_count": 2159,
     "comment_count": 221,
     "likes": 172,
-    "category": "Economic Stimulus and Inflation Challenges"
+    "category": "Interpreting Economic Forces and Policy Responses"
   },
   {
     "id": 99270290,
@@ -7943,7 +7943,7 @@ export const articles: Article[] = [
     "word_count": 2187,
     "comment_count": 216,
     "likes": 96,
-    "category": "Fiscal Clash: Taxes, Cuts, and Debt"
+    "category": "Navigating Fiscal Policy and Debt Challenges"
   },
   {
     "id": 99298471,
@@ -7956,7 +7956,7 @@ export const articles: Article[] = [
     "word_count": 2193,
     "comment_count": 375,
     "likes": 174,
-    "category": "Racial and Economic Justice in America"
+    "category": "Complex Interplay of Politics and Policy"
   },
   {
     "id": 99938639,
@@ -7969,7 +7969,7 @@ export const articles: Article[] = [
     "word_count": 3005,
     "comment_count": 412,
     "likes": 94,
-    "category": "Challenges in Housing, AI Education, and Politics"
+    "category": "Democratic Party and Electoral Dynamics"
   },
   {
     "id": 100006765,
@@ -7982,7 +7982,7 @@ export const articles: Article[] = [
     "word_count": 2283,
     "comment_count": 402,
     "likes": 241,
-    "category": "Urban Evolution and Housing Challenges"
+    "category": "Complex Intersections in Policy and Health"
   },
   {
     "id": 100564836,
@@ -7995,7 +7995,7 @@ export const articles: Article[] = [
     "word_count": 2512,
     "comment_count": 250,
     "likes": 138,
-    "category": "Urban Evolution and Housing Challenges"
+    "category": "Challenges and Opportunities in Urban Transit and Development"
   },
   {
     "id": 100671895,
@@ -8008,7 +8008,7 @@ export const articles: Article[] = [
     "word_count": 1939,
     "comment_count": 179,
     "likes": 126,
-    "category": "Urban Housing, Policy, and Growth Dynamics"
+    "category": "Tourism and Housing Dynamics in Urban Landscapes"
   },
   {
     "id": 101213330,
@@ -8021,7 +8021,7 @@ export const articles: Article[] = [
     "word_count": 2768,
     "comment_count": 191,
     "likes": 132,
-    "category": "US-China Geopolitical and Economic Strategies"
+    "category": "Evolving Strategies in US-China Relations"
   },
   {
     "id": 101399566,
@@ -8034,7 +8034,7 @@ export const articles: Article[] = [
     "word_count": 2131,
     "comment_count": 293,
     "likes": 95,
-    "category": "Economic Stimulus and Inflation Challenges"
+    "category": "Interpreting Economic Forces and Policy Responses"
   },
   {
     "id": 101496493,
@@ -8047,7 +8047,7 @@ export const articles: Article[] = [
     "word_count": 4250,
     "comment_count": 391,
     "likes": 88,
-    "category": "Challenges and Strategies for Democrats in Modern Politics"
+    "category": "Democratic Party and Electoral Dynamics"
   },
   {
     "id": 101843994,
@@ -8060,7 +8060,7 @@ export const articles: Article[] = [
     "word_count": 2734,
     "comment_count": 329,
     "likes": 168,
-    "category": "Balancing Market Growth and Government Efficiency"
+    "category": "Exploring Welfare and Economic Policy Reforms"
   },
   {
     "id": 102098862,
@@ -8073,7 +8073,7 @@ export const articles: Article[] = [
     "word_count": 2734,
     "comment_count": 668,
     "likes": 393,
-    "category": "Modern Political and Cultural Alignments"
+    "category": "Complex Intersections in Policy and Health"
   },
   {
     "id": 102139433,
@@ -8086,7 +8086,7 @@ export const articles: Article[] = [
     "word_count": 2764,
     "comment_count": 303,
     "likes": 195,
-    "category": "Reforming Policing and Crime Strategies"
+    "category": "Policing and Justice System Dynamics"
   },
   {
     "id": 102437209,
@@ -8099,7 +8099,7 @@ export const articles: Article[] = [
     "word_count": 2187,
     "comment_count": 217,
     "likes": 101,
-    "category": "Fiscal Clash: Taxes, Cuts, and Debt"
+    "category": "Navigating Fiscal Policy and Debt Challenges"
   },
   {
     "id": 102628062,
@@ -8112,7 +8112,7 @@ export const articles: Article[] = [
     "word_count": 2520,
     "comment_count": 63,
     "likes": 88,
-    "category": "Navigating Energy Policy Trade-offs and Climate Goals"
+    "category": "Energy Transition and Innovation Strategies"
   },
   {
     "id": 102656721,
@@ -8125,7 +8125,7 @@ export const articles: Article[] = [
     "word_count": 2460,
     "comment_count": 258,
     "likes": 258,
-    "category": "Media's Role in Political Dynamics and Decline"
+    "category": "Competition, Media, and Future Risks"
   },
   {
     "id": 102749378,
@@ -8138,7 +8138,7 @@ export const articles: Article[] = [
     "word_count": 2300,
     "comment_count": 596,
     "likes": 254,
-    "category": "Modern Political and Cultural Alignments"
+    "category": "Complex Interplay of Politics and Policy"
   },
   {
     "id": 102874108,
@@ -8151,7 +8151,7 @@ export const articles: Article[] = [
     "word_count": 4337,
     "comment_count": 485,
     "likes": 107,
-    "category": "Challenges in Housing, AI Education, and Politics"
+    "category": "Democratic Party and Electoral Dynamics"
   },
   {
     "id": 103365512,
@@ -8164,7 +8164,7 @@ export const articles: Article[] = [
     "word_count": 1793,
     "comment_count": 693,
     "likes": 313,
-    "category": "Strategies to Tackle Urban Crime and Gun Violence"
+    "category": "Policing and Justice System Dynamics"
   },
   {
     "id": 104440770,
@@ -8177,7 +8177,7 @@ export const articles: Article[] = [
     "word_count": 3468,
     "comment_count": 363,
     "likes": 100,
-    "category": "Challenges and Strategies for Democrats in Modern Politics"
+    "category": "Democratic Party and Electoral Dynamics"
   },
   {
     "id": 105202767,
@@ -8190,7 +8190,7 @@ export const articles: Article[] = [
     "word_count": 2837,
     "comment_count": 576,
     "likes": 401,
-    "category": "Modern Political and Cultural Alignments"
+    "category": "Complex Interplay of Politics and Policy"
   },
   {
     "id": 105318311,
@@ -8203,7 +8203,7 @@ export const articles: Article[] = [
     "word_count": 2039,
     "comment_count": 411,
     "likes": 155,
-    "category": "US-China Geopolitical and Economic Strategies"
+    "category": "Reflections on Pandemic Responses"
   },
   {
     "id": 105631761,
@@ -8216,7 +8216,7 @@ export const articles: Article[] = [
     "word_count": 2083,
     "comment_count": 113,
     "likes": 233,
-    "category": "Reforming Policing and Crime Strategies"
+    "category": "Policing and Justice System Dynamics"
   },
   {
     "id": 105714387,
@@ -8229,7 +8229,7 @@ export const articles: Article[] = [
     "word_count": 4145,
     "comment_count": 447,
     "likes": 94,
-    "category": "Challenges and Opportunities for Urban Transportation"
+    "category": "Transportation and Urban Policy Challenges"
   },
   {
     "id": 105878852,
@@ -8242,7 +8242,7 @@ export const articles: Article[] = [
     "word_count": 2437,
     "comment_count": 395,
     "likes": 168,
-    "category": "Education Reform and Teacher Policies"
+    "category": "Evolving Dynamics in U.S. K-12 Education"
   },
   {
     "id": 106195839,
@@ -8255,7 +8255,7 @@ export const articles: Article[] = [
     "word_count": 1922,
     "comment_count": 282,
     "likes": 151,
-    "category": "Navigating Energy Policy Trade-offs and Climate Goals"
+    "category": "Complexities and Debates in Climate Policy"
   },
   {
     "id": 106611175,
@@ -8268,7 +8268,7 @@ export const articles: Article[] = [
     "word_count": 1755,
     "comment_count": 484,
     "likes": 151,
-    "category": "Balancing Competition and Regulation in Modern Markets"
+    "category": "Challenges and Innovations in Sports and Gambling"
   },
   {
     "id": 106784146,
@@ -8281,7 +8281,7 @@ export const articles: Article[] = [
     "word_count": 2291,
     "comment_count": 218,
     "likes": 139,
-    "category": "Urban Evolution and Housing Challenges"
+    "category": "Transportation and Urban Policy Challenges"
   },
   {
     "id": 106816839,
@@ -8294,7 +8294,7 @@ export const articles: Article[] = [
     "word_count": 2859,
     "comment_count": 374,
     "likes": 179,
-    "category": "Education Reform and Teacher Policies"
+    "category": "Evolving Dynamics in U.S. K-12 Education"
   },
   {
     "id": 106887125,
@@ -8307,7 +8307,7 @@ export const articles: Article[] = [
     "word_count": 4335,
     "comment_count": 348,
     "likes": 94,
-    "category": "Challenges in Housing, AI Education, and Politics"
+    "category": "Democratic Party and Electoral Dynamics"
   },
   {
     "id": 107192700,
@@ -8320,7 +8320,7 @@ export const articles: Article[] = [
     "word_count": 2118,
     "comment_count": 184,
     "likes": 139,
-    "category": "US-China Geopolitical and Economic Strategies"
+    "category": "Economic Policies and Partisan Divides"
   },
   {
     "id": 107606583,
@@ -8333,7 +8333,7 @@ export const articles: Article[] = [
     "word_count": 2223,
     "comment_count": 306,
     "likes": 280,
-    "category": "Balancing Market Growth and Government Efficiency"
+    "category": "Exploring Welfare and Economic Policy Reforms"
   },
   {
     "id": 108162136,
@@ -8346,7 +8346,7 @@ export const articles: Article[] = [
     "word_count": 2824,
     "comment_count": 339,
     "likes": 126,
-    "category": "Balancing Competition and Regulation in Modern Markets"
+    "category": "Competition, Media, and Future Risks"
   },
   {
     "id": 108586336,
@@ -8359,7 +8359,7 @@ export const articles: Article[] = [
     "word_count": 3901,
     "comment_count": 355,
     "likes": 134,
-    "category": "Challenges in Housing, AI Education, and Politics"
+    "category": "Democratic Party and Electoral Dynamics"
   },
   {
     "id": 108645517,
@@ -8372,7 +8372,7 @@ export const articles: Article[] = [
     "word_count": 2011,
     "comment_count": 210,
     "likes": 199,
-    "category": "Navigating Energy Policy Trade-offs and Climate Goals"
+    "category": "Energy Transition and Innovation Strategies"
   },
   {
     "id": 108988657,
@@ -8385,7 +8385,7 @@ export const articles: Article[] = [
     "word_count": 2217,
     "comment_count": 247,
     "likes": 110,
-    "category": "Contested Narratives in the Israel-Palestine Conflict"
+    "category": "Geopolitical Tensions and Energy Dynamics"
   },
   {
     "id": 109048678,
@@ -8398,7 +8398,7 @@ export const articles: Article[] = [
     "word_count": 2235,
     "comment_count": 235,
     "likes": 133,
-    "category": "Economic Stimulus and Inflation Challenges"
+    "category": "Interpreting Economic Forces and Policy Responses"
   },
   {
     "id": 109476948,
@@ -8411,7 +8411,7 @@ export const articles: Article[] = [
     "word_count": 2607,
     "comment_count": 185,
     "likes": 143,
-    "category": "Economic Stimulus and Inflation Challenges"
+    "category": "Interpreting Economic Forces and Policy Responses"
   },
   {
     "id": 109631020,
@@ -8424,7 +8424,7 @@ export const articles: Article[] = [
     "word_count": 1602,
     "comment_count": 108,
     "likes": 119,
-    "category": "Challenges in Modern American Education"
+    "category": "Evolving Dynamics in U.S. K-12 Education"
   },
   {
     "id": 109697799,
@@ -8437,7 +8437,7 @@ export const articles: Article[] = [
     "word_count": 3410,
     "comment_count": 253,
     "likes": 88,
-    "category": "Challenges and Strategies for Democrats in Modern Politics"
+    "category": "Democratic Party and Electoral Dynamics"
   },
   {
     "id": 109985984,
@@ -8450,7 +8450,7 @@ export const articles: Article[] = [
     "word_count": 1820,
     "comment_count": 365,
     "likes": 240,
-    "category": "Urban Evolution and Housing Challenges"
+    "category": "Tourism and Housing Dynamics in Urban Landscapes"
   },
   {
     "id": 110198262,
@@ -8463,7 +8463,7 @@ export const articles: Article[] = [
     "word_count": 2521,
     "comment_count": 372,
     "likes": 109,
-    "category": "Education Reform and Teacher Policies"
+    "category": "Evolving Dynamics in U.S. K-12 Education"
   },
   {
     "id": 110421215,
@@ -8476,7 +8476,7 @@ export const articles: Article[] = [
     "word_count": 2474,
     "comment_count": 485,
     "likes": 189,
-    "category": "Media's Role in Political Dynamics and Decline"
+    "category": "Competition, Media, and Future Risks"
   },
   {
     "id": 111206826,
@@ -8489,7 +8489,7 @@ export const articles: Article[] = [
     "word_count": 2000,
     "comment_count": 391,
     "likes": 174,
-    "category": "Media's Role in Political Dynamics and Decline"
+    "category": "Competition, Media, and Future Risks"
   },
   {
     "id": 111336596,
@@ -8502,7 +8502,7 @@ export const articles: Article[] = [
     "word_count": 2953,
     "comment_count": 450,
     "likes": 89,
-    "category": "Challenges in Housing, AI Education, and Politics"
+    "category": "Democratic Party and Electoral Dynamics"
   },
   {
     "id": 111464608,
@@ -8515,7 +8515,7 @@ export const articles: Article[] = [
     "word_count": 2561,
     "comment_count": 577,
     "likes": 288,
-    "category": "Strategies to Tackle Urban Crime and Gun Violence"
+    "category": "Policing and Justice System Dynamics"
   },
   {
     "id": 111842905,
@@ -8528,7 +8528,7 @@ export const articles: Article[] = [
     "word_count": 2060,
     "comment_count": 463,
     "likes": 188,
-    "category": "Education Reform and Teacher Policies"
+    "category": "Evolving Dynamics in U.S. K-12 Education"
   },
   {
     "id": 111901105,
@@ -8541,7 +8541,7 @@ export const articles: Article[] = [
     "word_count": 2384,
     "comment_count": 342,
     "likes": 110,
-    "category": "Balancing Market Growth and Government Efficiency"
+    "category": "Transportation and Urban Policy Challenges"
   },
   {
     "id": 112280082,
@@ -8554,7 +8554,7 @@ export const articles: Article[] = [
     "word_count": 2343,
     "comment_count": 203,
     "likes": 191,
-    "category": "Navigating Energy Policy Trade-offs and Climate Goals"
+    "category": "Biden's Energy and Climate Strategy"
   },
   {
     "id": 112651168,
@@ -8567,7 +8567,7 @@ export const articles: Article[] = [
     "word_count": 2483,
     "comment_count": 399,
     "likes": 98,
-    "category": "Challenges in Housing, AI Education, and Politics"
+    "category": "Democratic Party and Electoral Dynamics"
   },
   {
     "id": 112690160,
@@ -8580,7 +8580,7 @@ export const articles: Article[] = [
     "word_count": 2031,
     "comment_count": 483,
     "likes": 272,
-    "category": "Housing Policy Changes for Growth"
+    "category": "Zoning Reforms and Housing Scarcity"
   },
   {
     "id": 112838858,
@@ -8606,7 +8606,7 @@ export const articles: Article[] = [
     "word_count": 2768,
     "comment_count": 323,
     "likes": 193,
-    "category": "Reforming Policing and Crime Strategies"
+    "category": "Policing and Justice System Dynamics"
   },
   {
     "id": 113281478,
@@ -8619,7 +8619,7 @@ export const articles: Article[] = [
     "word_count": 2427,
     "comment_count": 386,
     "likes": 253,
-    "category": "Urban Housing, Policy, and Growth Dynamics"
+    "category": "Tourism and Housing Dynamics in Urban Landscapes"
   },
   {
     "id": 113488945,
@@ -8632,7 +8632,7 @@ export const articles: Article[] = [
     "word_count": 2338,
     "comment_count": 239,
     "likes": 174,
-    "category": "Media's Role in Political Dynamics and Decline"
+    "category": "Competition, Media, and Future Risks"
   },
   {
     "id": 113743922,
@@ -8645,7 +8645,7 @@ export const articles: Article[] = [
     "word_count": 3160,
     "comment_count": 153,
     "likes": 149,
-    "category": "Strategies to Tackle Urban Crime and Gun Violence"
+    "category": "Modern Political Challenges and Global Dynamics"
   },
   {
     "id": 114230135,
@@ -8658,7 +8658,7 @@ export const articles: Article[] = [
     "word_count": 4105,
     "comment_count": 354,
     "likes": 98,
-    "category": "Challenges in Housing, AI Education, and Politics"
+    "category": "Democratic Party and Electoral Dynamics"
   },
   {
     "id": 114773991,
@@ -8671,7 +8671,7 @@ export const articles: Article[] = [
     "word_count": 2160,
     "comment_count": 375,
     "likes": 235,
-    "category": "Trump vs. Biden: Policy and Political Implications"
+    "category": "Modern Political Challenges and Global Dynamics"
   },
   {
     "id": 115276246,
@@ -8684,7 +8684,7 @@ export const articles: Article[] = [
     "word_count": 2559,
     "comment_count": 467,
     "likes": 324,
-    "category": "Modern Political and Cultural Alignments"
+    "category": "Modern Political Challenges and Global Dynamics"
   },
   {
     "id": 115434677,
@@ -8697,7 +8697,7 @@ export const articles: Article[] = [
     "word_count": 2408,
     "comment_count": 301,
     "likes": 184,
-    "category": "Urban Evolution and Housing Challenges"
+    "category": "Transportation and Urban Policy Challenges"
   },
   {
     "id": 115625576,
@@ -8723,7 +8723,7 @@ export const articles: Article[] = [
     "word_count": 2019,
     "comment_count": 374,
     "likes": 170,
-    "category": "Fiscal Clash: Taxes, Cuts, and Debt"
+    "category": "Navigating Fiscal Policy and Debt Challenges"
   },
   {
     "id": 115956601,
@@ -8736,7 +8736,7 @@ export const articles: Article[] = [
     "word_count": 2285,
     "comment_count": 715,
     "likes": 274,
-    "category": "Challenges in Modern American Education"
+    "category": "Evolving Challenges in Higher Education"
   },
   {
     "id": 116073442,
@@ -8749,7 +8749,7 @@ export const articles: Article[] = [
     "word_count": 2110,
     "comment_count": 264,
     "likes": 142,
-    "category": "Strategies to Tackle Urban Crime and Gun Violence"
+    "category": "Policing and Justice System Dynamics"
   },
   {
     "id": 116133644,
@@ -8762,7 +8762,7 @@ export const articles: Article[] = [
     "word_count": 2226,
     "comment_count": 373,
     "likes": 162,
-    "category": "Trump vs. Biden: Policy and Political Implications"
+    "category": "Trump's Influence on Politics and Media"
   },
   {
     "id": 116281252,
@@ -8775,7 +8775,7 @@ export const articles: Article[] = [
     "word_count": 2226,
     "comment_count": 427,
     "likes": 253,
-    "category": "Urban Evolution and Housing Challenges"
+    "category": "Tourism and Housing Dynamics in Urban Landscapes"
   },
   {
     "id": 116692659,
@@ -8788,7 +8788,7 @@ export const articles: Article[] = [
     "word_count": 2047,
     "comment_count": 374,
     "likes": 195,
-    "category": "Economic Stimulus and Inflation Challenges"
+    "category": "Economic Policies and Partisan Divides"
   },
   {
     "id": 117011137,
@@ -8801,7 +8801,7 @@ export const articles: Article[] = [
     "word_count": 1941,
     "comment_count": 378,
     "likes": 154,
-    "category": "Housing Policy Changes for Growth"
+    "category": "Zoning Reforms and Housing Scarcity"
   },
   {
     "id": 117197283,
@@ -8814,7 +8814,7 @@ export const articles: Article[] = [
     "word_count": 4584,
     "comment_count": 438,
     "likes": 104,
-    "category": "Challenges in Housing, AI Education, and Politics"
+    "category": "Democratic Party and Electoral Dynamics"
   },
   {
     "id": 117263778,
@@ -8827,7 +8827,7 @@ export const articles: Article[] = [
     "word_count": 2196,
     "comment_count": 158,
     "likes": 129,
-    "category": "Navigating Energy Policy Trade-offs and Climate Goals"
+    "category": "Biden's Energy and Climate Strategy"
   },
   {
     "id": 118595983,
@@ -8840,7 +8840,7 @@ export const articles: Article[] = [
     "word_count": 2145,
     "comment_count": 429,
     "likes": 130,
-    "category": "Urban Evolution and Housing Challenges"
+    "category": "Tourism and Housing Dynamics in Urban Landscapes"
   },
   {
     "id": 118908600,
@@ -8853,7 +8853,7 @@ export const articles: Article[] = [
     "word_count": 4967,
     "comment_count": 353,
     "likes": 102,
-    "category": "Challenges in Housing, AI Education, and Politics"
+    "category": "Democratic Party and Electoral Dynamics"
   },
   {
     "id": 119028664,
@@ -8866,7 +8866,7 @@ export const articles: Article[] = [
     "word_count": 2335,
     "comment_count": 92,
     "likes": 112,
-    "category": "Contested Narratives in the Israel-Palestine Conflict"
+    "category": "Evolving Strategies in US-China Relations"
   },
   {
     "id": 119499796,
@@ -8879,7 +8879,7 @@ export const articles: Article[] = [
     "word_count": 2847,
     "comment_count": 354,
     "likes": 180,
-    "category": "Balancing Competition and Regulation in Modern Markets"
+    "category": "Competition, Media, and Future Risks"
   },
   {
     "id": 119561942,
@@ -8892,7 +8892,7 @@ export const articles: Article[] = [
     "word_count": 1904,
     "comment_count": 494,
     "likes": 265,
-    "category": "Economic Stimulus and Inflation Challenges"
+    "category": "Interpreting Economic Forces and Policy Responses"
   },
   {
     "id": 120255006,
@@ -8905,7 +8905,7 @@ export const articles: Article[] = [
     "word_count": 2434,
     "comment_count": 206,
     "likes": 194,
-    "category": "Navigating Energy Policy Trade-offs and Climate Goals"
+    "category": "Biden's Energy and Climate Strategy"
   },
   {
     "id": 120345900,
@@ -8918,7 +8918,7 @@ export const articles: Article[] = [
     "word_count": 4743,
     "comment_count": 535,
     "likes": 108,
-    "category": "Electoral Innovations and Democratic Challenges"
+    "category": "Democratic Party and Electoral Dynamics"
   },
   {
     "id": 120520120,
@@ -8931,7 +8931,7 @@ export const articles: Article[] = [
     "word_count": 2077,
     "comment_count": 164,
     "likes": 174,
-    "category": "Reforming Policing and Crime Strategies"
+    "category": "Policing and Justice System Dynamics"
   },
   {
     "id": 120964109,
@@ -8944,7 +8944,7 @@ export const articles: Article[] = [
     "word_count": 2363,
     "comment_count": 380,
     "likes": 189,
-    "category": "Media's Role in Political Dynamics and Decline"
+    "category": "Trump's Influence on Politics and Media"
   },
   {
     "id": 121444799,
@@ -8957,7 +8957,7 @@ export const articles: Article[] = [
     "word_count": 2036,
     "comment_count": 210,
     "likes": 140,
-    "category": "Trump vs. Biden: Policy and Political Implications"
+    "category": "Trump's Influence on Politics and Media"
   },
   {
     "id": 121568094,
@@ -8970,7 +8970,7 @@ export const articles: Article[] = [
     "word_count": 2114,
     "comment_count": 471,
     "likes": 170,
-    "category": "Fiscal Clash: Taxes, Cuts, and Debt"
+    "category": "Navigating Fiscal Policy and Debt Challenges"
   },
   {
     "id": 121811900,
@@ -8983,7 +8983,7 @@ export const articles: Article[] = [
     "word_count": 2183,
     "comment_count": 507,
     "likes": 255,
-    "category": "Economic Myths and Policy Debates"
+    "category": "Complex Interplay of Politics and Policy"
   },
   {
     "id": 122023012,
@@ -8996,7 +8996,7 @@ export const articles: Article[] = [
     "word_count": 4408,
     "comment_count": 529,
     "likes": 102,
-    "category": "Challenges in Housing, AI Education, and Politics"
+    "category": "Democratic Party and Electoral Dynamics"
   },
   {
     "id": 122244208,
@@ -9009,7 +9009,7 @@ export const articles: Article[] = [
     "word_count": 2451,
     "comment_count": 270,
     "likes": 150,
-    "category": "Urban Housing, Policy, and Growth Dynamics"
+    "category": "Zoning Reforms and Housing Scarcity"
   },
   {
     "id": 122488160,
@@ -9022,7 +9022,7 @@ export const articles: Article[] = [
     "word_count": 2223,
     "comment_count": 238,
     "likes": 127,
-    "category": "Navigating Voter Demographics and Party Strategies"
+    "category": "Strategies and Challenges in Modern Politics"
   },
   {
     "id": 123068506,
@@ -9035,7 +9035,7 @@ export const articles: Article[] = [
     "word_count": 2673,
     "comment_count": 363,
     "likes": 154,
-    "category": "Education Reform and Teacher Policies"
+    "category": "Evolving Dynamics in U.S. K-12 Education"
   },
   {
     "id": 123264595,
@@ -9048,7 +9048,7 @@ export const articles: Article[] = [
     "word_count": 2135,
     "comment_count": 80,
     "likes": 128,
-    "category": "Balancing Market Growth and Government Efficiency"
+    "category": "Exploring Welfare and Economic Policy Reforms"
   },
   {
     "id": 123400296,
@@ -9061,7 +9061,7 @@ export const articles: Article[] = [
     "word_count": 4814,
     "comment_count": 639,
     "likes": 112,
-    "category": "Challenges and Strategies for Democrats in Modern Politics"
+    "category": "Democratic Party and Electoral Dynamics"
   },
   {
     "id": 123710661,
@@ -9074,7 +9074,7 @@ export const articles: Article[] = [
     "word_count": 2333,
     "comment_count": 348,
     "likes": 320,
-    "category": "Modern Political and Cultural Alignments"
+    "category": "Complex Interplay of Politics and Policy"
   },
   {
     "id": 123711241,
@@ -9087,7 +9087,7 @@ export const articles: Article[] = [
     "word_count": 2181,
     "comment_count": 494,
     "likes": 239,
-    "category": "Housing Policy Changes for Growth"
+    "category": "Zoning Reforms and Housing Scarcity"
   },
   {
     "id": 123956278,
@@ -9100,7 +9100,7 @@ export const articles: Article[] = [
     "word_count": 1815,
     "comment_count": 218,
     "likes": 305,
-    "category": "Democratic Legislative Challenges and Strategies"
+    "category": "Navigating Fiscal Policy and Debt Challenges"
   },
   {
     "id": 124543061,
@@ -9113,7 +9113,7 @@ export const articles: Article[] = [
     "word_count": 2099,
     "comment_count": 184,
     "likes": 158,
-    "category": "Navigating Energy Policy Trade-offs and Climate Goals"
+    "category": "Energy Transition and Innovation Strategies"
   },
   {
     "id": 124589777,
@@ -9126,7 +9126,7 @@ export const articles: Article[] = [
     "word_count": 2098,
     "comment_count": 293,
     "likes": 179,
-    "category": "Trump vs. Biden: Policy and Political Implications"
+    "category": "Complex Interplay of Politics and Policy"
   },
   {
     "id": 125027414,
@@ -9139,7 +9139,7 @@ export const articles: Article[] = [
     "word_count": 2300,
     "comment_count": 733,
     "likes": 194,
-    "category": "Modern Political and Cultural Alignments"
+    "category": "Strategies and Challenges in Modern Politics"
   },
   {
     "id": 125162580,
@@ -9152,7 +9152,7 @@ export const articles: Article[] = [
     "word_count": 4112,
     "comment_count": 642,
     "likes": 125,
-    "category": "Challenges and Strategies for Democrats in Modern Politics"
+    "category": "Democratic Party and Electoral Dynamics"
   },
   {
     "id": 125377656,
@@ -9178,7 +9178,7 @@ export const articles: Article[] = [
     "word_count": 2961,
     "comment_count": 487,
     "likes": 355,
-    "category": "Racial and Economic Justice in America"
+    "category": "Complex Interplay of Politics and Policy"
   },
   {
     "id": 126148200,
@@ -9191,7 +9191,7 @@ export const articles: Article[] = [
     "word_count": 1952,
     "comment_count": 225,
     "likes": 197,
-    "category": "Media's Role in Political Dynamics and Decline"
+    "category": "Interpreting Economic Forces and Policy Responses"
   },
   {
     "id": 126666866,
@@ -9204,7 +9204,7 @@ export const articles: Article[] = [
     "word_count": 4208,
     "comment_count": 436,
     "likes": 118,
-    "category": "Challenges and Strategies for Democrats in Modern Politics"
+    "category": "Democratic Party and Electoral Dynamics"
   },
   {
     "id": 126860879,
@@ -9217,7 +9217,7 @@ export const articles: Article[] = [
     "word_count": 2443,
     "comment_count": 249,
     "likes": 149,
-    "category": "Navigating Energy Policy Trade-offs and Climate Goals"
+    "category": "Complexities and Debates in Climate Policy"
   },
   {
     "id": 126998954,
@@ -9230,7 +9230,7 @@ export const articles: Article[] = [
     "word_count": 1934,
     "comment_count": 462,
     "likes": 651,
-    "category": "Trump vs. Biden: Policy and Political Implications"
+    "category": "Trump's Influence on Politics and Media"
   },
   {
     "id": 127122170,
@@ -9243,7 +9243,7 @@ export const articles: Article[] = [
     "word_count": 2466,
     "comment_count": 424,
     "likes": 228,
-    "category": "Balancing Competition and Regulation in Modern Markets"
+    "category": "Competition, Media, and Future Risks"
   },
   {
     "id": 127799830,
@@ -9256,7 +9256,7 @@ export const articles: Article[] = [
     "word_count": 2811,
     "comment_count": 151,
     "likes": 141,
-    "category": "Balancing Competition and Regulation in Modern Markets"
+    "category": "Challenges and Innovations in Sports and Gambling"
   },
   {
     "id": 127883484,
@@ -9269,7 +9269,7 @@ export const articles: Article[] = [
     "word_count": 1821,
     "comment_count": 177,
     "likes": 111,
-    "category": "Economic Stimulus and Inflation Challenges"
+    "category": "Interpreting Economic Forces and Policy Responses"
   },
   {
     "id": 127904606,
@@ -9282,7 +9282,7 @@ export const articles: Article[] = [
     "word_count": 2716,
     "comment_count": 374,
     "likes": 199,
-    "category": "Challenges and Opportunities for Urban Transportation"
+    "category": "Challenges and Opportunities in Urban Transit and Development"
   },
   {
     "id": 128085357,
@@ -9308,7 +9308,7 @@ export const articles: Article[] = [
     "word_count": 2236,
     "comment_count": 364,
     "likes": 174,
-    "category": "Navigating Voter Demographics and Party Strategies"
+    "category": "Strategies and Challenges in Modern Politics"
   },
   {
     "id": 128583219,
@@ -9334,7 +9334,7 @@ export const articles: Article[] = [
     "word_count": 1886,
     "comment_count": 451,
     "likes": 222,
-    "category": "Strategies to Tackle Urban Crime and Gun Violence"
+    "category": "Policing and Justice System Dynamics"
   },
   {
     "id": 129020301,
@@ -9347,7 +9347,7 @@ export const articles: Article[] = [
     "word_count": 2025,
     "comment_count": 507,
     "likes": 207,
-    "category": "Trump vs. Biden: Policy and Political Implications"
+    "category": "Kamala Harris and Biden's Political Strategy"
   },
   {
     "id": 129433887,
@@ -9360,7 +9360,7 @@ export const articles: Article[] = [
     "word_count": 2308,
     "comment_count": 528,
     "likes": 176,
-    "category": "Challenges and Advances in Vaccine Development and Distribution"
+    "category": "Challenges and Innovations in Global Vaccination"
   },
   {
     "id": 129709679,
@@ -9373,7 +9373,7 @@ export const articles: Article[] = [
     "word_count": 2406,
     "comment_count": 481,
     "likes": 340,
-    "category": "Modern Political and Cultural Alignments"
+    "category": "Complexities and Debates in Climate Policy"
   },
   {
     "id": 129835714,
@@ -9386,7 +9386,7 @@ export const articles: Article[] = [
     "word_count": 5075,
     "comment_count": 743,
     "likes": 121,
-    "category": "Challenges in Housing, AI Education, and Politics"
+    "category": "Uncategorized"
   },
   {
     "id": 130208611,
@@ -9399,7 +9399,7 @@ export const articles: Article[] = [
     "word_count": 1918,
     "comment_count": 370,
     "likes": 143,
-    "category": "Economic Stimulus and Inflation Challenges"
+    "category": "Interpreting Economic Forces and Policy Responses"
   },
   {
     "id": 130224129,
@@ -9412,7 +9412,7 @@ export const articles: Article[] = [
     "word_count": 2799,
     "comment_count": 340,
     "likes": 165,
-    "category": "Strategies to Tackle Urban Crime and Gun Violence"
+    "category": "Policing and Justice System Dynamics"
   },
   {
     "id": 130523416,
@@ -9425,7 +9425,7 @@ export const articles: Article[] = [
     "word_count": 2410,
     "comment_count": 406,
     "likes": 344,
-    "category": "Balancing Market Growth and Government Efficiency"
+    "category": "Complex Intersections in Policy and Health"
   },
   {
     "id": 130703214,
@@ -9438,7 +9438,7 @@ export const articles: Article[] = [
     "word_count": 2547,
     "comment_count": 884,
     "likes": 447,
-    "category": "Challenges and Advances in Vaccine Development and Distribution"
+    "category": "Reflections on Pandemic Responses"
   },
   {
     "id": 131170370,
@@ -9451,7 +9451,7 @@ export const articles: Article[] = [
     "word_count": 1872,
     "comment_count": 289,
     "likes": 223,
-    "category": "Navigating Energy Policy Trade-offs and Climate Goals"
+    "category": "Complexities and Debates in Climate Policy"
   },
   {
     "id": 131271934,
@@ -9464,7 +9464,7 @@ export const articles: Article[] = [
     "word_count": 2145,
     "comment_count": 364,
     "likes": 226,
-    "category": "Balancing Market Growth and Government Efficiency"
+    "category": "Exploring Welfare and Economic Policy Reforms"
   },
   {
     "id": 131427206,
@@ -9477,7 +9477,7 @@ export const articles: Article[] = [
     "word_count": 1864,
     "comment_count": 438,
     "likes": 171,
-    "category": "Modern Political and Cultural Alignments"
+    "category": "Complex Interplay of Politics and Policy"
   },
   {
     "id": 131487989,
@@ -9490,7 +9490,7 @@ export const articles: Article[] = [
     "word_count": 3948,
     "comment_count": 606,
     "likes": 110,
-    "category": "Challenges and Strategies for Democrats in Modern Politics"
+    "category": "Kamala Harris and Biden's Political Strategy"
   },
   {
     "id": 131490180,
@@ -9503,7 +9503,7 @@ export const articles: Article[] = [
     "word_count": 2909,
     "comment_count": 260,
     "likes": 267,
-    "category": "Modern Political and Cultural Alignments"
+    "category": "Complex Interplay of Politics and Policy"
   },
   {
     "id": 131667056,
@@ -9516,7 +9516,7 @@ export const articles: Article[] = [
     "word_count": 2952,
     "comment_count": 117,
     "likes": 63,
-    "category": "Electoral Innovations and Democratic Challenges"
+    "category": "Future Democratic Strategies for 2024"
   },
   {
     "id": 131741432,
@@ -9529,7 +9529,7 @@ export const articles: Article[] = [
     "word_count": 1718,
     "comment_count": 114,
     "likes": 59,
-    "category": "Balancing Competition and Regulation in Modern Markets"
+    "category": "Challenges and Innovations in Sports and Gambling"
   },
   {
     "id": 131909995,
@@ -9542,7 +9542,7 @@ export const articles: Article[] = [
     "word_count": 1364,
     "comment_count": 799,
     "likes": 395,
-    "category": "Challenges in Modern American Education"
+    "category": "Evolving Challenges in Higher Education"
   },
   {
     "id": 131994920,
@@ -9555,7 +9555,7 @@ export const articles: Article[] = [
     "word_count": 2558,
     "comment_count": 334,
     "likes": 212,
-    "category": "Balancing Competition and Regulation in Modern Markets"
+    "category": "Evolving Challenges in Higher Education"
   },
   {
     "id": 132163983,
@@ -9568,7 +9568,7 @@ export const articles: Article[] = [
     "word_count": 2221,
     "comment_count": 145,
     "likes": 136,
-    "category": "Balancing Competition and Regulation in Modern Markets"
+    "category": "Competition, Media, and Future Risks"
   },
   {
     "id": 132782536,
@@ -9581,7 +9581,7 @@ export const articles: Article[] = [
     "word_count": 2317,
     "comment_count": 550,
     "likes": 220,
-    "category": "Immigration Debates and Policy Implications"
+    "category": "Complex Interplay of Politics and Policy"
   },
   {
     "id": 133279013,
@@ -9607,7 +9607,7 @@ export const articles: Article[] = [
     "word_count": 2513,
     "comment_count": 124,
     "likes": 145,
-    "category": "Economic Stimulus and Inflation Challenges"
+    "category": "Interpreting Economic Forces and Policy Responses"
   },
   {
     "id": 134449070,
@@ -9620,7 +9620,7 @@ export const articles: Article[] = [
     "word_count": 4468,
     "comment_count": 301,
     "likes": 119,
-    "category": "Challenges and Strategies for Democrats in Modern Politics"
+    "category": "Democratic Party and Electoral Dynamics"
   },
   {
     "id": 135078604,
@@ -9633,7 +9633,7 @@ export const articles: Article[] = [
     "word_count": 868,
     "comment_count": 140,
     "likes": 102,
-    "category": "Housing Policy Changes for Growth"
+    "category": "Zoning Reforms and Housing Scarcity"
   },
   {
     "id": 135275843,
@@ -9646,7 +9646,7 @@ export const articles: Article[] = [
     "word_count": 5111,
     "comment_count": 423,
     "likes": 86,
-    "category": "Challenges and Strategies for Democrats in Modern Politics"
+    "category": "Democratic Party and Electoral Dynamics"
   },
   {
     "id": 135305165,
@@ -9659,7 +9659,7 @@ export const articles: Article[] = [
     "word_count": 1795,
     "comment_count": 253,
     "likes": 251,
-    "category": "Trump vs. Biden: Policy and Political Implications"
+    "category": "Trump's Influence on Politics and Media"
   },
   {
     "id": 135337229,
@@ -9672,7 +9672,7 @@ export const articles: Article[] = [
     "word_count": 2255,
     "comment_count": 291,
     "likes": 173,
-    "category": "Navigating Voter Demographics and Party Strategies"
+    "category": "Strategies and Challenges in Modern Politics"
   },
   {
     "id": 135384024,
@@ -9685,7 +9685,7 @@ export const articles: Article[] = [
     "word_count": 2396,
     "comment_count": 251,
     "likes": 242,
-    "category": "Navigating Energy Policy Trade-offs and Climate Goals"
+    "category": "Energy Transition and Innovation Strategies"
   },
   {
     "id": 135386425,
@@ -9698,7 +9698,7 @@ export const articles: Article[] = [
     "word_count": 2266,
     "comment_count": 216,
     "likes": 151,
-    "category": "Strategies to Tackle Urban Crime and Gun Violence"
+    "category": "Policing and Justice System Dynamics"
   },
   {
     "id": 135421177,
@@ -9711,7 +9711,7 @@ export const articles: Article[] = [
     "word_count": 2284,
     "comment_count": 400,
     "likes": 419,
-    "category": "Modern Political and Cultural Alignments"
+    "category": "Evolving Dynamics in U.S. K-12 Education"
   },
   {
     "id": 135465355,
@@ -9724,7 +9724,7 @@ export const articles: Article[] = [
     "word_count": 4157,
     "comment_count": 364,
     "likes": 120,
-    "category": "Challenges and Opportunities for Urban Transportation"
+    "category": "Challenges and Opportunities in Urban Transit and Development"
   },
   {
     "id": 135475870,
@@ -9737,7 +9737,7 @@ export const articles: Article[] = [
     "word_count": 1978,
     "comment_count": 466,
     "likes": 252,
-    "category": "Challenges in Modern American Education"
+    "category": "Evolving Challenges in Higher Education"
   },
   {
     "id": 135503134,
@@ -9750,7 +9750,7 @@ export const articles: Article[] = [
     "word_count": 2253,
     "comment_count": 542,
     "likes": 248,
-    "category": "Strategies to Tackle Urban Crime and Gun Violence"
+    "category": "Tourism and Housing Dynamics in Urban Landscapes"
   },
   {
     "id": 135591949,
@@ -9763,7 +9763,7 @@ export const articles: Article[] = [
     "word_count": 1906,
     "comment_count": 136,
     "likes": 126,
-    "category": "Economic Stimulus and Inflation Challenges"
+    "category": "Interpreting Economic Forces and Policy Responses"
   },
   {
     "id": 135612460,
@@ -9776,7 +9776,7 @@ export const articles: Article[] = [
     "word_count": 1859,
     "comment_count": 414,
     "likes": 336,
-    "category": "Balancing Market Growth and Government Efficiency"
+    "category": "Complex Interplay of Politics and Policy"
   },
   {
     "id": 135653966,
@@ -9789,7 +9789,7 @@ export const articles: Article[] = [
     "word_count": 3597,
     "comment_count": 469,
     "likes": 130,
-    "category": "Challenges and Strategies for Democrats in Modern Politics"
+    "category": "Democratic Party and Electoral Dynamics"
   },
   {
     "id": 135683671,
@@ -9802,7 +9802,7 @@ export const articles: Article[] = [
     "word_count": 2066,
     "comment_count": 399,
     "likes": 212,
-    "category": "Fiscal Clash: Taxes, Cuts, and Debt"
+    "category": "Navigating Fiscal Policy and Debt Challenges"
   },
   {
     "id": 135692833,
@@ -9815,7 +9815,7 @@ export const articles: Article[] = [
     "word_count": 1419,
     "comment_count": 247,
     "likes": 133,
-    "category": "Strategies to Tackle Urban Crime and Gun Violence"
+    "category": "Complex Intersections in Policy and Health"
   },
   {
     "id": 135698154,
@@ -9828,7 +9828,7 @@ export const articles: Article[] = [
     "word_count": 2594,
     "comment_count": 399,
     "likes": 192,
-    "category": "Trump vs. Biden: Policy and Political Implications"
+    "category": "Trump's Influence on Politics and Media"
   },
   {
     "id": 135795539,
@@ -9841,7 +9841,7 @@ export const articles: Article[] = [
     "word_count": 2469,
     "comment_count": 366,
     "likes": 225,
-    "category": "Housing Policy Changes for Growth"
+    "category": "Zoning Reforms and Housing Scarcity"
   },
   {
     "id": 135829116,
@@ -9854,7 +9854,7 @@ export const articles: Article[] = [
     "word_count": 2087,
     "comment_count": 366,
     "likes": 233,
-    "category": "Strategies to Tackle Urban Crime and Gun Violence"
+    "category": "Policing and Justice System Dynamics"
   },
   {
     "id": 135863159,
@@ -9867,7 +9867,7 @@ export const articles: Article[] = [
     "word_count": 3425,
     "comment_count": 646,
     "likes": 155,
-    "category": "Challenges and Strategies for Democrats in Modern Politics"
+    "category": "Democratic Party and Electoral Dynamics"
   },
   {
     "id": 135894166,
@@ -9880,7 +9880,7 @@ export const articles: Article[] = [
     "word_count": 2147,
     "comment_count": 389,
     "likes": 254,
-    "category": "Trump vs. Biden: Policy and Political Implications"
+    "category": "Complex Interplay of Politics and Policy"
   },
   {
     "id": 135932640,
@@ -9893,7 +9893,7 @@ export const articles: Article[] = [
     "word_count": 2221,
     "comment_count": 374,
     "likes": 288,
-    "category": "Strategic Messaging and Policy Prioritization for Elections"
+    "category": "Strategies and Challenges in Modern Politics"
   },
   {
     "id": 135980423,
@@ -9906,7 +9906,7 @@ export const articles: Article[] = [
     "word_count": 2091,
     "comment_count": 391,
     "likes": 156,
-    "category": "Navigating Energy Policy Trade-offs and Climate Goals"
+    "category": "Complexities and Debates in Climate Policy"
   },
   {
     "id": 136011080,
@@ -9919,7 +9919,7 @@ export const articles: Article[] = [
     "word_count": 2221,
     "comment_count": 568,
     "likes": 279,
-    "category": "Urban Evolution and Housing Challenges"
+    "category": "Tourism and Housing Dynamics in Urban Landscapes"
   },
   {
     "id": 136092391,
@@ -9932,7 +9932,7 @@ export const articles: Article[] = [
     "word_count": 2276,
     "comment_count": 844,
     "likes": 443,
-    "category": "Strategic Messaging and Policy Prioritization for Elections"
+    "category": "Strategies and Challenges in Modern Politics"
   },
   {
     "id": 136110967,
@@ -9945,7 +9945,7 @@ export const articles: Article[] = [
     "word_count": 3613,
     "comment_count": 550,
     "likes": 137,
-    "category": "Challenges in Housing, AI Education, and Politics"
+    "category": "Democratic Party and Electoral Dynamics"
   },
   {
     "id": 136168279,
@@ -9958,7 +9958,7 @@ export const articles: Article[] = [
     "word_count": 1746,
     "comment_count": 437,
     "likes": 215,
-    "category": "Housing Policy Changes for Growth"
+    "category": "Zoning Reforms and Housing Scarcity"
   },
   {
     "id": 136202236,
@@ -9971,7 +9971,7 @@ export const articles: Article[] = [
     "word_count": 1918,
     "comment_count": 83,
     "likes": 138,
-    "category": "Navigating Energy Policy Trade-offs and Climate Goals"
+    "category": "Biden's Energy and Climate Strategy"
   },
   {
     "id": 136268081,
@@ -9984,7 +9984,7 @@ export const articles: Article[] = [
     "word_count": 2634,
     "comment_count": 315,
     "likes": 183,
-    "category": "Fiscal Clash: Taxes, Cuts, and Debt"
+    "category": "Economic Policies and Partisan Divides"
   },
   {
     "id": 136299894,
@@ -9997,7 +9997,7 @@ export const articles: Article[] = [
     "word_count": 4505,
     "comment_count": 526,
     "likes": 149,
-    "category": "Challenges and Strategies for Democrats in Modern Politics"
+    "category": "Democratic Party and Electoral Dynamics"
   },
   {
     "id": 136368496,
@@ -10010,7 +10010,7 @@ export const articles: Article[] = [
     "word_count": 1376,
     "comment_count": 87,
     "likes": 122,
-    "category": "Immigration Debates and Policy Implications"
+    "category": "Exploring Welfare and Economic Policy Reforms"
   },
   {
     "id": 136376495,
@@ -10023,7 +10023,7 @@ export const articles: Article[] = [
     "word_count": 2547,
     "comment_count": 456,
     "likes": 151,
-    "category": "Immigration Debates and Policy Implications"
+    "category": "Complex Intersections in Policy and Health"
   },
   {
     "id": 136492940,
@@ -10036,7 +10036,7 @@ export const articles: Article[] = [
     "word_count": 2568,
     "comment_count": 312,
     "likes": 208,
-    "category": "Challenges in Modern American Education"
+    "category": "Evolving Dynamics in U.S. K-12 Education"
   },
   {
     "id": 136498311,
@@ -10049,7 +10049,7 @@ export const articles: Article[] = [
     "word_count": 2188,
     "comment_count": 218,
     "likes": 226,
-    "category": "Trump vs. Biden: Policy and Political Implications"
+    "category": "Trump's Influence on Politics and Media"
   },
   {
     "id": 136562654,
@@ -10062,7 +10062,7 @@ export const articles: Article[] = [
     "word_count": 3776,
     "comment_count": 519,
     "likes": 111,
-    "category": "Challenges and Strategies for Democrats in Modern Politics"
+    "category": "Democratic Party and Electoral Dynamics"
   },
   {
     "id": 136607103,
@@ -10075,7 +10075,7 @@ export const articles: Article[] = [
     "word_count": 1792,
     "comment_count": 182,
     "likes": 169,
-    "category": "Urban Evolution and Housing Challenges"
+    "category": "Tourism and Housing Dynamics in Urban Landscapes"
   },
   {
     "id": 136633360,
@@ -10088,7 +10088,7 @@ export const articles: Article[] = [
     "word_count": 2439,
     "comment_count": 158,
     "likes": 134,
-    "category": "Trump vs. Biden: Policy and Political Implications"
+    "category": "Modern Political Challenges and Global Dynamics"
   },
   {
     "id": 136649106,
@@ -10101,7 +10101,7 @@ export const articles: Article[] = [
     "word_count": 2548,
     "comment_count": 584,
     "likes": 213,
-    "category": "Immigration Debates and Policy Implications"
+    "category": "Complex Interplay of Politics and Policy"
   },
   {
     "id": 136761215,
@@ -10114,7 +10114,7 @@ export const articles: Article[] = [
     "word_count": 2468,
     "comment_count": 175,
     "likes": 134,
-    "category": "Navigating Energy Policy Trade-offs and Climate Goals"
+    "category": "Biden's Energy and Climate Strategy"
   },
   {
     "id": 136785090,
@@ -10127,7 +10127,7 @@ export const articles: Article[] = [
     "word_count": 3542,
     "comment_count": 340,
     "likes": 127,
-    "category": "Electoral Innovations and Democratic Challenges"
+    "category": "Future Democratic Strategies for 2024"
   },
   {
     "id": 136789181,
@@ -10140,7 +10140,7 @@ export const articles: Article[] = [
     "word_count": 1794,
     "comment_count": 508,
     "likes": 413,
-    "category": "Racial and Economic Justice in America"
+    "category": "Complex Interplay of Politics and Policy"
   },
   {
     "id": 136801243,
@@ -10153,7 +10153,7 @@ export const articles: Article[] = [
     "word_count": 2147,
     "comment_count": 260,
     "likes": 117,
-    "category": "Trump vs. Biden: Policy and Political Implications"
+    "category": "Strategies and Challenges in Modern Politics"
   },
   {
     "id": 136816600,
@@ -10166,7 +10166,7 @@ export const articles: Article[] = [
     "word_count": 2639,
     "comment_count": 375,
     "likes": 140,
-    "category": "Democratic Legislative Challenges and Strategies"
+    "category": "Legislative Strategies and Challenges"
   },
   {
     "id": 136859786,
@@ -10179,7 +10179,7 @@ export const articles: Article[] = [
     "word_count": 1951,
     "comment_count": 340,
     "likes": 210,
-    "category": "Navigating Voter Demographics and Party Strategies"
+    "category": "Strategies and Challenges in Modern Politics"
   },
   {
     "id": 136948784,
@@ -10192,7 +10192,7 @@ export const articles: Article[] = [
     "word_count": 2489,
     "comment_count": 578,
     "likes": 164,
-    "category": "Strategies to Tackle Urban Crime and Gun Violence"
+    "category": "Policing and Justice System Dynamics"
   },
   {
     "id": 137002985,
@@ -10205,7 +10205,7 @@ export const articles: Article[] = [
     "word_count": 4483,
     "comment_count": 406,
     "likes": 105,
-    "category": "Challenges in Housing, AI Education, and Politics"
+    "category": "Democratic Party and Electoral Dynamics"
   },
   {
     "id": 137048083,
@@ -10218,7 +10218,7 @@ export const articles: Article[] = [
     "word_count": 1788,
     "comment_count": 265,
     "likes": 188,
-    "category": "Fiscal Clash: Taxes, Cuts, and Debt"
+    "category": "Economic Policies and Partisan Divides"
   },
   {
     "id": 137069361,
@@ -10231,7 +10231,7 @@ export const articles: Article[] = [
     "word_count": 1918,
     "comment_count": 392,
     "likes": 167,
-    "category": "Navigating Voter Demographics and Party Strategies"
+    "category": "Strategies and Challenges in Modern Politics"
   },
   {
     "id": 137121032,
@@ -10244,7 +10244,7 @@ export const articles: Article[] = [
     "word_count": 2551,
     "comment_count": 546,
     "likes": 542,
-    "category": "Balancing Competition and Regulation in Modern Markets"
+    "category": "Complex Intersections in Policy and Health"
   },
   {
     "id": 137202273,
@@ -10257,7 +10257,7 @@ export const articles: Article[] = [
     "word_count": 4147,
     "comment_count": 435,
     "likes": 117,
-    "category": "Challenges and Strategies for Democrats in Modern Politics"
+    "category": "Democratic Party and Electoral Dynamics"
   },
   {
     "id": 137265586,
@@ -10270,7 +10270,7 @@ export const articles: Article[] = [
     "word_count": 1955,
     "comment_count": 284,
     "likes": 221,
-    "category": "Media's Role in Political Dynamics and Decline"
+    "category": "Complex Intersections in Policy and Health"
   },
   {
     "id": 137293518,
@@ -10283,7 +10283,7 @@ export const articles: Article[] = [
     "word_count": 2251,
     "comment_count": 237,
     "likes": 136,
-    "category": "Navigating Energy Policy Trade-offs and Climate Goals"
+    "category": "Complexities and Debates in Climate Policy"
   },
   {
     "id": 137332738,
@@ -10296,7 +10296,7 @@ export const articles: Article[] = [
     "word_count": 2788,
     "comment_count": 508,
     "likes": 98,
-    "category": "Challenges in Housing, AI Education, and Politics"
+    "category": "Democratic Party and Electoral Dynamics"
   },
   {
     "id": 137350073,
@@ -10309,7 +10309,7 @@ export const articles: Article[] = [
     "word_count": 2070,
     "comment_count": 400,
     "likes": 231,
-    "category": "Trump vs. Biden: Policy and Political Implications"
+    "category": "Kamala Harris and Biden's Political Strategy"
   },
   {
     "id": 137389872,
@@ -10322,7 +10322,7 @@ export const articles: Article[] = [
     "word_count": 2083,
     "comment_count": 370,
     "likes": 154,
-    "category": "Urban Evolution and Housing Challenges"
+    "category": "Transportation and Urban Policy Challenges"
   },
   {
     "id": 137450175,
@@ -10335,7 +10335,7 @@ export const articles: Article[] = [
     "word_count": 1839,
     "comment_count": 288,
     "likes": 224,
-    "category": "Media's Role in Political Dynamics and Decline"
+    "category": "Trump's Influence on Politics and Media"
   },
   {
     "id": 137479921,
@@ -10348,7 +10348,7 @@ export const articles: Article[] = [
     "word_count": 1949,
     "comment_count": 281,
     "likes": 157,
-    "category": "Navigating Energy Policy Trade-offs and Climate Goals"
+    "category": "Complexities and Debates in Climate Policy"
   },
   {
     "id": 137588996,
@@ -10361,7 +10361,7 @@ export const articles: Article[] = [
     "word_count": 2036,
     "comment_count": 286,
     "likes": 142,
-    "category": "Fiscal Clash: Taxes, Cuts, and Debt"
+    "category": "Navigating Fiscal Policy and Debt Challenges"
   },
   {
     "id": 137607133,
@@ -10374,7 +10374,7 @@ export const articles: Article[] = [
     "word_count": 2270,
     "comment_count": 90,
     "likes": 91,
-    "category": "Challenges and Opportunities for Urban Transportation"
+    "category": "Challenges and Opportunities in Urban Transit and Development"
   },
   {
     "id": 137637440,
@@ -10387,7 +10387,7 @@ export const articles: Article[] = [
     "word_count": 3862,
     "comment_count": 682,
     "likes": 145,
-    "category": "Challenges and Strategies for Democrats in Modern Politics"
+    "category": "Democratic Party and Electoral Dynamics"
   },
   {
     "id": 137646970,
@@ -10400,7 +10400,7 @@ export const articles: Article[] = [
     "word_count": 903,
     "comment_count": 386,
     "likes": 297,
-    "category": "Trump vs. Biden: Policy and Political Implications"
+    "category": "Future Democratic Strategies for 2024"
   },
   {
     "id": 137691009,
@@ -10413,7 +10413,7 @@ export const articles: Article[] = [
     "word_count": 2306,
     "comment_count": 254,
     "likes": 155,
-    "category": "US-China Geopolitical and Economic Strategies"
+    "category": "Economic Policies and Partisan Divides"
   },
   {
     "id": 137711857,
@@ -10426,7 +10426,7 @@ export const articles: Article[] = [
     "word_count": 2551,
     "comment_count": 536,
     "likes": 399,
-    "category": "Balancing Market Growth and Government Efficiency"
+    "category": "Complex Intersections in Policy and Health"
   },
   {
     "id": 137749301,
@@ -10439,7 +10439,7 @@ export const articles: Article[] = [
     "word_count": 2594,
     "comment_count": 247,
     "likes": 174,
-    "category": "Balancing Market Growth and Government Efficiency"
+    "category": "Exploring Welfare and Economic Policy Reforms"
   },
   {
     "id": 137801427,
@@ -10452,7 +10452,7 @@ export const articles: Article[] = [
     "word_count": 2492,
     "comment_count": 0,
     "likes": 616,
-    "category": "Contested Narratives in the Israel-Palestine Conflict"
+    "category": "Complexities of the Israel-Palestine Conflict"
   },
   {
     "id": 137838201,
@@ -10465,7 +10465,7 @@ export const articles: Article[] = [
     "word_count": 3897,
     "comment_count": 389,
     "likes": 127,
-    "category": "Immigration Debates and Policy Implications"
+    "category": "Democratic Party and Electoral Dynamics"
   },
   {
     "id": 137913705,
@@ -10478,7 +10478,7 @@ export const articles: Article[] = [
     "word_count": 2102,
     "comment_count": 491,
     "likes": 177,
-    "category": "Kamala Harris and Democratic Elections Strategy"
+    "category": "Kamala Harris and Biden's Political Strategy"
   },
   {
     "id": 137922342,
@@ -10491,7 +10491,7 @@ export const articles: Article[] = [
     "word_count": 2071,
     "comment_count": 562,
     "likes": 257,
-    "category": "Strategies to Tackle Urban Crime and Gun Violence"
+    "category": "Policing and Justice System Dynamics"
   },
   {
     "id": 137979398,
@@ -10504,7 +10504,7 @@ export const articles: Article[] = [
     "word_count": 2908,
     "comment_count": 595,
     "likes": 466,
-    "category": "Contested Narratives in the Israel-Palestine Conflict"
+    "category": "Complexities of the Israel-Palestine Conflict"
   },
   {
     "id": 138038255,
@@ -10530,7 +10530,7 @@ export const articles: Article[] = [
     "word_count": 3472,
     "comment_count": 489,
     "likes": 155,
-    "category": "Challenges and Strategies for Democrats in Modern Politics"
+    "category": "Democratic Party and Electoral Dynamics"
   },
   {
     "id": 138119600,
@@ -10543,7 +10543,7 @@ export const articles: Article[] = [
     "word_count": 2014,
     "comment_count": 418,
     "likes": 382,
-    "category": "Balancing Competition and Regulation in Modern Markets"
+    "category": "Competition, Media, and Future Risks"
   },
   {
     "id": 138122697,
@@ -10556,7 +10556,7 @@ export const articles: Article[] = [
     "word_count": 2368,
     "comment_count": 585,
     "likes": 364,
-    "category": "Economic Myths and Policy Debates"
+    "category": "Complex Interplay of Politics and Policy"
   },
   {
     "id": 138200384,
@@ -10569,7 +10569,7 @@ export const articles: Article[] = [
     "word_count": 2164,
     "comment_count": 563,
     "likes": 375,
-    "category": "Modern Political and Cultural Alignments"
+    "category": "Complexities of the Israel-Palestine Conflict"
   },
   {
     "id": 138246407,
@@ -10582,7 +10582,7 @@ export const articles: Article[] = [
     "word_count": 2118,
     "comment_count": 445,
     "likes": 251,
-    "category": "Strategic Messaging and Policy Prioritization for Elections"
+    "category": "Strategies and Challenges in Modern Politics"
   },
   {
     "id": 138278391,
@@ -10595,7 +10595,7 @@ export const articles: Article[] = [
     "word_count": 4146,
     "comment_count": 615,
     "likes": 149,
-    "category": "Challenges in Housing, AI Education, and Politics"
+    "category": "Democratic Party and Electoral Dynamics"
   },
   {
     "id": 138304414,
@@ -10608,7 +10608,7 @@ export const articles: Article[] = [
     "word_count": 1751,
     "comment_count": 350,
     "likes": 184,
-    "category": "Strategic Messaging and Policy Prioritization for Elections"
+    "category": "Strategies and Challenges in Modern Politics"
   },
   {
     "id": 138362581,
@@ -10621,7 +10621,7 @@ export const articles: Article[] = [
     "word_count": 2209,
     "comment_count": 330,
     "likes": 236,
-    "category": "Reforming Policing and Crime Strategies"
+    "category": "Policing and Justice System Dynamics"
   },
   {
     "id": 138427971,
@@ -10634,7 +10634,7 @@ export const articles: Article[] = [
     "word_count": 2376,
     "comment_count": 508,
     "likes": 241,
-    "category": "Challenges and Advances in Vaccine Development and Distribution"
+    "category": "Reflections on Pandemic Responses"
   },
   {
     "id": 138438756,
@@ -10647,7 +10647,7 @@ export const articles: Article[] = [
     "word_count": 3155,
     "comment_count": 588,
     "likes": 394,
-    "category": "Contested Narratives in the Israel-Palestine Conflict"
+    "category": "Complexities of the Israel-Palestine Conflict"
   },
   {
     "id": 138439047,
@@ -10660,7 +10660,7 @@ export const articles: Article[] = [
     "word_count": 3856,
     "comment_count": 564,
     "likes": 126,
-    "category": "Challenges in Housing, AI Education, and Politics"
+    "category": "Democratic Party and Electoral Dynamics"
   },
   {
     "id": 138527237,
@@ -10673,7 +10673,7 @@ export const articles: Article[] = [
     "word_count": 2059,
     "comment_count": 569,
     "likes": 287,
-    "category": "Urban Housing, Policy, and Growth Dynamics"
+    "category": "Tourism and Housing Dynamics in Urban Landscapes"
   },
   {
     "id": 138539348,
@@ -10686,7 +10686,7 @@ export const articles: Article[] = [
     "word_count": 2302,
     "comment_count": 646,
     "likes": 469,
-    "category": "Modern Political and Cultural Alignments"
+    "category": "Complex Interplay of Politics and Policy"
   },
   {
     "id": 138634813,
@@ -10699,7 +10699,7 @@ export const articles: Article[] = [
     "word_count": 2232,
     "comment_count": 373,
     "likes": 305,
-    "category": "Electoral Innovations and Democratic Challenges"
+    "category": "Kamala Harris and Biden's Political Strategy"
   },
   {
     "id": 138654962,
@@ -10712,7 +10712,7 @@ export const articles: Article[] = [
     "word_count": 3598,
     "comment_count": 492,
     "likes": 112,
-    "category": "Challenges and Strategies for Democrats in Modern Politics"
+    "category": "Democratic Party and Electoral Dynamics"
   },
   {
     "id": 138684215,
@@ -10725,7 +10725,7 @@ export const articles: Article[] = [
     "word_count": 1368,
     "comment_count": 402,
     "likes": 270,
-    "category": "Navigating Voter Demographics and Party Strategies"
+    "category": "Future Democratic Strategies for 2024"
   },
   {
     "id": 138692825,
@@ -10738,7 +10738,7 @@ export const articles: Article[] = [
     "word_count": 2545,
     "comment_count": 254,
     "likes": 73,
-    "category": "Navigating Voter Demographics and Party Strategies"
+    "category": "Kamala Harris and Biden's Political Strategy"
   },
   {
     "id": 138753842,
@@ -10751,7 +10751,7 @@ export const articles: Article[] = [
     "word_count": 2258,
     "comment_count": 518,
     "likes": 300,
-    "category": "Media's Role in Political Dynamics and Decline"
+    "category": "Future Democratic Strategies for 2024"
   },
   {
     "id": 138830567,
@@ -10764,7 +10764,7 @@ export const articles: Article[] = [
     "word_count": 2290,
     "comment_count": 898,
     "likes": 461,
-    "category": "Contested Narratives in the Israel-Palestine Conflict"
+    "category": "Complexities of the Israel-Palestine Conflict"
   },
   {
     "id": 138860421,
@@ -10777,7 +10777,7 @@ export const articles: Article[] = [
     "word_count": 2072,
     "comment_count": 335,
     "likes": 291,
-    "category": "Balancing Market Growth and Government Efficiency"
+    "category": "Exploring Welfare and Economic Policy Reforms"
   },
   {
     "id": 138876477,
@@ -10790,7 +10790,7 @@ export const articles: Article[] = [
     "word_count": 4094,
     "comment_count": 433,
     "likes": 116,
-    "category": "Immigration Debates and Policy Implications"
+    "category": "Democratic Party and Electoral Dynamics"
   },
   {
     "id": 138927021,
@@ -10803,7 +10803,7 @@ export const articles: Article[] = [
     "word_count": 2089,
     "comment_count": 379,
     "likes": 206,
-    "category": "Trump vs. Biden: Policy and Political Implications"
+    "category": "Economic Policies and Partisan Divides"
   },
   {
     "id": 138947301,
@@ -10816,7 +10816,7 @@ export const articles: Article[] = [
     "word_count": 1086,
     "comment_count": 283,
     "likes": 376,
-    "category": "Trump vs. Biden: Policy and Political Implications"
+    "category": "Navigating Fiscal Policy and Debt Challenges"
   },
   {
     "id": 138955338,
@@ -10829,7 +10829,7 @@ export const articles: Article[] = [
     "word_count": 1703,
     "comment_count": 320,
     "likes": 193,
-    "category": "Trump vs. Biden: Policy and Political Implications"
+    "category": "Strategies and Challenges in Modern Politics"
   },
   {
     "id": 138955734,
@@ -10855,7 +10855,7 @@ export const articles: Article[] = [
     "word_count": 1322,
     "comment_count": 804,
     "likes": 289,
-    "category": "Modern Political and Cultural Alignments"
+    "category": "Complexities of the Israel-Palestine Conflict"
   },
   {
     "id": 139015608,
@@ -10868,7 +10868,7 @@ export const articles: Article[] = [
     "word_count": 2479,
     "comment_count": 357,
     "likes": 210,
-    "category": "Racial and Economic Justice in America"
+    "category": "Complex Interplay of Politics and Policy"
   },
   {
     "id": 139052205,
@@ -10881,7 +10881,7 @@ export const articles: Article[] = [
     "word_count": 1863,
     "comment_count": 88,
     "likes": 201,
-    "category": "Media's Role in Political Dynamics and Decline"
+    "category": "Competition, Media, and Future Risks"
   },
   {
     "id": 139075129,
@@ -10894,7 +10894,7 @@ export const articles: Article[] = [
     "word_count": 3534,
     "comment_count": 401,
     "likes": 152,
-    "category": "Modern Political and Cultural Alignments"
+    "category": "Complex Interplay of Politics and Policy"
   },
   {
     "id": 139201320,
@@ -10907,7 +10907,7 @@ export const articles: Article[] = [
     "word_count": 2561,
     "comment_count": 463,
     "likes": 250,
-    "category": "Trump vs. Biden: Policy and Political Implications"
+    "category": "Complex Interplay of Politics and Policy"
   },
   {
     "id": 139231317,
@@ -10920,7 +10920,7 @@ export const articles: Article[] = [
     "word_count": 2076,
     "comment_count": 637,
     "likes": 226,
-    "category": "Economic Stimulus and Inflation Challenges"
+    "category": "Economic Policies and Partisan Divides"
   },
   {
     "id": 139240097,
@@ -10933,7 +10933,7 @@ export const articles: Article[] = [
     "word_count": 4099,
     "comment_count": 671,
     "likes": 105,
-    "category": "Challenges in Housing, AI Education, and Politics"
+    "category": "Democratic Party and Electoral Dynamics"
   },
   {
     "id": 139298648,
@@ -10946,7 +10946,7 @@ export const articles: Article[] = [
     "word_count": 2171,
     "comment_count": 300,
     "likes": 120,
-    "category": "Media's Role in Political Dynamics and Decline"
+    "category": "Competition, Media, and Future Risks"
   },
   {
     "id": 139311620,
@@ -10959,7 +10959,7 @@ export const articles: Article[] = [
     "word_count": 2782,
     "comment_count": 452,
     "likes": 258,
-    "category": "Economic Myths and Policy Debates"
+    "category": "Complex Interplay of Politics and Policy"
   },
   {
     "id": 139327136,
@@ -10972,7 +10972,7 @@ export const articles: Article[] = [
     "word_count": 2267,
     "comment_count": 296,
     "likes": 214,
-    "category": "Trump vs. Biden: Policy and Political Implications"
+    "category": "Trump's Influence on Politics and Media"
   },
   {
     "id": 139361343,
@@ -10985,7 +10985,7 @@ export const articles: Article[] = [
     "word_count": 2343,
     "comment_count": 243,
     "likes": 208,
-    "category": "Housing Policy Changes for Growth"
+    "category": "Zoning Reforms and Housing Scarcity"
   },
   {
     "id": 139452659,
@@ -10998,7 +10998,7 @@ export const articles: Article[] = [
     "word_count": 2073,
     "comment_count": 533,
     "likes": 159,
-    "category": "Navigating Energy Policy Trade-offs and Climate Goals"
+    "category": "Complexities and Debates in Climate Policy"
   },
   {
     "id": 139463765,
@@ -11011,7 +11011,7 @@ export const articles: Article[] = [
     "word_count": 3901,
     "comment_count": 436,
     "likes": 83,
-    "category": "Challenges and Strategies for Democrats in Modern Politics"
+    "category": "Democratic Party and Electoral Dynamics"
   },
   {
     "id": 139503708,
@@ -11024,7 +11024,7 @@ export const articles: Article[] = [
     "word_count": 2741,
     "comment_count": 473,
     "likes": 384,
-    "category": "Contested Narratives in the Israel-Palestine Conflict"
+    "category": "Complexities of the Israel-Palestine Conflict"
   },
   {
     "id": 139614233,
@@ -11037,7 +11037,7 @@ export const articles: Article[] = [
     "word_count": 2583,
     "comment_count": 408,
     "likes": 228,
-    "category": "Media's Role in Political Dynamics and Decline"
+    "category": "Competition, Media, and Future Risks"
   },
   {
     "id": 139679165,
@@ -11050,7 +11050,7 @@ export const articles: Article[] = [
     "word_count": 2475,
     "comment_count": 270,
     "likes": 209,
-    "category": "Strategies to Tackle Urban Crime and Gun Violence"
+    "category": "Policing and Justice System Dynamics"
   },
   {
     "id": 139699227,
@@ -11063,7 +11063,7 @@ export const articles: Article[] = [
     "word_count": 2040,
     "comment_count": 423,
     "likes": 105,
-    "category": "Kamala Harris and Democratic Elections Strategy"
+    "category": "Kamala Harris and Biden's Political Strategy"
   },
   {
     "id": 139705348,
@@ -11076,7 +11076,7 @@ export const articles: Article[] = [
     "word_count": 2177,
     "comment_count": 340,
     "likes": 132,
-    "category": "Immigration Debates and Policy Implications"
+    "category": "Legislative Strategies and Challenges"
   },
   {
     "id": 139731962,
@@ -11089,7 +11089,7 @@ export const articles: Article[] = [
     "word_count": 3859,
     "comment_count": 258,
     "likes": 105,
-    "category": "Challenges and Strategies for Democrats in Modern Politics"
+    "category": "Democratic Party and Electoral Dynamics"
   },
   {
     "id": 139756763,
@@ -11102,7 +11102,7 @@ export const articles: Article[] = [
     "word_count": 2929,
     "comment_count": 212,
     "likes": 159,
-    "category": "Balancing Competition and Regulation in Modern Markets"
+    "category": "Competition, Media, and Future Risks"
   },
   {
     "id": 139789277,
@@ -11115,7 +11115,7 @@ export const articles: Article[] = [
     "word_count": 1951,
     "comment_count": 536,
     "likes": 198,
-    "category": "Immigration Debates and Policy Implications"
+    "category": "Economic Policies and Partisan Divides"
   },
   {
     "id": 139827205,
@@ -11128,7 +11128,7 @@ export const articles: Article[] = [
     "word_count": 1605,
     "comment_count": 250,
     "likes": 178,
-    "category": "Navigating Voter Demographics and Party Strategies"
+    "category": "Strategies and Challenges in Modern Politics"
   },
   {
     "id": 139888779,
@@ -11141,7 +11141,7 @@ export const articles: Article[] = [
     "word_count": 2223,
     "comment_count": 572,
     "likes": 217,
-    "category": "Balancing Competition and Regulation in Modern Markets"
+    "category": "Challenges and Innovations in Sports and Gambling"
   },
   {
     "id": 139896138,
@@ -11154,7 +11154,7 @@ export const articles: Article[] = [
     "word_count": 2423,
     "comment_count": 622,
     "likes": 330,
-    "category": "Urban Housing, Policy, and Growth Dynamics"
+    "category": "Tourism and Housing Dynamics in Urban Landscapes"
   },
   {
     "id": 139903555,
@@ -11167,7 +11167,7 @@ export const articles: Article[] = [
     "word_count": 1964,
     "comment_count": 478,
     "likes": 232,
-    "category": "Balancing Market Growth and Government Efficiency"
+    "category": "Economic Policies and Partisan Divides"
   },
   {
     "id": 139904262,
@@ -11180,7 +11180,7 @@ export const articles: Article[] = [
     "word_count": 2014,
     "comment_count": 388,
     "likes": 290,
-    "category": "Racial and Economic Justice in America"
+    "category": "Complex Interplay of Politics and Policy"
   },
   {
     "id": 139935284,
@@ -11193,7 +11193,7 @@ export const articles: Article[] = [
     "word_count": 3977,
     "comment_count": 374,
     "likes": 92,
-    "category": "Challenges and Strategies for Democrats in Modern Politics"
+    "category": "Democratic Party and Electoral Dynamics"
   },
   {
     "id": 139952760,
@@ -11206,7 +11206,7 @@ export const articles: Article[] = [
     "word_count": 1937,
     "comment_count": 472,
     "likes": 179,
-    "category": "Improving Prediction Accuracy and Calibration"
+    "category": "Future Democratic Strategies for 2024"
   },
   {
     "id": 139985720,
@@ -11232,7 +11232,7 @@ export const articles: Article[] = [
     "word_count": 3110,
     "comment_count": 539,
     "likes": 149,
-    "category": "Challenges in Housing, AI Education, and Politics"
+    "category": "Democratic Party and Electoral Dynamics"
   },
   {
     "id": 140244705,
@@ -11245,7 +11245,7 @@ export const articles: Article[] = [
     "word_count": 4633,
     "comment_count": 474,
     "likes": 119,
-    "category": "Challenges in Housing, AI Education, and Politics"
+    "category": "Democratic Party and Electoral Dynamics"
   },
   {
     "id": 140321805,
@@ -11258,7 +11258,7 @@ export const articles: Article[] = [
     "word_count": 2340,
     "comment_count": 399,
     "likes": 275,
-    "category": "Housing Policy Changes for Growth"
+    "category": "Zoning Reforms and Housing Scarcity"
   },
   {
     "id": 140388969,
@@ -11271,7 +11271,7 @@ export const articles: Article[] = [
     "word_count": 1929,
     "comment_count": 535,
     "likes": 532,
-    "category": "Balancing Market Growth and Government Efficiency"
+    "category": "Complex Intersections in Policy and Health"
   },
   {
     "id": 140478660,
@@ -11284,7 +11284,7 @@ export const articles: Article[] = [
     "word_count": 2301,
     "comment_count": 244,
     "likes": 242,
-    "category": "Balancing Competition and Regulation in Modern Markets"
+    "category": "Competition, Media, and Future Risks"
   },
   {
     "id": 140481007,
@@ -11310,7 +11310,7 @@ export const articles: Article[] = [
     "word_count": 3264,
     "comment_count": 579,
     "likes": 161,
-    "category": "Challenges and Strategies for Democrats in Modern Politics"
+    "category": "Democratic Party and Electoral Dynamics"
   },
   {
     "id": 140589619,
@@ -11323,7 +11323,7 @@ export const articles: Article[] = [
     "word_count": 2508,
     "comment_count": 614,
     "likes": 318,
-    "category": "Navigating Energy Policy Trade-offs and Climate Goals"
+    "category": "Complexities and Debates in Climate Policy"
   },
   {
     "id": 140643346,
@@ -11336,7 +11336,7 @@ export const articles: Article[] = [
     "word_count": 1836,
     "comment_count": 257,
     "likes": 206,
-    "category": "Education Reform and Teacher Policies"
+    "category": "Evolving Dynamics in U.S. K-12 Education"
   },
   {
     "id": 140675883,
@@ -11349,7 +11349,7 @@ export const articles: Article[] = [
     "word_count": 2558,
     "comment_count": 324,
     "likes": 290,
-    "category": "Housing Policy Changes for Growth"
+    "category": "Zoning Reforms and Housing Scarcity"
   },
   {
     "id": 140688665,
@@ -11362,7 +11362,7 @@ export const articles: Article[] = [
     "word_count": 2417,
     "comment_count": 176,
     "likes": 253,
-    "category": "Electoral Innovations and Democratic Challenges"
+    "category": "Kamala Harris and Biden's Political Strategy"
   },
   {
     "id": 140766602,
@@ -11375,7 +11375,7 @@ export const articles: Article[] = [
     "word_count": 2160,
     "comment_count": 471,
     "likes": 365,
-    "category": "Media's Role in Political Dynamics and Decline"
+    "category": "Complex Intersections in Policy and Health"
   },
   {
     "id": 140767251,
@@ -11388,7 +11388,7 @@ export const articles: Article[] = [
     "word_count": 3647,
     "comment_count": 443,
     "likes": 173,
-    "category": "Housing Policy Changes for Growth"
+    "category": "Zoning Reforms and Housing Scarcity"
   },
   {
     "id": 140844058,
@@ -11401,7 +11401,7 @@ export const articles: Article[] = [
     "word_count": 2409,
     "comment_count": 232,
     "likes": 201,
-    "category": "Urban Housing, Policy, and Growth Dynamics"
+    "category": "Zoning Reforms and Housing Scarcity"
   },
   {
     "id": 140873227,
@@ -11414,7 +11414,7 @@ export const articles: Article[] = [
     "word_count": 2458,
     "comment_count": 692,
     "likes": 323,
-    "category": "Urban Evolution and Housing Challenges"
+    "category": "Complex Interplay of Politics and Policy"
   },
   {
     "id": 140960236,
@@ -11427,7 +11427,7 @@ export const articles: Article[] = [
     "word_count": 1860,
     "comment_count": 631,
     "likes": 256,
-    "category": "Trump vs. Biden: Policy and Political Implications"
+    "category": "Economic Policies and Partisan Divides"
   },
   {
     "id": 140984718,
@@ -11440,7 +11440,7 @@ export const articles: Article[] = [
     "word_count": 3347,
     "comment_count": 527,
     "likes": 102,
-    "category": "Challenges and Strategies for Democrats in Modern Politics"
+    "category": "Democratic Party and Electoral Dynamics"
   },
   {
     "id": 141040246,
@@ -11453,7 +11453,7 @@ export const articles: Article[] = [
     "word_count": 2090,
     "comment_count": 414,
     "likes": 162,
-    "category": "Trump vs. Biden: Policy and Political Implications"
+    "category": "Trump's Influence on Politics and Media"
   },
   {
     "id": 141048087,
@@ -11466,7 +11466,7 @@ export const articles: Article[] = [
     "word_count": 2345,
     "comment_count": 504,
     "likes": 239,
-    "category": "Navigating Energy Policy Trade-offs and Climate Goals"
+    "category": "Complexities and Debates in Climate Policy"
   },
   {
     "id": 141120963,
@@ -11479,7 +11479,7 @@ export const articles: Article[] = [
     "word_count": 2533,
     "comment_count": 334,
     "likes": 290,
-    "category": "Media's Role in Political Dynamics and Decline"
+    "category": "Competition, Media, and Future Risks"
   },
   {
     "id": 141160983,
@@ -11492,7 +11492,7 @@ export const articles: Article[] = [
     "word_count": 1809,
     "comment_count": 186,
     "likes": 195,
-    "category": "Navigating Energy Policy Trade-offs and Climate Goals"
+    "category": "Energy Transition and Innovation Strategies"
   },
   {
     "id": 141199054,
@@ -11505,7 +11505,7 @@ export const articles: Article[] = [
     "word_count": 2342,
     "comment_count": 285,
     "likes": 117,
-    "category": "Immigration Debates and Policy Implications"
+    "category": "Policing and Justice System Dynamics"
   },
   {
     "id": 141231262,
@@ -11518,7 +11518,7 @@ export const articles: Article[] = [
     "word_count": 3592,
     "comment_count": 512,
     "likes": 87,
-    "category": "Challenges and Strategies for Democrats in Modern Politics"
+    "category": "Democratic Party and Electoral Dynamics"
   },
   {
     "id": 141311473,
@@ -11531,7 +11531,7 @@ export const articles: Article[] = [
     "word_count": 2343,
     "comment_count": 488,
     "likes": 291,
-    "category": "Fiscal Clash: Taxes, Cuts, and Debt"
+    "category": "Economic Policies and Partisan Divides"
   },
   {
     "id": 141323465,
@@ -11544,7 +11544,7 @@ export const articles: Article[] = [
     "word_count": 2398,
     "comment_count": 433,
     "likes": 243,
-    "category": "Urban Housing, Policy, and Growth Dynamics"
+    "category": "Zoning Reforms and Housing Scarcity"
   },
   {
     "id": 141377781,
@@ -11557,7 +11557,7 @@ export const articles: Article[] = [
     "word_count": 2425,
     "comment_count": 406,
     "likes": 216,
-    "category": "Urban Housing, Policy, and Growth Dynamics"
+    "category": "Tourism and Housing Dynamics in Urban Landscapes"
   },
   {
     "id": 141412010,
@@ -11570,7 +11570,7 @@ export const articles: Article[] = [
     "word_count": 2185,
     "comment_count": 738,
     "likes": 317,
-    "category": "Navigating Voter Demographics and Party Strategies"
+    "category": "Kamala Harris and Biden's Political Strategy"
   },
   {
     "id": 141428009,
@@ -11583,7 +11583,7 @@ export const articles: Article[] = [
     "word_count": 1803,
     "comment_count": 342,
     "likes": 194,
-    "category": "Urban Evolution and Housing Challenges"
+    "category": "Interpreting Economic Forces and Policy Responses"
   },
   {
     "id": 141438765,
@@ -11596,7 +11596,7 @@ export const articles: Article[] = [
     "word_count": 4332,
     "comment_count": 616,
     "likes": 109,
-    "category": "Challenges and Strategies for Democrats in Modern Politics"
+    "category": "Democratic Party and Electoral Dynamics"
   },
   {
     "id": 141462137,
@@ -11609,7 +11609,7 @@ export const articles: Article[] = [
     "word_count": 2508,
     "comment_count": 471,
     "likes": 173,
-    "category": "Immigration Debates and Policy Implications"
+    "category": "Legislative Strategies and Challenges"
   },
   {
     "id": 141480244,
@@ -11622,7 +11622,7 @@ export const articles: Article[] = [
     "word_count": 2093,
     "comment_count": 429,
     "likes": 214,
-    "category": "US-China Geopolitical and Economic Strategies"
+    "category": "Evolving Strategies in US-China Relations"
   },
   {
     "id": 141548503,
@@ -11635,7 +11635,7 @@ export const articles: Article[] = [
     "word_count": 2176,
     "comment_count": 587,
     "likes": 304,
-    "category": "Modern Political and Cultural Alignments"
+    "category": "Complex Interplay of Politics and Policy"
   },
   {
     "id": 141575858,
@@ -11648,7 +11648,7 @@ export const articles: Article[] = [
     "word_count": 2041,
     "comment_count": 452,
     "likes": 287,
-    "category": "Trump vs. Biden: Policy and Political Implications"
+    "category": "Kamala Harris and Biden's Political Strategy"
   },
   {
     "id": 141638014,
@@ -11661,7 +11661,7 @@ export const articles: Article[] = [
     "word_count": 2881,
     "comment_count": 308,
     "likes": 98,
-    "category": "Challenges in Housing, AI Education, and Politics"
+    "category": "Policing and Justice System Dynamics"
   },
   {
     "id": 141676111,
@@ -11674,7 +11674,7 @@ export const articles: Article[] = [
     "word_count": 600,
     "comment_count": 119,
     "likes": 185,
-    "category": "Media's Role in Political Dynamics and Decline"
+    "category": "Competition, Media, and Future Risks"
   },
   {
     "id": 141860070,
@@ -11687,7 +11687,7 @@ export const articles: Article[] = [
     "word_count": 2792,
     "comment_count": 662,
     "likes": 240,
-    "category": "Immigration Debates and Policy Implications"
+    "category": "Complex Interplay of Politics and Policy"
   },
   {
     "id": 141877832,
@@ -11700,7 +11700,7 @@ export const articles: Article[] = [
     "word_count": 1770,
     "comment_count": 540,
     "likes": 310,
-    "category": "Kamala Harris and Democratic Elections Strategy"
+    "category": "Kamala Harris and Biden's Political Strategy"
   },
   {
     "id": 141890579,
@@ -11713,7 +11713,7 @@ export const articles: Article[] = [
     "word_count": 2357,
     "comment_count": 384,
     "likes": 104,
-    "category": "Challenges and Strategies for Democrats in Modern Politics"
+    "category": "Democratic Party and Electoral Dynamics"
   },
   {
     "id": 141936015,
@@ -11726,7 +11726,7 @@ export const articles: Article[] = [
     "word_count": 1873,
     "comment_count": 407,
     "likes": 305,
-    "category": "Contested Narratives in the Israel-Palestine Conflict"
+    "category": "Geopolitical Tensions and Energy Dynamics"
   },
   {
     "id": 141937075,
@@ -11739,7 +11739,7 @@ export const articles: Article[] = [
     "word_count": 1984,
     "comment_count": 635,
     "likes": 205,
-    "category": "Challenges in Modern American Education"
+    "category": "Evolving Dynamics in U.S. K-12 Education"
   },
   {
     "id": 142033477,
@@ -11752,7 +11752,7 @@ export const articles: Article[] = [
     "word_count": 2670,
     "comment_count": 387,
     "likes": 243,
-    "category": "Housing Policy Changes for Growth"
+    "category": "Transportation and Urban Policy Challenges"
   },
   {
     "id": 142095468,
@@ -11765,7 +11765,7 @@ export const articles: Article[] = [
     "word_count": 1909,
     "comment_count": 1016,
     "likes": 341,
-    "category": "Navigating Voter Demographics and Party Strategies"
+    "category": "Strategies and Challenges in Modern Politics"
   },
   {
     "id": 142120863,
@@ -11778,7 +11778,7 @@ export const articles: Article[] = [
     "word_count": 2305,
     "comment_count": 241,
     "likes": 151,
-    "category": "Navigating Energy Policy Trade-offs and Climate Goals"
+    "category": "Complexities and Debates in Climate Policy"
   },
   {
     "id": 142203769,
@@ -11804,7 +11804,7 @@ export const articles: Article[] = [
     "word_count": 2401,
     "comment_count": 420,
     "likes": 253,
-    "category": "Housing Policy Changes for Growth"
+    "category": "Zoning Reforms and Housing Scarcity"
   },
   {
     "id": 142219454,
@@ -11817,7 +11817,7 @@ export const articles: Article[] = [
     "word_count": 2159,
     "comment_count": 324,
     "likes": 275,
-    "category": "Kamala Harris and Democratic Elections Strategy"
+    "category": "Trump's Influence on Politics and Media"
   },
   {
     "id": 142281723,
@@ -11830,7 +11830,7 @@ export const articles: Article[] = [
     "word_count": 2278,
     "comment_count": 552,
     "likes": 215,
-    "category": "Democratic Legislative Challenges and Strategies"
+    "category": "Economic Policies and Partisan Divides"
   },
   {
     "id": 142334841,
@@ -11843,7 +11843,7 @@ export const articles: Article[] = [
     "word_count": 2142,
     "comment_count": 378,
     "likes": 279,
-    "category": "Kamala Harris and Democratic Elections Strategy"
+    "category": "Future Democratic Strategies for 2024"
   },
   {
     "id": 142344099,
@@ -11856,7 +11856,7 @@ export const articles: Article[] = [
     "word_count": 1534,
     "comment_count": 346,
     "likes": 192,
-    "category": "Economic Myths and Policy Debates"
+    "category": "Competition, Media, and Future Risks"
   },
   {
     "id": 142413465,
@@ -11869,7 +11869,7 @@ export const articles: Article[] = [
     "word_count": 2855,
     "comment_count": 335,
     "likes": 199,
-    "category": "Contested Narratives in the Israel-Palestine Conflict"
+    "category": "Geopolitical Tensions and Energy Dynamics"
   },
   {
     "id": 142476819,
@@ -11882,7 +11882,7 @@ export const articles: Article[] = [
     "word_count": 2300,
     "comment_count": 616,
     "likes": 259,
-    "category": "US-China Geopolitical and Economic Strategies"
+    "category": "Evolving Strategies in US-China Relations"
   },
   {
     "id": 142512802,
@@ -11895,7 +11895,7 @@ export const articles: Article[] = [
     "word_count": 2106,
     "comment_count": 378,
     "likes": 134,
-    "category": "Housing Policy Changes for Growth"
+    "category": "Zoning Reforms and Housing Scarcity"
   },
   {
     "id": 142532955,
@@ -11908,7 +11908,7 @@ export const articles: Article[] = [
     "word_count": 2257,
     "comment_count": 291,
     "likes": 136,
-    "category": "Challenges and Advances in Vaccine Development and Distribution"
+    "category": "Challenges and Innovations in Global Vaccination"
   },
   {
     "id": 142578274,
@@ -11921,7 +11921,7 @@ export const articles: Article[] = [
     "word_count": 2252,
     "comment_count": 561,
     "likes": 197,
-    "category": "Balancing Market Growth and Government Efficiency"
+    "category": "Evolving Challenges in Higher Education"
   },
   {
     "id": 142588441,
@@ -11934,7 +11934,7 @@ export const articles: Article[] = [
     "word_count": 1225,
     "comment_count": 96,
     "likes": 100,
-    "category": "Electoral Innovations and Democratic Challenges"
+    "category": "Future Democratic Strategies for 2024"
   },
   {
     "id": 142610868,
@@ -11947,7 +11947,7 @@ export const articles: Article[] = [
     "word_count": 2045,
     "comment_count": 355,
     "likes": 191,
-    "category": "Reforming Policing and Crime Strategies"
+    "category": "Policing and Justice System Dynamics"
   },
   {
     "id": 142644179,
@@ -11960,7 +11960,7 @@ export const articles: Article[] = [
     "word_count": 2121,
     "comment_count": 302,
     "likes": 202,
-    "category": "Fiscal Clash: Taxes, Cuts, and Debt"
+    "category": "Navigating Fiscal Policy and Debt Challenges"
   },
   {
     "id": 142685541,
@@ -11973,7 +11973,7 @@ export const articles: Article[] = [
     "word_count": 2487,
     "comment_count": 760,
     "likes": 299,
-    "category": "Contested Narratives in the Israel-Palestine Conflict"
+    "category": "Complexities of the Israel-Palestine Conflict"
   },
   {
     "id": 142734693,
@@ -11986,7 +11986,7 @@ export const articles: Article[] = [
     "word_count": 1545,
     "comment_count": 158,
     "likes": 122,
-    "category": "Electoral Innovations and Democratic Challenges"
+    "category": "Future Democratic Strategies for 2024"
   },
   {
     "id": 142768970,
@@ -11999,7 +11999,7 @@ export const articles: Article[] = [
     "word_count": 1863,
     "comment_count": 265,
     "likes": 142,
-    "category": "Navigating Energy Policy Trade-offs and Climate Goals"
+    "category": "Complexities and Debates in Climate Policy"
   },
   {
     "id": 142790298,
@@ -12012,7 +12012,7 @@ export const articles: Article[] = [
     "word_count": 2156,
     "comment_count": 309,
     "likes": 153,
-    "category": "Urban Housing, Policy, and Growth Dynamics"
+    "category": "Zoning Reforms and Housing Scarcity"
   },
   {
     "id": 142790747,
@@ -12025,7 +12025,7 @@ export const articles: Article[] = [
     "word_count": 1314,
     "comment_count": 283,
     "likes": 182,
-    "category": "Navigating Voter Demographics and Party Strategies"
+    "category": "Future Democratic Strategies for 2024"
   },
   {
     "id": 142830746,
@@ -12038,7 +12038,7 @@ export const articles: Article[] = [
     "word_count": 2483,
     "comment_count": 479,
     "likes": 146,
-    "category": "Navigating Energy Policy Trade-offs and Climate Goals"
+    "category": "Complexities and Debates in Climate Policy"
   },
   {
     "id": 142881561,
@@ -12051,7 +12051,7 @@ export const articles: Article[] = [
     "word_count": 1868,
     "comment_count": 389,
     "likes": 184,
-    "category": "Fiscal Clash: Taxes, Cuts, and Debt"
+    "category": "Navigating Fiscal Policy and Debt Challenges"
   },
   {
     "id": 142926026,
@@ -12064,7 +12064,7 @@ export const articles: Article[] = [
     "word_count": 2234,
     "comment_count": 736,
     "likes": 300,
-    "category": "Challenges and Advances in Vaccine Development and Distribution"
+    "category": "Reflections on Pandemic Responses"
   },
   {
     "id": 143004714,
@@ -12077,7 +12077,7 @@ export const articles: Article[] = [
     "word_count": 2451,
     "comment_count": 374,
     "likes": 157,
-    "category": "US-China Geopolitical and Economic Strategies"
+    "category": "Evolving Strategies in US-China Relations"
   },
   {
     "id": 143007767,
@@ -12090,7 +12090,7 @@ export const articles: Article[] = [
     "word_count": 1480,
     "comment_count": 93,
     "likes": 121,
-    "category": "Economic Myths and Policy Debates"
+    "category": "Challenges and Innovations in Sports and Gambling"
   },
   {
     "id": 143022599,
@@ -12103,7 +12103,7 @@ export const articles: Article[] = [
     "word_count": 2110,
     "comment_count": 518,
     "likes": 252,
-    "category": "Strategic Messaging and Policy Prioritization for Elections"
+    "category": "Strategies and Challenges in Modern Politics"
   },
   {
     "id": 143053525,
@@ -12116,7 +12116,7 @@ export const articles: Article[] = [
     "word_count": 2374,
     "comment_count": 314,
     "likes": 134,
-    "category": "Economic Stimulus and Inflation Challenges"
+    "category": "Economic Policies and Partisan Divides"
   },
   {
     "id": 143106602,
@@ -12129,7 +12129,7 @@ export const articles: Article[] = [
     "word_count": 2134,
     "comment_count": 269,
     "likes": 200,
-    "category": "Balancing Market Growth and Government Efficiency"
+    "category": "Complex Intersections in Policy and Health"
   },
   {
     "id": 143123804,
@@ -12142,7 +12142,7 @@ export const articles: Article[] = [
     "word_count": 2176,
     "comment_count": 267,
     "likes": 163,
-    "category": "Navigating Energy Policy Trade-offs and Climate Goals"
+    "category": "Energy Transition and Innovation Strategies"
   },
   {
     "id": 143154683,
@@ -12155,7 +12155,7 @@ export const articles: Article[] = [
     "word_count": 2030,
     "comment_count": 259,
     "likes": 218,
-    "category": "Housing Policy Changes for Growth"
+    "category": "Zoning Reforms and Housing Scarcity"
   },
   {
     "id": 143164099,
@@ -12168,7 +12168,7 @@ export const articles: Article[] = [
     "word_count": 1357,
     "comment_count": 204,
     "likes": 118,
-    "category": "Balancing Competition and Regulation in Modern Markets"
+    "category": "Challenges and Innovations in Sports and Gambling"
   },
   {
     "id": 143219449,
@@ -12181,7 +12181,7 @@ export const articles: Article[] = [
     "word_count": 2120,
     "comment_count": 354,
     "likes": 146,
-    "category": "Housing Policy Changes for Growth"
+    "category": "Zoning Reforms and Housing Scarcity"
   },
   {
     "id": 143262534,
@@ -12194,7 +12194,7 @@ export const articles: Article[] = [
     "word_count": 2693,
     "comment_count": 321,
     "likes": 197,
-    "category": "Economic Myths and Policy Debates"
+    "category": "Complex Interplay of Politics and Policy"
   },
   {
     "id": 143296569,
@@ -12207,7 +12207,7 @@ export const articles: Article[] = [
     "word_count": 3550,
     "comment_count": 448,
     "likes": 258,
-    "category": "Modern Political and Cultural Alignments"
+    "category": "Complex Interplay of Politics and Policy"
   },
   {
     "id": 143327149,
@@ -12220,7 +12220,7 @@ export const articles: Article[] = [
     "word_count": 2196,
     "comment_count": 300,
     "likes": 306,
-    "category": "Strategic Messaging and Policy Prioritization for Elections"
+    "category": "Future Democratic Strategies for 2024"
   },
   {
     "id": 143337367,
@@ -12233,7 +12233,7 @@ export const articles: Article[] = [
     "word_count": 2138,
     "comment_count": 567,
     "likes": 269,
-    "category": "Challenges in Modern American Education"
+    "category": "Evolving Dynamics in U.S. K-12 Education"
   },
   {
     "id": 143386348,
@@ -12246,7 +12246,7 @@ export const articles: Article[] = [
     "word_count": 2416,
     "comment_count": 404,
     "likes": 445,
-    "category": "Media's Role in Political Dynamics and Decline"
+    "category": "Competition, Media, and Future Risks"
   },
   {
     "id": 143387419,
@@ -12259,7 +12259,7 @@ export const articles: Article[] = [
     "word_count": 1479,
     "comment_count": 194,
     "likes": 129,
-    "category": "Fiscal Clash: Taxes, Cuts, and Debt"
+    "category": "Exploring Welfare and Economic Policy Reforms"
   },
   {
     "id": 143435706,
@@ -12272,7 +12272,7 @@ export const articles: Article[] = [
     "word_count": 2265,
     "comment_count": 397,
     "likes": 165,
-    "category": "Challenges in Modern American Education"
+    "category": "Evolving Dynamics in U.S. K-12 Education"
   },
   {
     "id": 143450212,
@@ -12285,7 +12285,7 @@ export const articles: Article[] = [
     "word_count": 2148,
     "comment_count": 346,
     "likes": 93,
-    "category": "Economic Myths and Policy Debates"
+    "category": "Complexities of the Israel-Palestine Conflict"
   },
   {
     "id": 143451157,
@@ -12298,7 +12298,7 @@ export const articles: Article[] = [
     "word_count": 1627,
     "comment_count": 188,
     "likes": 105,
-    "category": "Contested Narratives in the Israel-Palestine Conflict"
+    "category": "Geopolitical Tensions and Energy Dynamics"
   },
   {
     "id": 143452901,
@@ -12311,7 +12311,7 @@ export const articles: Article[] = [
     "word_count": 1620,
     "comment_count": 75,
     "likes": 195,
-    "category": "Economic Stimulus and Inflation Challenges"
+    "category": "Economic Policies and Partisan Divides"
   },
   {
     "id": 143458863,
@@ -12324,7 +12324,7 @@ export const articles: Article[] = [
     "word_count": 3523,
     "comment_count": 551,
     "likes": 111,
-    "category": "Challenges in Housing, AI Education, and Politics"
+    "category": "Democratic Party and Electoral Dynamics"
   },
   {
     "id": 143463231,
@@ -12337,7 +12337,7 @@ export const articles: Article[] = [
     "word_count": 1509,
     "comment_count": 144,
     "likes": 109,
-    "category": "Media's Role in Political Dynamics and Decline"
+    "category": "Exploring Welfare and Economic Policy Reforms"
   },
   {
     "id": 143528953,
@@ -12350,7 +12350,7 @@ export const articles: Article[] = [
     "word_count": 2286,
     "comment_count": 176,
     "likes": 93,
-    "category": "Economic Stimulus and Inflation Challenges"
+    "category": "Interpreting Economic Forces and Policy Responses"
   },
   {
     "id": 143803872,
@@ -12363,7 +12363,7 @@ export const articles: Article[] = [
     "word_count": 2291,
     "comment_count": 619,
     "likes": 508,
-    "category": "Challenges in Modern American Education"
+    "category": "Evolving Challenges in Higher Education"
   },
   {
     "id": 143851127,
@@ -12376,7 +12376,7 @@ export const articles: Article[] = [
     "word_count": 2748,
     "comment_count": 407,
     "likes": 226,
-    "category": "Trump vs. Biden: Policy and Political Implications"
+    "category": "Trump's Influence on Politics and Media"
   },
   {
     "id": 143887858,
@@ -12389,7 +12389,7 @@ export const articles: Article[] = [
     "word_count": 2072,
     "comment_count": 553,
     "likes": 249,
-    "category": "Balancing Competition and Regulation in Modern Markets"
+    "category": "Transportation and Urban Policy Challenges"
   },
   {
     "id": 143894838,
@@ -12402,7 +12402,7 @@ export const articles: Article[] = [
     "word_count": 1843,
     "comment_count": 92,
     "likes": 90,
-    "category": "Immigration Debates and Policy Implications"
+    "category": "Biden's Energy and Climate Strategy"
   },
   {
     "id": 143947056,
@@ -12415,7 +12415,7 @@ export const articles: Article[] = [
     "word_count": 2018,
     "comment_count": 264,
     "likes": 140,
-    "category": "US-China Geopolitical and Economic Strategies"
+    "category": "Economic Policies and Partisan Divides"
   },
   {
     "id": 144002140,
@@ -12428,7 +12428,7 @@ export const articles: Article[] = [
     "word_count": 1894,
     "comment_count": 397,
     "likes": 236,
-    "category": "Democratic Legislative Challenges and Strategies"
+    "category": "Complexities and Debates in Climate Policy"
   },
   {
     "id": 144036233,
@@ -12441,7 +12441,7 @@ export const articles: Article[] = [
     "word_count": 2519,
     "comment_count": 624,
     "likes": 420,
-    "category": "Economic Myths and Policy Debates"
+    "category": "Complex Interplay of Politics and Policy"
   },
   {
     "id": 144040819,
@@ -12454,7 +12454,7 @@ export const articles: Article[] = [
     "word_count": 828,
     "comment_count": 107,
     "likes": 196,
-    "category": "Navigating Energy Policy Trade-offs and Climate Goals"
+    "category": "Complexities and Debates in Climate Policy"
   },
   {
     "id": 144126362,
@@ -12467,7 +12467,7 @@ export const articles: Article[] = [
     "word_count": 1985,
     "comment_count": 327,
     "likes": 162,
-    "category": "Strategies to Tackle Urban Crime and Gun Violence"
+    "category": "Policing and Justice System Dynamics"
   },
   {
     "id": 144135784,
@@ -12480,7 +12480,7 @@ export const articles: Article[] = [
     "word_count": 2076,
     "comment_count": 546,
     "likes": 230,
-    "category": "Balancing Competition and Regulation in Modern Markets"
+    "category": "Interpreting Economic Forces and Policy Responses"
   },
   {
     "id": 144179677,
@@ -12493,7 +12493,7 @@ export const articles: Article[] = [
     "word_count": 1653,
     "comment_count": 135,
     "likes": 140,
-    "category": "Electoral Innovations and Democratic Challenges"
+    "category": "Future Democratic Strategies for 2024"
   },
   {
     "id": 144202488,
@@ -12506,7 +12506,7 @@ export const articles: Article[] = [
     "word_count": 2223,
     "comment_count": 276,
     "likes": 122,
-    "category": "Balancing Market Growth and Government Efficiency"
+    "category": "Exploring Welfare and Economic Policy Reforms"
   },
   {
     "id": 144237235,
@@ -12519,7 +12519,7 @@ export const articles: Article[] = [
     "word_count": 1921,
     "comment_count": 318,
     "likes": 126,
-    "category": "Balancing Market Growth and Government Efficiency"
+    "category": "Complex Intersections in Policy and Health"
   },
   {
     "id": 144271979,
@@ -12532,7 +12532,7 @@ export const articles: Article[] = [
     "word_count": 2136,
     "comment_count": 612,
     "likes": 244,
-    "category": "Media's Role in Political Dynamics and Decline"
+    "category": "Complex Interplay of Politics and Policy"
   },
   {
     "id": 144366310,
@@ -12545,7 +12545,7 @@ export const articles: Article[] = [
     "word_count": 2200,
     "comment_count": 429,
     "likes": 334,
-    "category": "Media's Role in Political Dynamics and Decline"
+    "category": "Competition, Media, and Future Risks"
   },
   {
     "id": 144414803,
@@ -12558,7 +12558,7 @@ export const articles: Article[] = [
     "word_count": 1976,
     "comment_count": 593,
     "likes": 245,
-    "category": "Challenges in Housing, AI Education, and Politics"
+    "category": "Evolving Challenges in Higher Education"
   },
   {
     "id": 144441010,
@@ -12571,7 +12571,7 @@ export const articles: Article[] = [
     "word_count": 1674,
     "comment_count": 102,
     "likes": 146,
-    "category": "Strategic Messaging and Policy Prioritization for Elections"
+    "category": "Future Democratic Strategies for 2024"
   },
   {
     "id": 144448371,
@@ -12584,7 +12584,7 @@ export const articles: Article[] = [
     "word_count": 2400,
     "comment_count": 388,
     "likes": 191,
-    "category": "Modern Political and Cultural Alignments"
+    "category": "Strategies and Challenges in Modern Politics"
   },
   {
     "id": 144477648,
@@ -12597,7 +12597,7 @@ export const articles: Article[] = [
     "word_count": 2439,
     "comment_count": 515,
     "likes": 556,
-    "category": "Economic Myths and Policy Debates"
+    "category": "Complex Interplay of Politics and Policy"
   },
   {
     "id": 144581902,
@@ -12610,7 +12610,7 @@ export const articles: Article[] = [
     "word_count": 3066,
     "comment_count": 264,
     "likes": 282,
-    "category": "Contested Narratives in the Israel-Palestine Conflict"
+    "category": "Geopolitical Tensions and Energy Dynamics"
   },
   {
     "id": 144632375,
@@ -12623,7 +12623,7 @@ export const articles: Article[] = [
     "word_count": 2009,
     "comment_count": 298,
     "likes": 219,
-    "category": "Housing Policy Changes for Growth"
+    "category": "Zoning Reforms and Housing Scarcity"
   },
   {
     "id": 144640694,
@@ -12636,7 +12636,7 @@ export const articles: Article[] = [
     "word_count": 1735,
     "comment_count": 144,
     "likes": 120,
-    "category": "Reforming Policing and Crime Strategies"
+    "category": "Policing and Justice System Dynamics"
   },
   {
     "id": 144663886,
@@ -12649,7 +12649,7 @@ export const articles: Article[] = [
     "word_count": 2241,
     "comment_count": 347,
     "likes": 149,
-    "category": "Challenges and Strategies for Democrats in Modern Politics"
+    "category": "Complex Interplay of Politics and Policy"
   },
   {
     "id": 144689034,
@@ -12662,7 +12662,7 @@ export const articles: Article[] = [
     "word_count": 2008,
     "comment_count": 510,
     "likes": 218,
-    "category": "Navigating Energy Policy Trade-offs and Climate Goals"
+    "category": "Complexities and Debates in Climate Policy"
   },
   {
     "id": 144723988,
@@ -12675,7 +12675,7 @@ export const articles: Article[] = [
     "word_count": 2048,
     "comment_count": 433,
     "likes": 268,
-    "category": "US-China Geopolitical and Economic Strategies"
+    "category": "Evolving Strategies in US-China Relations"
   },
   {
     "id": 144802276,
@@ -12688,7 +12688,7 @@ export const articles: Article[] = [
     "word_count": 2176,
     "comment_count": 366,
     "likes": 366,
-    "category": "Trump vs. Biden: Policy and Political Implications"
+    "category": "Trump's Influence on Politics and Media"
   },
   {
     "id": 144807712,
@@ -12701,7 +12701,7 @@ export const articles: Article[] = [
     "word_count": 2966,
     "comment_count": 715,
     "likes": 297,
-    "category": "Contested Narratives in the Israel-Palestine Conflict"
+    "category": "Complexities of the Israel-Palestine Conflict"
   },
   {
     "id": 144877183,
@@ -12714,7 +12714,7 @@ export const articles: Article[] = [
     "word_count": 2241,
     "comment_count": 236,
     "likes": 193,
-    "category": "Fiscal Clash: Taxes, Cuts, and Debt"
+    "category": "Exploring Welfare and Economic Policy Reforms"
   },
   {
     "id": 144878737,
@@ -12727,7 +12727,7 @@ export const articles: Article[] = [
     "word_count": 1460,
     "comment_count": 27,
     "likes": 158,
-    "category": "Challenges and Advances in Vaccine Development and Distribution"
+    "category": "Challenges and Innovations in Global Vaccination"
   },
   {
     "id": 144899651,
@@ -12740,7 +12740,7 @@ export const articles: Article[] = [
     "word_count": 3118,
     "comment_count": 265,
     "likes": 184,
-    "category": "Challenges in Housing, AI Education, and Politics"
+    "category": "Competition, Media, and Future Risks"
   },
   {
     "id": 144906847,
@@ -12753,7 +12753,7 @@ export const articles: Article[] = [
     "word_count": 589,
     "comment_count": 54,
     "likes": 86,
-    "category": "Economic Myths and Policy Debates"
+    "category": "Democratic Party and Electoral Dynamics"
   },
   {
     "id": 144918283,
@@ -12766,7 +12766,7 @@ export const articles: Article[] = [
     "word_count": 3257,
     "comment_count": 572,
     "likes": 231,
-    "category": "Trump vs. Biden: Policy and Political Implications"
+    "category": "Economic Policies and Partisan Divides"
   },
   {
     "id": 144944086,
@@ -12779,7 +12779,7 @@ export const articles: Article[] = [
     "word_count": 2860,
     "comment_count": 610,
     "likes": 571,
-    "category": "Economic Myths and Policy Debates"
+    "category": "Complex Interplay of Politics and Policy"
   },
   {
     "id": 145063865,
@@ -12792,7 +12792,7 @@ export const articles: Article[] = [
     "word_count": 1716,
     "comment_count": 150,
     "likes": 98,
-    "category": "Economic Myths and Policy Debates"
+    "category": "Evolving Challenges in Higher Education"
   },
   {
     "id": 145091849,
@@ -12805,7 +12805,7 @@ export const articles: Article[] = [
     "word_count": 1985,
     "comment_count": 428,
     "likes": 131,
-    "category": "Challenges in Housing, AI Education, and Politics"
+    "category": "Democratic Party and Electoral Dynamics"
   },
   {
     "id": 145109069,
@@ -12818,7 +12818,7 @@ export const articles: Article[] = [
     "word_count": 1965,
     "comment_count": 256,
     "likes": 240,
-    "category": "Electoral Innovations and Democratic Challenges"
+    "category": "Future Democratic Strategies for 2024"
   },
   {
     "id": 145125332,
@@ -12831,7 +12831,7 @@ export const articles: Article[] = [
     "word_count": 2543,
     "comment_count": 187,
     "likes": 177,
-    "category": "Contested Narratives in the Israel-Palestine Conflict"
+    "category": "Geopolitical Tensions and Energy Dynamics"
   },
   {
     "id": 145165809,
@@ -12844,7 +12844,7 @@ export const articles: Article[] = [
     "word_count": 2737,
     "comment_count": 513,
     "likes": 170,
-    "category": "Navigating Voter Demographics and Party Strategies"
+    "category": "Future Democratic Strategies for 2024"
   },
   {
     "id": 145233397,
@@ -12857,7 +12857,7 @@ export const articles: Article[] = [
     "word_count": 2276,
     "comment_count": 522,
     "likes": 163,
-    "category": "Navigating Voter Demographics and Party Strategies"
+    "category": "Strategies and Challenges in Modern Politics"
   },
   {
     "id": 145336462,
@@ -12870,7 +12870,7 @@ export const articles: Article[] = [
     "word_count": 2208,
     "comment_count": 218,
     "likes": 139,
-    "category": "US-China Geopolitical and Economic Strategies"
+    "category": "Evolving Strategies in US-China Relations"
   },
   {
     "id": 145370269,
@@ -12883,7 +12883,7 @@ export const articles: Article[] = [
     "word_count": 2615,
     "comment_count": 591,
     "likes": 302,
-    "category": "Challenges and Opportunities for Urban Transportation"
+    "category": "Transportation and Urban Policy Challenges"
   },
   {
     "id": 145409796,
@@ -12896,7 +12896,7 @@ export const articles: Article[] = [
     "word_count": 2707,
     "comment_count": 431,
     "likes": 285,
-    "category": "Immigration Debates and Policy Implications"
+    "category": "Trump's Influence on Politics and Media"
   },
   {
     "id": 145444571,
@@ -12909,7 +12909,7 @@ export const articles: Article[] = [
     "word_count": 2063,
     "comment_count": 365,
     "likes": 138,
-    "category": "Contested Narratives in the Israel-Palestine Conflict"
+    "category": "Geopolitical Tensions and Energy Dynamics"
   },
   {
     "id": 145484889,
@@ -12922,7 +12922,7 @@ export const articles: Article[] = [
     "word_count": 2592,
     "comment_count": 364,
     "likes": 189,
-    "category": "Economic Stimulus and Inflation Challenges"
+    "category": "Interpreting Economic Forces and Policy Responses"
   },
   {
     "id": 145539618,
@@ -12935,7 +12935,7 @@ export const articles: Article[] = [
     "word_count": 1652,
     "comment_count": 92,
     "likes": 150,
-    "category": "Navigating Energy Policy Trade-offs and Climate Goals"
+    "category": "Complexities and Debates in Climate Policy"
   },
   {
     "id": 145554114,
@@ -12948,7 +12948,7 @@ export const articles: Article[] = [
     "word_count": 1984,
     "comment_count": 400,
     "likes": 149,
-    "category": "Immigration Debates and Policy Implications"
+    "category": "Economic Policies and Partisan Divides"
   },
   {
     "id": 145592485,
@@ -12961,7 +12961,7 @@ export const articles: Article[] = [
     "word_count": 2266,
     "comment_count": 535,
     "likes": 495,
-    "category": "Trump vs. Biden: Policy and Political Implications"
+    "category": "Trump's Influence on Politics and Media"
   },
   {
     "id": 145639469,
@@ -12974,7 +12974,7 @@ export const articles: Article[] = [
     "word_count": 2540,
     "comment_count": 465,
     "likes": 204,
-    "category": "Balancing Market Growth and Government Efficiency"
+    "category": "Exploring Welfare and Economic Policy Reforms"
   },
   {
     "id": 145671447,
@@ -12987,7 +12987,7 @@ export const articles: Article[] = [
     "word_count": 1112,
     "comment_count": 800,
     "likes": 367,
-    "category": "Economic Myths and Policy Debates"
+    "category": "Complex Intersections in Policy and Health"
   },
   {
     "id": 145673186,
@@ -13000,7 +13000,7 @@ export const articles: Article[] = [
     "word_count": 2295,
     "comment_count": 317,
     "likes": 147,
-    "category": "Challenges and Opportunities for Urban Transportation"
+    "category": "Transportation and Urban Policy Challenges"
   },
   {
     "id": 145727667,
@@ -13013,7 +13013,7 @@ export const articles: Article[] = [
     "word_count": 1844,
     "comment_count": 618,
     "likes": 426,
-    "category": "Economic Myths and Policy Debates"
+    "category": "Challenges and Innovations in Sports and Gambling"
   },
   {
     "id": 145734864,
@@ -13026,7 +13026,7 @@ export const articles: Article[] = [
     "word_count": 1628,
     "comment_count": 76,
     "likes": 120,
-    "category": "Balancing Market Growth and Government Efficiency"
+    "category": "Complex Intersections in Policy and Health"
   },
   {
     "id": 145769511,
@@ -13039,7 +13039,7 @@ export const articles: Article[] = [
     "word_count": 1958,
     "comment_count": 399,
     "likes": 180,
-    "category": "Balancing Market Growth and Government Efficiency"
+    "category": "Exploring Welfare and Economic Policy Reforms"
   },
   {
     "id": 145864150,
@@ -13052,7 +13052,7 @@ export const articles: Article[] = [
     "word_count": 1614,
     "comment_count": 414,
     "likes": 488,
-    "category": "Kamala Harris and Democratic Elections Strategy"
+    "category": "Future Democratic Strategies for 2024"
   },
   {
     "id": 145874593,
@@ -13065,7 +13065,7 @@ export const articles: Article[] = [
     "word_count": 2308,
     "comment_count": 226,
     "likes": 137,
-    "category": "Electoral Innovations and Democratic Challenges"
+    "category": "Future Democratic Strategies for 2024"
   },
   {
     "id": 145896796,
@@ -13078,7 +13078,7 @@ export const articles: Article[] = [
     "word_count": 2138,
     "comment_count": 296,
     "likes": 186,
-    "category": "Economic Myths and Policy Debates"
+    "category": "Complex Intersections in Policy and Health"
   },
   {
     "id": 145942190,
@@ -13091,7 +13091,7 @@ export const articles: Article[] = [
     "word_count": 1959,
     "comment_count": 649,
     "likes": 562,
-    "category": "Navigating Energy Policy Trade-offs and Climate Goals"
+    "category": "Complexities and Debates in Climate Policy"
   },
   {
     "id": 145966310,
@@ -13104,7 +13104,7 @@ export const articles: Article[] = [
     "word_count": 1497,
     "comment_count": 258,
     "likes": 123,
-    "category": "Balancing Competition and Regulation in Modern Markets"
+    "category": "Challenges and Innovations in Sports and Gambling"
   },
   {
     "id": 145976859,
@@ -13117,7 +13117,7 @@ export const articles: Article[] = [
     "word_count": 1859,
     "comment_count": 437,
     "likes": 214,
-    "category": "US-China Geopolitical and Economic Strategies"
+    "category": "Evolving Strategies in US-China Relations"
   },
   {
     "id": 146011889,
@@ -13130,7 +13130,7 @@ export const articles: Article[] = [
     "word_count": 1986,
     "comment_count": 345,
     "likes": 154,
-    "category": "Housing Policy Changes for Growth"
+    "category": "Zoning Reforms and Housing Scarcity"
   },
   {
     "id": 146041183,
@@ -13143,7 +13143,7 @@ export const articles: Article[] = [
     "word_count": 3817,
     "comment_count": 368,
     "likes": 134,
-    "category": "Democratic Legislative Challenges and Strategies"
+    "category": "Navigating Fiscal Policy and Debt Challenges"
   },
   {
     "id": 146047836,
@@ -13156,7 +13156,7 @@ export const articles: Article[] = [
     "word_count": 2754,
     "comment_count": 241,
     "likes": 318,
-    "category": "Urban Evolution and Housing Challenges"
+    "category": "Competition, Media, and Future Risks"
   },
   {
     "id": 146056917,
@@ -13169,7 +13169,7 @@ export const articles: Article[] = [
     "word_count": 1608,
     "comment_count": 886,
     "likes": 281,
-    "category": "Challenges in Housing, AI Education, and Politics"
+    "category": "Democratic Party and Electoral Dynamics"
   },
   {
     "id": 146068806,
@@ -13182,7 +13182,7 @@ export const articles: Article[] = [
     "word_count": 1410,
     "comment_count": 731,
     "likes": 541,
-    "category": "Kamala Harris and Democratic Elections Strategy"
+    "category": "Kamala Harris and Biden's Political Strategy"
   },
   {
     "id": 146155367,
@@ -13195,7 +13195,7 @@ export const articles: Article[] = [
     "word_count": 2795,
     "comment_count": 715,
     "likes": 809,
-    "category": "Kamala Harris and Democratic Elections Strategy"
+    "category": "Kamala Harris and Biden's Political Strategy"
   },
   {
     "id": 146301057,
@@ -13208,7 +13208,7 @@ export const articles: Article[] = [
     "word_count": 2400,
     "comment_count": 259,
     "likes": 155,
-    "category": "Urban Housing, Policy, and Growth Dynamics"
+    "category": "Tourism and Housing Dynamics in Urban Landscapes"
   },
   {
     "id": 146363374,
@@ -13221,7 +13221,7 @@ export const articles: Article[] = [
     "word_count": 1767,
     "comment_count": 533,
     "likes": 393,
-    "category": "Kamala Harris and Democratic Elections Strategy"
+    "category": "Kamala Harris and Biden's Political Strategy"
   },
   {
     "id": 146364335,
@@ -13234,7 +13234,7 @@ export const articles: Article[] = [
     "word_count": 1747,
     "comment_count": 296,
     "likes": 163,
-    "category": "Challenges and Opportunities for Urban Transportation"
+    "category": "Transportation and Urban Policy Challenges"
   },
   {
     "id": 146407730,
@@ -13247,7 +13247,7 @@ export const articles: Article[] = [
     "word_count": 1525,
     "comment_count": 167,
     "likes": 131,
-    "category": "Electoral Innovations and Democratic Challenges"
+    "category": "Kamala Harris and Biden's Political Strategy"
   },
   {
     "id": 146408444,
@@ -13260,7 +13260,7 @@ export const articles: Article[] = [
     "word_count": 2370,
     "comment_count": 362,
     "likes": 418,
-    "category": "Economic Myths and Policy Debates"
+    "category": "Economic Policies and Partisan Divides"
   },
   {
     "id": 146468221,
@@ -13273,7 +13273,7 @@ export const articles: Article[] = [
     "word_count": 1884,
     "comment_count": 360,
     "likes": 114,
-    "category": "Electoral Innovations and Democratic Challenges"
+    "category": "Future Democratic Strategies for 2024"
   },
   {
     "id": 146505649,
@@ -13286,7 +13286,7 @@ export const articles: Article[] = [
     "word_count": 2078,
     "comment_count": 386,
     "likes": 147,
-    "category": "Trump vs. Biden: Policy and Political Implications"
+    "category": "Trump's Influence on Politics and Media"
   },
   {
     "id": 146572171,
@@ -13299,7 +13299,7 @@ export const articles: Article[] = [
     "word_count": 2129,
     "comment_count": 400,
     "likes": 223,
-    "category": "Kamala Harris and Democratic Elections Strategy"
+    "category": "Future Democratic Strategies for 2024"
   },
   {
     "id": 146631719,
@@ -13312,7 +13312,7 @@ export const articles: Article[] = [
     "word_count": 1972,
     "comment_count": 330,
     "likes": 145,
-    "category": "Immigration Debates and Policy Implications"
+    "category": "Economic Policies and Partisan Divides"
   },
   {
     "id": 146671017,
@@ -13325,7 +13325,7 @@ export const articles: Article[] = [
     "word_count": 2020,
     "comment_count": 449,
     "likes": 493,
-    "category": "Kamala Harris and Democratic Elections Strategy"
+    "category": "Kamala Harris and Biden's Political Strategy"
   },
   {
     "id": 146709467,
@@ -13338,7 +13338,7 @@ export const articles: Article[] = [
     "word_count": 3961,
     "comment_count": 473,
     "likes": 168,
-    "category": "Challenges and Strategies for Democrats in Modern Politics"
+    "category": "Democratic Party and Electoral Dynamics"
   },
   {
     "id": 146719039,
@@ -13351,7 +13351,7 @@ export const articles: Article[] = [
     "word_count": 1794,
     "comment_count": 95,
     "likes": 135,
-    "category": "Navigating Voter Demographics and Party Strategies"
+    "category": "Future Democratic Strategies for 2024"
   },
   {
     "id": 146753666,
@@ -13364,7 +13364,7 @@ export const articles: Article[] = [
     "word_count": 2191,
     "comment_count": 347,
     "likes": 209,
-    "category": "Urban Housing, Policy, and Growth Dynamics"
+    "category": "Zoning Reforms and Housing Scarcity"
   },
   {
     "id": 146771843,
@@ -13377,7 +13377,7 @@ export const articles: Article[] = [
     "word_count": 2363,
     "comment_count": 349,
     "likes": 274,
-    "category": "Modern Political and Cultural Alignments"
+    "category": "Complex Interplay of Politics and Policy"
   },
   {
     "id": 146790930,
@@ -13390,7 +13390,7 @@ export const articles: Article[] = [
     "word_count": 2589,
     "comment_count": 438,
     "likes": 218,
-    "category": "US-China Geopolitical and Economic Strategies"
+    "category": "Evolving Strategies in US-China Relations"
   },
   {
     "id": 146858496,
@@ -13403,7 +13403,7 @@ export const articles: Article[] = [
     "word_count": 897,
     "comment_count": 617,
     "likes": 499,
-    "category": "Kamala Harris and Democratic Elections Strategy"
+    "category": "Kamala Harris and Biden's Political Strategy"
   },
   {
     "id": 146884696,
@@ -13416,7 +13416,7 @@ export const articles: Article[] = [
     "word_count": 2101,
     "comment_count": 420,
     "likes": 212,
-    "category": "Challenges and Strategies for Democrats in Modern Politics"
+    "category": "Complex Interplay of Politics and Policy"
   },
   {
     "id": 146916279,
@@ -13429,7 +13429,7 @@ export const articles: Article[] = [
     "word_count": 1767,
     "comment_count": 463,
     "likes": 285,
-    "category": "Kamala Harris and Democratic Elections Strategy"
+    "category": "Kamala Harris and Biden's Political Strategy"
   },
   {
     "id": 146922318,
@@ -13442,7 +13442,7 @@ export const articles: Article[] = [
     "word_count": 1493,
     "comment_count": 211,
     "likes": 144,
-    "category": "Strategic Messaging and Policy Prioritization for Elections"
+    "category": "Future Democratic Strategies for 2024"
   },
   {
     "id": 146954457,
@@ -13455,7 +13455,7 @@ export const articles: Article[] = [
     "word_count": 1811,
     "comment_count": 583,
     "likes": 179,
-    "category": "Modern Political and Cultural Alignments"
+    "category": "Modern Political Challenges and Global Dynamics"
   },
   {
     "id": 146993131,
@@ -13468,7 +13468,7 @@ export const articles: Article[] = [
     "word_count": 2192,
     "comment_count": 553,
     "likes": 371,
-    "category": "Kamala Harris and Democratic Elections Strategy"
+    "category": "Kamala Harris and Biden's Political Strategy"
   },
   {
     "id": 147010720,
@@ -13481,7 +13481,7 @@ export const articles: Article[] = [
     "word_count": 3010,
     "comment_count": 360,
     "likes": 155,
-    "category": "Strategies to Tackle Urban Crime and Gun Violence"
+    "category": "Modern Political Challenges and Global Dynamics"
   },
   {
     "id": 147060890,
@@ -13494,7 +13494,7 @@ export const articles: Article[] = [
     "word_count": 2471,
     "comment_count": 446,
     "likes": 174,
-    "category": "Balancing Competition and Regulation in Modern Markets"
+    "category": "Competition, Media, and Future Risks"
   },
   {
     "id": 147092025,
@@ -13507,7 +13507,7 @@ export const articles: Article[] = [
     "word_count": 2326,
     "comment_count": 314,
     "likes": 243,
-    "category": "Kamala Harris and Democratic Elections Strategy"
+    "category": "Future Democratic Strategies for 2024"
   },
   {
     "id": 147194422,
@@ -13520,7 +13520,7 @@ export const articles: Article[] = [
     "word_count": 2349,
     "comment_count": 490,
     "likes": 188,
-    "category": "Balancing Market Growth and Government Efficiency"
+    "category": "Exploring Welfare and Economic Policy Reforms"
   },
   {
     "id": 147214873,
@@ -13533,7 +13533,7 @@ export const articles: Article[] = [
     "word_count": 1899,
     "comment_count": 772,
     "likes": 339,
-    "category": "Economic Myths and Policy Debates"
+    "category": "Future Democratic Strategies for 2024"
   },
   {
     "id": 147377053,
@@ -13546,7 +13546,7 @@ export const articles: Article[] = [
     "word_count": 2215,
     "comment_count": 516,
     "likes": 253,
-    "category": "Economic Myths and Policy Debates"
+    "category": "Economic Policies and Partisan Divides"
   },
   {
     "id": 147406075,
@@ -13559,7 +13559,7 @@ export const articles: Article[] = [
     "word_count": 994,
     "comment_count": 441,
     "likes": 173,
-    "category": "Kamala Harris and Democratic Elections Strategy"
+    "category": "Kamala Harris and Biden's Political Strategy"
   },
   {
     "id": 147416812,
@@ -13572,7 +13572,7 @@ export const articles: Article[] = [
     "word_count": 1921,
     "comment_count": 306,
     "likes": 199,
-    "category": "Racial and Economic Justice in America"
+    "category": "Complex Interplay of Politics and Policy"
   },
   {
     "id": 147442685,
@@ -13585,7 +13585,7 @@ export const articles: Article[] = [
     "word_count": 2010,
     "comment_count": 381,
     "likes": 182,
-    "category": "Contested Narratives in the Israel-Palestine Conflict"
+    "category": "Geopolitical Tensions and Energy Dynamics"
   },
   {
     "id": 147465654,
@@ -13598,7 +13598,7 @@ export const articles: Article[] = [
     "word_count": 2047,
     "comment_count": 203,
     "likes": 234,
-    "category": "Kamala Harris and Democratic Elections Strategy"
+    "category": "Future Democratic Strategies for 2024"
   },
   {
     "id": 147480025,
@@ -13611,7 +13611,7 @@ export const articles: Article[] = [
     "word_count": 2387,
     "comment_count": 369,
     "likes": 276,
-    "category": "Economic Myths and Policy Debates"
+    "category": "Future Democratic Strategies for 2024"
   },
   {
     "id": 147525394,
@@ -13624,7 +13624,7 @@ export const articles: Article[] = [
     "word_count": 2001,
     "comment_count": 220,
     "likes": 187,
-    "category": "Balancing Competition and Regulation in Modern Markets"
+    "category": "Challenges and Innovations in Sports and Gambling"
   },
   {
     "id": 147539679,
@@ -13637,7 +13637,7 @@ export const articles: Article[] = [
     "word_count": 2408,
     "comment_count": 394,
     "likes": 207,
-    "category": "Navigating Energy Policy Trade-offs and Climate Goals"
+    "category": "Complexities and Debates in Climate Policy"
   },
   {
     "id": 147552265,
@@ -13650,7 +13650,7 @@ export const articles: Article[] = [
     "word_count": 2152,
     "comment_count": 330,
     "likes": 226,
-    "category": "Kamala Harris and Democratic Elections Strategy"
+    "category": "Future Democratic Strategies for 2024"
   },
   {
     "id": 147611737,
@@ -13663,7 +13663,7 @@ export const articles: Article[] = [
     "word_count": 2409,
     "comment_count": 399,
     "likes": 163,
-    "category": "Economic Stimulus and Inflation Challenges"
+    "category": "Economic Policies and Partisan Divides"
   },
   {
     "id": 147678159,
@@ -13676,7 +13676,7 @@ export const articles: Article[] = [
     "word_count": 2115,
     "comment_count": 212,
     "likes": 230,
-    "category": "Housing Policy Changes for Growth"
+    "category": "Zoning Reforms and Housing Scarcity"
   },
   {
     "id": 147682927,
@@ -13689,7 +13689,7 @@ export const articles: Article[] = [
     "word_count": 1443,
     "comment_count": 105,
     "likes": 91,
-    "category": "Balancing Competition and Regulation in Modern Markets"
+    "category": "Complex Intersections in Policy and Health"
   },
   {
     "id": 147698670,
@@ -13702,7 +13702,7 @@ export const articles: Article[] = [
     "word_count": 1791,
     "comment_count": 256,
     "likes": 120,
-    "category": "Electoral Innovations and Democratic Challenges"
+    "category": "Future Democratic Strategies for 2024"
   },
   {
     "id": 147738324,
@@ -13715,7 +13715,7 @@ export const articles: Article[] = [
     "word_count": 2264,
     "comment_count": 415,
     "likes": 288,
-    "category": "Kamala Harris and Democratic Elections Strategy"
+    "category": "Kamala Harris and Biden's Political Strategy"
   },
   {
     "id": 147779090,
@@ -13728,7 +13728,7 @@ export const articles: Article[] = [
     "word_count": 2455,
     "comment_count": 499,
     "likes": 185,
-    "category": "Balancing Competition and Regulation in Modern Markets"
+    "category": "Competition, Media, and Future Risks"
   },
   {
     "id": 147842388,
@@ -13741,7 +13741,7 @@ export const articles: Article[] = [
     "word_count": 2058,
     "comment_count": 604,
     "likes": 173,
-    "category": "Balancing Competition and Regulation in Modern Markets"
+    "category": "Interpreting Economic Forces and Policy Responses"
   },
   {
     "id": 147856155,
@@ -13754,7 +13754,7 @@ export const articles: Article[] = [
     "word_count": 1964,
     "comment_count": 200,
     "likes": 161,
-    "category": "Strategies to Tackle Urban Crime and Gun Violence"
+    "category": "Policing and Justice System Dynamics"
   },
   {
     "id": 147891965,
@@ -13767,7 +13767,7 @@ export const articles: Article[] = [
     "word_count": 2161,
     "comment_count": 225,
     "likes": 129,
-    "category": "Kamala Harris and Democratic Elections Strategy"
+    "category": "Future Democratic Strategies for 2024"
   },
   {
     "id": 148000805,
@@ -13780,7 +13780,7 @@ export const articles: Article[] = [
     "word_count": 2321,
     "comment_count": 425,
     "likes": 483,
-    "category": "Kamala Harris and Democratic Elections Strategy"
+    "category": "Kamala Harris and Biden's Political Strategy"
   },
   {
     "id": 148115091,
@@ -13793,7 +13793,7 @@ export const articles: Article[] = [
     "word_count": 2526,
     "comment_count": 289,
     "likes": 248,
-    "category": "Housing Policy Changes for Growth"
+    "category": "Zoning Reforms and Housing Scarcity"
   },
   {
     "id": 148129819,
@@ -13806,7 +13806,7 @@ export const articles: Article[] = [
     "word_count": 2443,
     "comment_count": 361,
     "likes": 199,
-    "category": "Navigating Energy Policy Trade-offs and Climate Goals"
+    "category": "Complexities and Debates in Climate Policy"
   },
   {
     "id": 148184477,
@@ -13819,7 +13819,7 @@ export const articles: Article[] = [
     "word_count": 1987,
     "comment_count": 725,
     "likes": 585,
-    "category": "Modern Political and Cultural Alignments"
+    "category": "Complex Interplay of Politics and Policy"
   },
   {
     "id": 148192473,
@@ -13832,7 +13832,7 @@ export const articles: Article[] = [
     "word_count": 1735,
     "comment_count": 70,
     "likes": 141,
-    "category": "Kamala Harris and Democratic Elections Strategy"
+    "category": "Future Democratic Strategies for 2024"
   },
   {
     "id": 148223787,
@@ -13845,7 +13845,7 @@ export const articles: Article[] = [
     "word_count": 2073,
     "comment_count": 527,
     "likes": 183,
-    "category": "Balancing Competition and Regulation in Modern Markets"
+    "category": "Transportation and Urban Policy Challenges"
   },
   {
     "id": 148262809,
@@ -13858,7 +13858,7 @@ export const articles: Article[] = [
     "word_count": 1837,
     "comment_count": 219,
     "likes": 172,
-    "category": "Navigating Energy Policy Trade-offs and Climate Goals"
+    "category": "Biden's Energy and Climate Strategy"
   },
   {
     "id": 148282406,
@@ -13871,7 +13871,7 @@ export const articles: Article[] = [
     "word_count": 2544,
     "comment_count": 268,
     "likes": 136,
-    "category": "Navigating Voter Demographics and Party Strategies"
+    "category": "Kamala Harris and Biden's Political Strategy"
   },
   {
     "id": 148304989,
@@ -13884,7 +13884,7 @@ export const articles: Article[] = [
     "word_count": 2075,
     "comment_count": 166,
     "likes": 183,
-    "category": "Economic Stimulus and Inflation Challenges"
+    "category": "Interpreting Economic Forces and Policy Responses"
   },
   {
     "id": 148318117,
@@ -13897,7 +13897,7 @@ export const articles: Article[] = [
     "word_count": 2243,
     "comment_count": 438,
     "likes": 153,
-    "category": "Fiscal Clash: Taxes, Cuts, and Debt"
+    "category": "Exploring Welfare and Economic Policy Reforms"
   },
   {
     "id": 148476207,
@@ -13910,7 +13910,7 @@ export const articles: Article[] = [
     "word_count": 2071,
     "comment_count": 484,
     "likes": 203,
-    "category": "Racial and Economic Justice in America"
+    "category": "Complex Interplay of Politics and Policy"
   },
   {
     "id": 148611790,
@@ -13923,7 +13923,7 @@ export const articles: Article[] = [
     "word_count": 2129,
     "comment_count": 342,
     "likes": 146,
-    "category": "Housing Policy Changes for Growth"
+    "category": "Zoning Reforms and Housing Scarcity"
   },
   {
     "id": 148680576,
@@ -13936,7 +13936,7 @@ export const articles: Article[] = [
     "word_count": 2143,
     "comment_count": 434,
     "likes": 141,
-    "category": "Balancing Competition and Regulation in Modern Markets"
+    "category": "Competition, Media, and Future Risks"
   },
   {
     "id": 148735971,
@@ -13949,7 +13949,7 @@ export const articles: Article[] = [
     "word_count": 1647,
     "comment_count": 82,
     "likes": 128,
-    "category": "Strategic Messaging and Policy Prioritization for Elections"
+    "category": "Future Democratic Strategies for 2024"
   },
   {
     "id": 148752801,
@@ -13962,7 +13962,7 @@ export const articles: Article[] = [
     "word_count": 1355,
     "comment_count": 397,
     "likes": 466,
-    "category": "Kamala Harris and Democratic Elections Strategy"
+    "category": "Kamala Harris and Biden's Political Strategy"
   },
   {
     "id": 148765551,
@@ -13975,7 +13975,7 @@ export const articles: Article[] = [
     "word_count": 1985,
     "comment_count": 463,
     "likes": 155,
-    "category": "Urban Housing, Policy, and Growth Dynamics"
+    "category": "Zoning Reforms and Housing Scarcity"
   },
   {
     "id": 148769128,
@@ -13988,7 +13988,7 @@ export const articles: Article[] = [
     "word_count": 3191,
     "comment_count": 105,
     "likes": 78,
-    "category": "Immigration Debates and Policy Implications"
+    "category": "Complex Intersections in Policy and Health"
   },
   {
     "id": 148847709,
@@ -14001,7 +14001,7 @@ export const articles: Article[] = [
     "word_count": 2296,
     "comment_count": 267,
     "likes": 254,
-    "category": "Navigating Energy Policy Trade-offs and Climate Goals"
+    "category": "Biden's Energy and Climate Strategy"
   },
   {
     "id": 148882498,
@@ -14014,7 +14014,7 @@ export const articles: Article[] = [
     "word_count": 2573,
     "comment_count": 276,
     "likes": 162,
-    "category": "Balancing Competition and Regulation in Modern Markets"
+    "category": "Transportation and Urban Policy Challenges"
   },
   {
     "id": 148927082,
@@ -14027,7 +14027,7 @@ export const articles: Article[] = [
     "word_count": 2614,
     "comment_count": 476,
     "likes": 295,
-    "category": "Trump vs. Biden: Policy and Political Implications"
+    "category": "Complex Interplay of Politics and Policy"
   },
   {
     "id": 148962305,
@@ -14040,7 +14040,7 @@ export const articles: Article[] = [
     "word_count": 2509,
     "comment_count": 338,
     "likes": 300,
-    "category": "Balancing Market Growth and Government Efficiency"
+    "category": "Complex Interplay of Politics and Policy"
   },
   {
     "id": 149013826,
@@ -14053,7 +14053,7 @@ export const articles: Article[] = [
     "word_count": 1621,
     "comment_count": 81,
     "likes": 93,
-    "category": "Navigating Voter Demographics and Party Strategies"
+    "category": "Future Democratic Strategies for 2024"
   },
   {
     "id": 149019515,
@@ -14066,7 +14066,7 @@ export const articles: Article[] = [
     "word_count": 1929,
     "comment_count": 460,
     "likes": 158,
-    "category": "Challenges in Housing, AI Education, and Politics"
+    "category": "Competition, Media, and Future Risks"
   },
   {
     "id": 149071152,
@@ -14079,7 +14079,7 @@ export const articles: Article[] = [
     "word_count": 1984,
     "comment_count": 304,
     "likes": 178,
-    "category": "Fiscal Clash: Taxes, Cuts, and Debt"
+    "category": "Navigating Fiscal Policy and Debt Challenges"
   },
   {
     "id": 149173922,
@@ -14092,7 +14092,7 @@ export const articles: Article[] = [
     "word_count": 2454,
     "comment_count": 264,
     "likes": 232,
-    "category": "Kamala Harris and Democratic Elections Strategy"
+    "category": "Future Democratic Strategies for 2024"
   },
   {
     "id": 149245726,
@@ -14105,7 +14105,7 @@ export const articles: Article[] = [
     "word_count": 2265,
     "comment_count": 295,
     "likes": 146,
-    "category": "Kamala Harris and Democratic Elections Strategy"
+    "category": "Kamala Harris and Biden's Political Strategy"
   },
   {
     "id": 149341329,
@@ -14118,7 +14118,7 @@ export const articles: Article[] = [
     "word_count": 2113,
     "comment_count": 845,
     "likes": 330,
-    "category": "Kamala Harris and Democratic Elections Strategy"
+    "category": "Future Democratic Strategies for 2024"
   },
   {
     "id": 149352363,
@@ -14131,7 +14131,7 @@ export const articles: Article[] = [
     "word_count": 2899,
     "comment_count": 348,
     "likes": 278,
-    "category": "Navigating Energy Policy Trade-offs and Climate Goals"
+    "category": "Energy Transition and Innovation Strategies"
   },
   {
     "id": 149355679,
@@ -14144,7 +14144,7 @@ export const articles: Article[] = [
     "word_count": 1542,
     "comment_count": 229,
     "likes": 113,
-    "category": "Balancing Competition and Regulation in Modern Markets"
+    "category": "Competition, Media, and Future Risks"
   },
   {
     "id": 149397244,
@@ -14157,7 +14157,7 @@ export const articles: Article[] = [
     "word_count": 1705,
     "comment_count": 56,
     "likes": 154,
-    "category": "Electoral Innovations and Democratic Challenges"
+    "category": "Navigating Fiscal Policy and Debt Challenges"
   },
   {
     "id": 149486599,
@@ -14170,7 +14170,7 @@ export const articles: Article[] = [
     "word_count": 2360,
     "comment_count": 286,
     "likes": 277,
-    "category": "Fiscal Clash: Taxes, Cuts, and Debt"
+    "category": "Economic Policies and Partisan Divides"
   },
   {
     "id": 149559776,
@@ -14183,7 +14183,7 @@ export const articles: Article[] = [
     "word_count": 2795,
     "comment_count": 344,
     "likes": 287,
-    "category": "Housing Policy Changes for Growth"
+    "category": "Zoning Reforms and Housing Scarcity"
   },
   {
     "id": 149615401,
@@ -14196,7 +14196,7 @@ export const articles: Article[] = [
     "word_count": 2177,
     "comment_count": 285,
     "likes": 242,
-    "category": "Media's Role in Political Dynamics and Decline"
+    "category": "Future Democratic Strategies for 2024"
   },
   {
     "id": 149683266,
@@ -14209,7 +14209,7 @@ export const articles: Article[] = [
     "word_count": 1454,
     "comment_count": 292,
     "likes": 392,
-    "category": "Economic Myths and Policy Debates"
+    "category": "Interpreting Economic Forces and Policy Responses"
   },
   {
     "id": 149706521,
@@ -14222,7 +14222,7 @@ export const articles: Article[] = [
     "word_count": 1882,
     "comment_count": 205,
     "likes": 150,
-    "category": "Balancing Market Growth and Government Efficiency"
+    "category": "Exploring Welfare and Economic Policy Reforms"
   },
   {
     "id": 149735331,
@@ -14235,7 +14235,7 @@ export const articles: Article[] = [
     "word_count": 1986,
     "comment_count": 300,
     "likes": 288,
-    "category": "Economic Myths and Policy Debates"
+    "category": "Complex Interplay of Politics and Policy"
   },
   {
     "id": 149756744,
@@ -14248,7 +14248,7 @@ export const articles: Article[] = [
     "word_count": 997,
     "comment_count": 117,
     "likes": 137,
-    "category": "Housing Policy Changes for Growth"
+    "category": "Zoning Reforms and Housing Scarcity"
   },
   {
     "id": 149839322,
@@ -14261,7 +14261,7 @@ export const articles: Article[] = [
     "word_count": 2780,
     "comment_count": 304,
     "likes": 170,
-    "category": "Fiscal Clash: Taxes, Cuts, and Debt"
+    "category": "Navigating Fiscal Policy and Debt Challenges"
   },
   {
     "id": 149854928,
@@ -14274,7 +14274,7 @@ export const articles: Article[] = [
     "word_count": 1925,
     "comment_count": 440,
     "likes": 313,
-    "category": "Navigating Energy Policy Trade-offs and Climate Goals"
+    "category": "Complexities and Debates in Climate Policy"
   },
   {
     "id": 149872259,
@@ -14287,7 +14287,7 @@ export const articles: Article[] = [
     "word_count": 2744,
     "comment_count": 526,
     "likes": 192,
-    "category": "Immigration Debates and Policy Implications"
+    "category": "Complex Interplay of Politics and Policy"
   },
   {
     "id": 149887245,
@@ -14300,7 +14300,7 @@ export const articles: Article[] = [
     "word_count": 2938,
     "comment_count": 432,
     "likes": 366,
-    "category": "Contested Narratives in the Israel-Palestine Conflict"
+    "category": "Complexities of the Israel-Palestine Conflict"
   },
   {
     "id": 149900935,
@@ -14313,7 +14313,7 @@ export const articles: Article[] = [
     "word_count": 3822,
     "comment_count": 615,
     "likes": 170,
-    "category": "Trump vs. Biden: Policy and Political Implications"
+    "category": "Kamala Harris and Biden's Political Strategy"
   },
   {
     "id": 150133323,
@@ -14326,7 +14326,7 @@ export const articles: Article[] = [
     "word_count": 2566,
     "comment_count": 98,
     "likes": 85,
-    "category": "Electoral Innovations and Democratic Challenges"
+    "category": "Future Democratic Strategies for 2024"
   },
   {
     "id": 150133498,
@@ -14339,7 +14339,7 @@ export const articles: Article[] = [
     "word_count": 2863,
     "comment_count": 788,
     "likes": 345,
-    "category": "Racial and Economic Justice in America"
+    "category": "Complex Interplay of Politics and Policy"
   },
   {
     "id": 150255491,
@@ -14352,7 +14352,7 @@ export const articles: Article[] = [
     "word_count": 2025,
     "comment_count": 479,
     "likes": 243,
-    "category": "Strategic Messaging and Policy Prioritization for Elections"
+    "category": "Strategies and Challenges in Modern Politics"
   },
   {
     "id": 150270112,
@@ -14365,7 +14365,7 @@ export const articles: Article[] = [
     "word_count": 1809,
     "comment_count": 421,
     "likes": 264,
-    "category": "Navigating Voter Demographics and Party Strategies"
+    "category": "Strategies and Challenges in Modern Politics"
   },
   {
     "id": 150307730,
@@ -14378,7 +14378,7 @@ export const articles: Article[] = [
     "word_count": 1722,
     "comment_count": 448,
     "likes": 135,
-    "category": "Navigating Voter Demographics and Party Strategies"
+    "category": "Kamala Harris and Biden's Political Strategy"
   },
   {
     "id": 150329373,
@@ -14391,7 +14391,7 @@ export const articles: Article[] = [
     "word_count": 1690,
     "comment_count": 164,
     "likes": 159,
-    "category": "Electoral Innovations and Democratic Challenges"
+    "category": "Future Democratic Strategies for 2024"
   },
   {
     "id": 150448596,
@@ -14404,7 +14404,7 @@ export const articles: Article[] = [
     "word_count": 2366,
     "comment_count": 604,
     "likes": 574,
-    "category": "Kamala Harris and Democratic Elections Strategy"
+    "category": "Kamala Harris and Biden's Political Strategy"
   },
   {
     "id": 150471721,
@@ -14417,7 +14417,7 @@ export const articles: Article[] = [
     "word_count": 2298,
     "comment_count": 209,
     "likes": 142,
-    "category": "Balancing Competition and Regulation in Modern Markets"
+    "category": "Competition, Media, and Future Risks"
   },
   {
     "id": 150619739,
@@ -14430,7 +14430,7 @@ export const articles: Article[] = [
     "word_count": 2382,
     "comment_count": 357,
     "likes": 160,
-    "category": "Contested Narratives in the Israel-Palestine Conflict"
+    "category": "Kamala Harris and Biden's Political Strategy"
   },
   {
     "id": 150668528,
@@ -14442,8 +14442,8 @@ export const articles: Article[] = [
     "authors": "Matthew Yglesias",
     "word_count": 2062,
     "comment_count": 367,
-    "likes": 291,
-    "category": "Kamala Harris and Democratic Elections Strategy"
+    "likes": 292,
+    "category": "Future Democratic Strategies for 2024"
   },
   {
     "id": 150781036,
@@ -14455,8 +14455,8 @@ export const articles: Article[] = [
     "authors": "Matthew Yglesias",
     "word_count": 1766,
     "comment_count": 703,
-    "likes": 433,
-    "category": "Kamala Harris and Democratic Elections Strategy"
+    "likes": 434,
+    "category": "Kamala Harris and Biden's Political Strategy"
   },
   {
     "id": 150833804,
@@ -14467,9 +14467,9 @@ export const articles: Article[] = [
     "canonical_url": "https://www.slowboring.com/p/i-changed-my-mind",
     "authors": "Matthew Yglesias",
     "word_count": 2499,
-    "comment_count": 177,
-    "likes": 218,
-    "category": "Urban Evolution and Housing Challenges"
+    "comment_count": 178,
+    "likes": 221,
+    "category": "Interpreting Economic Forces and Policy Responses"
   },
   {
     "id": 150893189,
@@ -14481,8 +14481,8 @@ export const articles: Article[] = [
     "authors": "Matthew Yglesias",
     "word_count": 2517,
     "comment_count": 271,
-    "likes": 225,
-    "category": "Urban Evolution and Housing Challenges"
+    "likes": 228,
+    "category": "Zoning Reforms and Housing Scarcity"
   },
   {
     "id": 150919142,
@@ -14494,8 +14494,8 @@ export const articles: Article[] = [
     "authors": "Matthew Yglesias",
     "word_count": 3479,
     "comment_count": 304,
-    "likes": 180,
-    "category": "Challenges and Strategies for Democrats in Modern Politics"
+    "likes": 183,
+    "category": "Democratic Party and Electoral Dynamics"
   },
   {
     "id": 150945835,
@@ -14507,8 +14507,8 @@ export const articles: Article[] = [
     "authors": "Matthew Yglesias",
     "word_count": 1714,
     "comment_count": 406,
-    "likes": 155,
-    "category": "Electoral Innovations and Democratic Challenges"
+    "likes": 158,
+    "category": "Future Democratic Strategies for 2024"
   },
   {
     "id": 151012799,
@@ -14520,8 +14520,8 @@ export const articles: Article[] = [
     "authors": "Matthew Yglesias",
     "word_count": 908,
     "comment_count": 393,
-    "likes": 174,
-    "category": "Navigating Voter Demographics and Party Strategies"
+    "likes": 175,
+    "category": "Future Democratic Strategies for 2024"
   },
   {
     "id": 151263512,
@@ -14532,9 +14532,9 @@ export const articles: Article[] = [
     "canonical_url": "https://www.slowboring.com/p/a-tale-of-two-machines",
     "authors": "Matthew Yglesias",
     "word_count": 2468,
-    "comment_count": 714,
-    "likes": 698,
-    "category": "Kamala Harris and Democratic Elections Strategy"
+    "comment_count": 723,
+    "likes": 760,
+    "category": "Future Democratic Strategies for 2024"
   },
   {
     "id": 151285647,
@@ -14545,9 +14545,9 @@ export const articles: Article[] = [
     "canonical_url": "https://www.slowboring.com/p/post-election-mailbag",
     "authors": "Matthew Yglesias",
     "word_count": 3223,
-    "comment_count": 855,
-    "likes": 176,
-    "category": "Challenges and Strategies for Democrats in Modern Politics"
+    "comment_count": 955,
+    "likes": 208,
+    "category": "Future Democratic Strategies for 2024"
   },
   {
     "id": 151302299,
@@ -14558,580 +14558,658 @@ export const articles: Article[] = [
     "canonical_url": "https://www.slowboring.com/p/breaking-down-the-election-results",
     "authors": "Jed Kolko",
     "word_count": 1485,
-    "comment_count": 665,
-    "likes": 198,
-    "category": "Navigating Voter Demographics and Party Strategies"
+    "comment_count": 675,
+    "likes": 219,
+    "category": "Future Democratic Strategies for 2024"
+  },
+  {
+    "id": 151305115,
+    "title": "A Common Sense Democrat manifesto ",
+    "subtitle": "Where do we go from here? ",
+    "date": "2024-11-12",
+    "audience": "everyone",
+    "canonical_url": "https://www.slowboring.com/p/a-common-sense-democrat-manifesto",
+    "authors": "Matthew Yglesias",
+    "word_count": 1977,
+    "comment_count": 1209,
+    "likes": 961,
+    "category": "Future Democratic Strategies for 2024"
+  },
+  {
+    "id": 151370188,
+    "title": "When Trump wins, so does the media",
+    "subtitle": "One from the archives. Happy Veterans Day!",
+    "date": "2024-11-11",
+    "audience": "everyone",
+    "canonical_url": "https://www.slowboring.com/p/when-trump-wins-so-does-the-media-7b2",
+    "authors": "Matthew Yglesias",
+    "word_count": 1953,
+    "comment_count": 207,
+    "likes": 113,
+    "category": "Trump's Influence on Politics and Media"
+  },
+  {
+    "id": 151413453,
+    "title": "Four years of boring hard boards, slowly",
+    "subtitle": "Thank you all, and our plans for the future ",
+    "date": "2024-11-13",
+    "audience": "only_paid",
+    "canonical_url": "https://www.slowboring.com/p/four-years-of-boring-hard-boards",
+    "authors": "Matthew Yglesias",
+    "word_count": 2697,
+    "comment_count": 588,
+    "likes": 295,
+    "category": "Trump's Influence on Politics and Media"
+  },
+  {
+    "id": 151532807,
+    "title": "How Donald Trump could succeed ",
+    "subtitle": "Or, more likely, fail",
+    "date": "2024-11-14",
+    "audience": "only_paid",
+    "canonical_url": "https://www.slowboring.com/p/how-donald-trump-could-succeed",
+    "authors": "Matthew Yglesias",
+    "word_count": 2152,
+    "comment_count": 513,
+    "likes": 254,
+    "category": "Trump's Influence on Politics and Media"
+  },
+  {
+    "id": 151604925,
+    "title": "Not-so-cold November mailbag",
+    "subtitle": "Lots of questions about the future of the Democratic party and the second Trump administration",
+    "date": "2024-11-15",
+    "audience": "only_paid",
+    "canonical_url": "https://www.slowboring.com/p/not-so-cold-november-mailbag",
+    "authors": "Matthew Yglesias",
+    "word_count": 3950,
+    "comment_count": 777,
+    "likes": 202,
+    "category": "Democratic Party and Electoral Dynamics"
+  },
+  {
+    "id": 151646555,
+    "title": "A common sense economic agenda ",
+    "subtitle": "A growing private sector and a strong safety net",
+    "date": "2024-11-18",
+    "audience": "everyone",
+    "canonical_url": "https://www.slowboring.com/p/a-common-sense-economic-agenda",
+    "authors": "Matthew Yglesias",
+    "word_count": 1860,
+    "comment_count": 501,
+    "likes": 336,
+    "category": "Economic Policies and Partisan Divides"
   }
 ];
 export const categories: Category[] = [
   {
-    "label": 18,
-    "name": "Navigating Energy Policy Trade-offs and Climate Goals",
-    "key_words": [
-      "energy policy",
-      "fossil fuel regulation",
-      "solar and nuclear energy",
-      "climate targets",
-      "trade-offs in energy"
-    ],
-    "key_points": [
-      "Current energy policies reveal conflicts between accelerating solar and nuclear energy deployments and preserving ecological landscapes.",
-      "Trade-offs in energy production are often downplayed, leading to opposing arguments for and against fossil fuel regulation.",
-      "The emphasis on localized climate targets can conflict with broader economic and energy growth strategies.",
-      "Renewable energy growth is hindered by infrastructural and regulatory barriers despite financial incentives in major legislation.",
-      "Environmental activism often prioritizes blocking fossil fuel projects without thorough assessment of potential climate trade-offs."
-    ],
-    "summary": "These articles explore the complexities and trade-offs involved in current energy policies, highlighting the challenges of balancing accelerated deployment of solar and nuclear energy with ecological and regulatory concerns. There is debate over the effectiveness of fossil fuel regulation and the role of trade-offs is often minimized in advocacy. State-level emissions targets sometimes contradict broader economic and energy expansion goals, and despite financial incentives, renewable energy progress is limited by infrastructural and regulatory hurdles. The inclination of environmental activists to block fossil fuel projects often precedes comprehensive impact assessments, necessitating a more integrated approach to policy-making."
-  },
-  {
-    "label": 20,
-    "name": "Balancing Market Growth and Government Efficiency",
-    "key_words": [
-      "economic policy",
-      "federal bureaucracy",
-      "healthcare reform",
-      "resource allocation",
-      "private sector roles"
-    ],
-    "key_points": [
-      "The U.S. economy has outgrown European economies due to energy independence, tech industry advancements, and healthcare reforms.",
-      "Higher federal employment and efficient resource allocation can boost government capacity.",
-      "There is a need for strategic deregulation to stimulate growth and enhance competition.",
-      "Healthcare changes in the Inflation Reduction Act present opportunities for cost reduction and service expansion.",
-      "Biden's fiscal policies aim to address inflation while promoting economic equity."
-    ],
-    "summary": "These articles explore the ongoing dialogue surrounding economic policy, resource allocation, and the balance between private market growth and the strengthening of government efficiency. They highlight the consequence of varied federal approaches to macroeconomic management and discuss the impact of major policies such as the Inflation Reduction Act on healthcare costs. The need for strategic deregulation and increased government capacity are emphasized as routes to streamline operations and stimulate growth. Efficient policy frameworks are considered vital in addressing inflationary pressures and enhancing equity in resource distribution, ultimately advancing national prosperity."
-  },
-  {
-    "label": 27,
-    "name": "Trump vs. Biden: Policy and Political Implications",
-    "key_words": [
-      "US elections",
-      "Trump's policies",
-      "Biden's administration",
-      "healthcare debate",
-      "immigration issues"
-    ],
-    "key_points": [
-      "There is a noteworthy contrast between Biden's policies favoring stability and Trump's proposals, which critics argue could spur inflation and fiscal instability.",
-      "Biden's administration is marked by efforts to improve health care access, regulate the financial sector, and endorse immigration reforms.",
-      "Trump's proposed economic plans include extensive tax cuts and immigration restrictions, risking amplified deficits and strained government resources.",
-      "Progressive movements within the Democratic Party grapple with internal divisions that affect their policy influence.",
-      "The policy stakes in the 2024 election are substantial, especially concerning healthcare reform, fiscal policy, and immigration controls."
-    ],
-    "summary": "These articles collectively explore the significant policy contrasts and political dynamics between Trump and Biden's administrations. They highlight Biden's focus on healthcare expansion, regulatory controls, and managing immigration versus Trump's approach of massive tax cuts, tariff implementation, and stringent immigration policies. Additionally, the articles discuss internal Democratic party challenges and the considerable stakes of the 2024 election, particularly on pressing issues like healthcare and fiscal policies."
-  },
-  {
-    "label": 22,
-    "name": "Challenges in Housing, AI Education, and Politics",
-    "key_words": [
-      "housing costs",
-      "NIMBYism",
-      "left-wing politics",
-      "AI in education",
-      "US foreign policy"
-    ],
-    "key_points": [
-      "Housing costs are rising due to tourism and remote work, leading to resistance against building affordable housing.",
-      "Generational shifts in workplace norms reflect changing approaches to criticism and feedback.",
-      "The political landscape of Slow Boring's audience is predominantly liberal, with high representation in rich coastal areas.",
-      "AI is impacting education, work, and society, posing both opportunities and challenges.",
-      "The discourse surrounding US-Cuba relations remains complicated, focusing on geopolitical tensions."
-    ],
-    "summary": "These articles delve into various societal challenges such as rising housing costs on Mount Desert Island, exacerbated by remote work and tourism, and the subsequent pushback against affordable housing projects due to local resistance (NIMBYism). Additionally, there is a generational shift in workplace feedback norms, suggesting a move towards softer communication styles. The political demographic of Slow Boring's audience is explored, showing a predominantly liberal and affluent readership in coastal urban areas. Elsewhere, technological advancements in AI raise concerns in education and professional sectors, highlighting both the potential benefits and the risks of AI-enabled cheating. Finally, the complexity of US-Cuba relations is discussed, contemplating geopolitical realignment without overt imperialistic tendencies."
-  },
-  {
-    "label": 5,
-    "name": "Economic Stimulus and Inflation Challenges",
-    "key_words": [
-      "fiscal policy",
-      "stimulus impact",
-      "interest rates",
-      "employment trends",
-      "inflation dynamics"
-    ],
-    "key_points": [
-      "The American Rescue Plan (ARP) had significant impacts on inflation and employment, emphasizing the trade-offs between stimulating the economy and managing inflation.",
-      "Interest rate hikes by the Federal Reserve are a primary tool for controlling inflation but have drawbacks and can affect financial stability.",
-      "Debates over the causes of inflation often involve discussions about 'greedflation,' price controls, and the role of corporate profit margins.",
-      "Structural issues like secular stagnation, aging populations, and fiscal capacity influence long-term economic policy decisions.",
-      "Recently, tech sector layoffs highlight a cooling economy, but they provide opportunities for reallocation and are a sign of a potentially soft economic landing."
-    ],
-    "summary": "These articles explore the complex interplay between economic stimulus measures, inflation, and employment. The American Rescue Plan played a pivotal role in stimulating the U.S. economy post-pandemic, but it also contributed to inflationary pressures. Interest rate adjustments by the Federal Reserve, while traditional tools for inflation control, have pitfalls, including potential impacts on financial stability. The discourse around inflation is multifaceted, with discussions around corporate profits, 'greedflation,' and fiscal policies' role in addressing the inflation issue. Moreover, structural economic challenges such as secular stagnation and demographic shifts influence policy directions. Recent layoffs in the tech industry underline the broader economic cooling, signaling shifts that may guide future policy adjustments and highlight potential for a soft landing."
-  },
-  {
-    "label": 9,
-    "name": "Challenges and Advances in Vaccine Development and Distribution",
-    "key_words": [
-      "vaccine development",
-      "public health policy",
-      "COVID-19 pandemic",
-      "vaccine access",
-      "pandemic response"
-    ],
-    "key_points": [
-      "The urgent need for a robust vaccine rollout to combat severe diseases like malaria and COVID-19.",
-      "Operational hurdles in delivering COVID-19 vaccines, including outdated, slow approval processes and insufficient global vaccination funding.",
-      "Current vaccines are becoming less effective against new COVID-19 variants, underscoring the need for updated and broader-spectrum vaccines.",
-      "Societal and political challenges in vaccine uptake, particularly rooted in misinformation and vaccine hesitancy across different demographics.",
-      "Insufficient emphasis and funding towards developing pan-variant COVID vaccines and other pharmacological innovations to prevent future pandemics."
-    ],
-    "summary": "These articles highlight the critical importance of accelerating vaccine development and improving public health responses to ongoing pandemics. Persistent logistical and regulatory challenges hinder timely vaccine rollouts, while updates on vaccines aren't keeping pace with new COVID-19 variants. Sociopolitical issues, including misinformation and vaccine hesitancy, further obstruct effective immunization efforts. To mitigate future pandemic risks and address current ones, a coordinated increase in funding and innovation in vaccine development, alongside comprehensive public education campaigns, is needed. Balancing rapid vaccination with public understanding and trust is vital to halt diseases like COVID-19 and adapt to future global health challenges."
-  },
-  {
-    "label": 21,
-    "name": "Balancing Competition and Regulation in Modern Markets",
-    "key_words": [
-      "business competition",
-      "regulation reform",
-      "market fairness",
-      "consumer welfare",
-      "monopolistic practices"
-    ],
-    "key_points": [
-      "The dominance of major investment funds in owning large shares of companies is reshaping competition dynamics.",
-      "Cross-ownership, where the same funds hold significant stakes in rival companies, may reduce competitive behavior.",
-      "Sports gambling's rapid expansion raises public health concerns, inviting calls for regulation.",
-      "The concept of compulsory licensing in music aims to democratize access and creative expression.",
-      "Dynamic pricing and its effects on consumer experiences highlight the need for equitable market strategies."
-    ],
-    "summary": "These articles converge on the theme of how modern markets grapple with balancing competition and regulation. Cross-ownership in companies may diminish market competition, posing potential challenges to consumer welfare. The explosion of sports gambling prompts concerns about addiction and the need for regulatory frameworks. In music, compulsory licensing is explored to allow creative freedom while compensating original artists. Discussions around dynamic pricing in both restaurants and concerts reveal tensions between market-driven pricing and consumer equity. The broader thread underscores the need for a thoughtful approach to regulation that protects consumers and ensures vibrant market competition."
-  },
-  {
-    "label": 10,
-    "name": "Challenges and Strategies for Democrats in Modern Politics",
-    "key_words": [
-      "Democratic challenges",
-      "political media",
-      "populist politics",
-      "economic policy",
-      "education reform"
-    ],
-    "key_points": [
-      "The Democratic Party faces challenges in managing its diverse coalition and maintaining clear communication strategies.",
-      "Media landscapes heavily influence political dynamics, presenting challenges for Democrats in engaging effectively with key demographics.",
-      "Figures like J.D. Vance and media personalities illustrate a trend of combining cultural conservatism with strategic breaks from right-wing orthodoxy.",
-      "Economic policy remains a complex issue for Democrats, needing to balance immediate needs with long-term strategies for growth.",
-      "Education and cultural issues are significant battlegrounds, with debates over curriculum and societal norms influencing Democratic strategies."
-    ],
-    "summary": "The articles collectively explore the strategic and ideological challenges facing the Democratic Party against a backdrop of shifting media dynamics and populist politics. Discussions highlight the influence of cultural and media landscapes, the complications in aligning Democratic messaging with diverse elements of its coalition, and the importance of economic and education policies. Figures like J.D. Vance represent a trend of combining cultural conservatism with selective policy deviations, complicating Democratic strategies. Debates on curriculum and broader societal norms pose additional hurdles that the Democrats must navigate to craft effective and appealing political narratives."
-  },
-  {
     "label": 25,
-    "name": "Navigating Voter Demographics and Party Strategies",
+    "name": "Democratic Party and Electoral Dynamics",
     "key_words": [
-      "voter demographics",
-      "political polarization",
-      "economic populism",
-      "campaign strategies",
-      "working-class alignment"
+      "Democratic Party Challenges",
+      "American Politics",
+      "Media Influence",
+      "Electoral Strategy",
+      "Political Candidates"
     ],
     "key_points": [
-      "Democrats are losing ground with working-class voters, with significant losses among both white and non-white working-class demographics.",
-      "The Democratic Party is experiencing internal conflicts regarding the degree of leftward policy shifts amid changing voter alignments.",
-      "Race-based electoral polarization peaked during Obama's presidency and has slightly decreased since Trump's elections.",
-      "Effective strategies for Democrats could involve focusing on economic populism and distancing from establishment politics to reclaim working-class voters.",
-      "Education polarization is a distinct driver in the current political landscape, affecting party demographics and policy positions."
+      "Trump's administration influences and uncertain policy directions are noted.",
+      "The Democratic Party is exploring various strategies for candidate selection and electoral success.",
+      "Media engagement plays a critical role in shaping political discourse and public perception.",
+      "Discussions cover a wide array of potential future candidates and their strategical impacts on elections.",
+      "The importance of addressing diversity and modern challenges within party structures is emphasized."
     ],
-    "summary": "The articles discuss the significant changes in voter demographics and political polarization, highlighting the challenges faced by both the Democratic and Republican parties. The Democrats are grappling with losing working-class voters, a shift possibly due to the party's leftward movement which doesn't resonate with moderate and conservative-leaning working-class individuals. Simultaneously, the Republican Party\u2019s policies have attracted more non-white working-class support. Race-based polarization, while historically high, is seeing a slight decline, and education is emerging as a new point of polarization. Successful strategies could involve Democrats focusing on economic populism and distancing themselves from traditional party elites, while maintaining moderate social policies to appeal across educational divides."
-  },
-  {
-    "label": 3,
-    "name": "Contested Narratives in the Israel-Palestine Conflict",
-    "key_words": [
-      "Middle East conflict",
-      "Zionism debate",
-      "Palestinian rights",
-      "Israel's strategy",
-      "Geopolitical implications"
-    ],
-    "key_points": [
-      "The debate over the right of return is central to the Arab world and diminishes the feasibility of a two-state solution.",
-      "Settlement expansions in the West Bank have made a two-state solution increasingly difficult.",
-      "Hamas and Israel both engage in conflicting wars, with Hamas conducting attacks and Israel enforcing occupation.",
-      "Egypt and Arab states maintain complex relationships with Palestine, often focusing more on the Palestinian Cause than individual Palestinian welfare.",
-      "Both sides have entrenched positions that hinder peace, with Israel's ongoing settlement and Palestinians' right of return being pivotal issues."
-    ],
-    "summary": "These articles explore various facets of the Israel-Palestine conflict, emphasizing the right of return's significant role in the collapse of the two-state solution and ongoing peace efforts. The expansion of Israeli settlements in the West Bank further complicates potential solutions. While the calls for Palestinian rights remain popular, they often highlight a desire to reverse past conflicts rather than focus on present well-being. In parallel, the wars waged by Hamas and Israeli policies in Gaza and the West Bank reflect deep-set ideological differences. The geopolitical intricacies involve Egypt and other Arab states' nuanced engagement with the Palestinian status but tend to prioritize broader narratives over individual Palestinians' conditions."
-  },
-  {
-    "label": 13,
-    "name": "Media's Role in Political Dynamics and Decline",
-    "key_words": [
-      "media criticism",
-      "political communication",
-      "endorsements",
-      "journalism decline",
-      "public influence"
-    ],
-    "key_points": [
-      "Political endorsements by media outlets have diminishing influence in today's polarized climate.",
-      "Journalism faces an audience demand problem and a decline in local news supply.",
-      "Media negativity and audience preference for dramatic narratives impact content production.",
-      "Economic struggles in journalism are partly due to the transformation of business models and audience consumption habits.",
-      "A disconnect exists between journalists' perspectives and diverse audience needs."
-    ],
-    "summary": "These articles explore the evolving role of media and journalism in political communication and public influence. The impact of endorsements by major media outlets has lessened in a polarized environment, and there is a decline in local news coverage due to declining audience demand. Media negativity and the audience's preference for compelling narratives shape content production. Economic struggles in journalism are linked to changing business models and consumption habits. Moreover, there is a disconnect between journalists' perspectives and the broader audience demographics, which impacts how effectively media can serve public needs and influence political dynamics."
-  },
-  {
-    "label": 4,
-    "name": "Fiscal Clash: Taxes, Cuts, and Debt",
-    "key_words": [
-      "Fiscal Policy",
-      "Tax Cuts",
-      "Debt Ceiling",
-      "Budget Deficit",
-      "Entitlement Programs"
-    ],
-    "key_points": [
-      "Both parties face impending fiscal challenges regarding scheduled expiration of tax cuts and entitlement program sustainability.",
-      "Trump's tariff proposal is considered a regressive tax, with potential negative impacts on consumers and the economy.",
-      "The need for a new fiscal approach arises due to rising interest rates and budget deficits, with calls for tax reforms and spending cuts.",
-      "The debate centering on balancing budgets involves potential threats to Social Security and Medicare, which both parties are hesitant to reform.",
-      "The political landscape shows Republicans' disorganized approach to debt ceiling negotiations and Democrats' focus on taxing the wealthy."
-    ],
-    "summary": "These articles delve into ongoing fiscal policy debates in the United States, focusing on tax cut expirations, entitlement program reforms, and budget deficit challenges. Trump's tariff proposal is seen as an unpopular regressive tax impacting consumers adversely. There is a pressing need for fiscal strategies that blend tax reforms and spending reductions, driven by current higher interest rates and deficits. Republicans wrestle with disunity over debt ceiling solutions, while Democrats remain focused on progressive tax increases to manage the deficit, avoid entitlement reforms, and secure long-term fiscal stability."
-  },
-  {
-    "label": 8,
-    "name": "Modern Political and Cultural Alignments",
-    "key_words": [
-      "political polarization",
-      "partisan shifts",
-      "youth politics",
-      "identity politics",
-      "cultural dynamics"
-    ],
-    "key_points": [
-      "Shifts in American political identity demonstrate increasing partisan polarization with implications for governance.",
-      "Cultural dynamics, including race, gender, and ideology, shape political affiliations and discourse.",
-      "Young Americans are increasingly diverse and left-leaning, while older generations show different political trends.",
-      "Cross-generational misunderstandings and perceptions shape ideological and cultural narratives.",
-      "Institutions and debates reflect the tension between traditional hierarchy and emerging egalitarian values."
-    ],
-    "summary": "These articles explore the evolving political and cultural landscape in the U.S., prominently noting how shifts in partisan alignment and cultural dynamics continue to shape discourse. They assess generational and ideological divides, with youth showing distinct left-leaning tendencies and being engaged in critical societal narratives. Issues of identity politics and institutional dynamics paint a complex picture of American socio-political reality. Overall, the discussion highlights how the polarization of modern politics is influenced by cultural, demographic, and ideological factors, contributing to both challenges and potential paths forward."
-  },
-  {
-    "label": 6,
-    "name": "Housing Policy Changes for Growth",
-    "key_words": [
-      "housing policy",
-      "zoning reform",
-      "affordable housing",
-      "urban development",
-      "land use"
-    ],
-    "key_points": [
-      "Increased housing supply is crucial to addressing affordability and spurring economic growth.",
-      "Federal and state-level regulatory barriers hinder housing development, including restrictive zoning and outdated building codes.",
-      "Manufactured housing is a cost-effective solution but faces regulatory challenges such as chassis requirements.",
-      "Allowing more flexibility in building codes and zoning laws can enable higher-density development and support affordable housing initiatives.",
-      "State and local governments must balance growth with infrastructure improvements, like transportation, to alleviate concerns such as traffic congestion."
-    ],
-    "summary": "These articles delve into the challenges and opportunities within U.S. housing policy, emphasizing the need for regulatory reform to encourage greater housing supply and affordability. They highlight issues such as restrictive zoning laws and outdated building codes, which limit development and drive up housing costs. Federal and state actions, including modifications to regulations governing manufactured housing, can play a pivotal role in enhancing housing stock. The discussion also touches on the importance of addressing community concerns like traffic through strategic infrastructure planning and policy innovation."
-  },
-  {
-    "label": 0,
-    "name": "Electoral Innovations and Democratic Challenges",
-    "key_words": [
-      "ranked choice voting",
-      "election reform",
-      "third parties",
-      "independent candidates",
-      "democratic governance"
-    ],
-    "key_points": [
-      "Ranked choice voting is considered to introduce more moderate elections and avoid vote-splitting.",
-      "Independent candidates, like Dan Osborn, can challenge major party dominance in certain races.",
-      "There is debate about whether third-party attempts can effectively moderate American politics.",
-      "Critics argue that the U.S. needs a more structured party system to provide appealing and effective candidates.",
-      "Some proposals include mechanisms like 'anonymous Congress' to reduce partisanship in legislative decisions."
-    ],
-    "summary": "The articles discuss innovations and challenges in contemporary democratic systems, focusing on electoral reform initiatives such as ranked choice voting (RCV) and the difficulties faced by third parties. RCV aims to moderate elections by eliminating vote-splitting. The rise of independent candidates, like Dan Osborn in Nebraska, suggests a strategy for political moderation, though experts remain skeptical of broad third-party success in solving political polarization. Challenges in American politics also involve the need for a stronger party infrastructure to make strategic decisions and foster effective governance. Ideas like 'anonymous Congress' are floated as ways to diminish partisanship in legislative processes."
-  },
-  {
-    "label": 26,
-    "name": "Urban Housing, Policy, and Growth Dynamics",
-    "key_words": [
-      "urban housing challenges",
-      "remote work impact",
-      "YIMBY movement",
-      "housing regulations",
-      "affordability crisis"
-    ],
-    "key_points": [
-      "Remote work has increased demand for larger living spaces, impacting housing markets.",
-      "There is a focus on relaxing zoning regulations to build more affordable housing.",
-      "The YIMBY movement advocates for increasing housing supply to address scarcity.",
-      "Urban development should balance demand for livability and economic growth.",
-      "Policies should consider both housing supply and social impacts like homelessness."
-    ],
-    "summary": "These articles explore the extensive impact of remote work on housing demand, highlighting how the shift has spurred a need for larger living quarters and affected urban housing markets. They advocate for the YIMBY (Yes In My Backyard) approach, which emphasizes the easing of zoning regulations to boost housing supply and mitigate an affordability crisis. The pieces argue for a balance in urban development policies that address demand for livability and economic opportunities while also considering social issues like homelessness and housing scarcity. The discussions also emphasize the need to overcome regulatory barriers and adopt policies that enable more flexible and efficient housing solutions."
-  },
-  {
-    "label": 15,
-    "name": "Racial and Economic Justice in America",
-    "key_words": [
-      "racial justice",
-      "economic inequality",
-      "progressive politics",
-      "social justice",
-      "racial disparities"
-    ],
-    "key_points": [
-      "Racial disparities in various sectors continue to pose a significant challenge to achieving equality.",
-      "Progressive political strategies often aim to address both racial and economic inequalities simultaneously.",
-      "Efforts to address racial disparities include both policy initiatives and changes in public discourse.",
-      "Critiques of diversity training highlight its potential shortcomings and backlash.",
-      "The role of identity in political discourse remains a contentious topic with implications for coalition-building."
-    ],
-    "summary": "These articles explore the intersection of racial and economic justice in the U.S., examining how disparities persist and what strategies might effectively address them. They discuss progressive politics' focus on policies to reduce both racial and economic inequalities, critique the effectiveness of diversity training, and highlight the importance of understanding identity in political discourse. Anongoing debate exists over balancing race-neutral policies with targeted approaches to racial equity, emphasizing coalition-building and a broader social justice agenda."
+    "summary": "The compilation of article summaries highlights the current challenges and strategic considerations within the Democratic Party, particularly amidst the backdrop of former President Trump's administration. A key focus is on the media's role in influencing public perception and the importance of selecting effective political candidates. The articles explore the dynamic political landscape in the U.S., considering potential electoral strategies and the evolving alignment of political ideologies."
   },
   {
     "label": 16,
-    "name": "Economic Myths and Policy Debates",
+    "name": "Complex Interplay of Politics and Policy",
     "key_words": [
-      "economic myths",
-      "neoliberalism critique",
-      "progressive politics",
-      "social welfare",
-      "US economy"
+      "political dynamics",
+      "racial equity",
+      "economic policies",
+      "historical narratives",
+      "immigration reform"
     ],
     "key_points": [
-      "An analysis of the misleading 60% figure about Americans living paycheck to paycheck, emphasizing data misinterpretation.",
-      "Neoliberalism has faced criticism as a growth-at-all-costs ideology, with debates about its impact on inequality and regulation.",
-      "Progressive politics often involve redistributive goals, but debates arise over prioritizing growth versus addressing income inequality.",
-      "The left's challenges include balancing moral ambitions with the practicality of governance and prioritizing policy goals effectively.",
-      "Discussions around the viability and focus of US social safety nets, including healthcare and economic growth imperatives."
+      "Exploration of diverse political strategies and their efficacy across racial, economic, and social issues.",
+      "Racial equity and economic policies often intersect, influencing progressive discourse and electoral strategies.",
+      "Demands for sustainable immigration policies highlight the balance between security and humane treatment.",
+      "The historical context frames contemporary policy debates, emphasizing shifts in ideological and policy narratives.",
+      "The effectiveness of progressive policies often hinges on localized state implementations and broader coalition-building."
     ],
-    "summary": "These articles delve into the myths and realities of economic conditions in the United States, challenging widely cited statistics about financial stability. They critique neoliberalism's perceived focus on unregulated growth and its implications for inequality. The discussions extend to the challenges within progressive politics, where reconciling ideals with effective governance and economic growth remains contentious. The overarching theme is the complexity of establishing an equitable and efficient economic policy that addresses systemic issues without compromising growth and prosperity."
+    "summary": "The articles delve into various aspects of political and societal challenges, focusing on immigration reform, racial equity, and economic policies while considering historical contexts and present-day narratives. Discussions emphasize the necessity for pragmatic policy implementations that bridge ideological divides, enhance racial and economic justice, and adapt immigration frameworks to current geopolitical and social dynamics. Through analysis of historical trends and modern-day challenges, the overarching theme illustrates the intricate connections between political ideologies, socio-economic policies, and systemic reform efforts."
   },
   {
-    "label": 7,
-    "name": "Kamala Harris and Democratic Elections Strategy",
+    "label": 6,
+    "name": "Strategies and Challenges in Modern Politics",
     "key_words": [
-      "Kamala Harris",
-      "Democratic strategy",
-      "midterm elections",
-      "policy pivot",
-      "message focus"
+      "Political Strategy",
+      "Voter Demographics",
+      "Progressive Movements",
+      "Election Outcomes",
+      "Party Dynamics"
     ],
     "key_points": [
-      "Kamala Harris is working to reframe her image and agenda as she takes lead of the Democratic campaign.",
-      "Debate on the best strategy involves choosing between focusing on Harris's strengths versus attacking Trump.",
-      "Harris's campaign is seen as having strengths with its upbeat message and broad Democratic appeals.",
-      "Emphasis is on messaging around key 'kitchen table' issues like cost of living and healthcare.",
-      "There's an ongoing discussion about avoiding divisive primary processes and focusing on consensus-building within the party."
+      "Political strategies often need to adapt to changing voter demographics and ideological shifts.",
+      "Democrats face challenges in balancing progressive ideals with appealing to moderate and swing voters.",
+      "Progressives grapple with racial and economic messaging, sometimes counteracting broader appeal.",
+      "Polarization and the push for popularism influence party tactics and election strategies.",
+      "Engagement with diverse platforms and reframing of policy debates are seen as crucial for broader political success."
     ],
-    "summary": "The articles center on Kamala Harris's emerging strategy as the Democratic candidate, highlighting her challenges and opportunities as she replaces Joe Biden. With commendable efforts in re-galvanizing party enthusiasm, the discussion revolves around the strategic focus on her accomplishments and popular policy stances over vitriolic attacks on Donald Trump. Insight also delves into the broader Democratic strategies to appeal to swing voters while minimizing intra-party division, especially emphasizing common 'kitchen table' issues that resonate with the general electorate."
-  },
-  {
-    "label": 17,
-    "name": "Challenges and Opportunities for Urban Transportation",
-    "key_words": [
-      "urban transportation",
-      "traffic congestion",
-      "mass transit",
-      "urban growth",
-      "infrastructure"
-    ],
-    "key_points": [
-      "Robotaxis could exacerbate traffic congestion without proper regulation.",
-      "Congestion pricing is underutilized in managing road space effectively.",
-      "Investment in effective mass transit systems could reduce reliance on personal vehicles.",
-      "City infrastructure planning often fails to prioritize high ridership and cost-effectiveness.",
-      "Urban growth is hindered by zoning limitations and lack of transportation integration."
-    ],
-    "summary": "The articles explore the challenges and opportunities in urban transportation, focusing on how innovations like robotaxis might affect traffic congestion without proper management and the potential underutilization of congestion pricing as a solution. They highlight the importance of investing in effective mass transit to reduce personal vehicle dependency and how city planning often overlooks prioritizing high ridership and cost-effective solutions. Furthermore, urban growth is constrained by zoning restrictions and poor integration of transportation systems, underscoring the need for better coordination and forward-thinking policies."
+    "summary": "The article summaries explore various aspects of modern political dynamics, highlighting challenges and strategies in appealing to diverse voter demographics. They discuss the tension within the Democratic Party between progressive ideals and the need to attract moderate swing voters. Progressive movements often face criticism for their framing of racial and economic issues, potentially alienating broader audiences. Additionally, the impact of polarization and popularist strategies is assessed, indicating a need for parties to balance ideological purity with practical electoral tactics. Overall, these summaries illuminate the complexities of navigating political landscapes and achieving electoral success."
   },
   {
     "label": 11,
-    "name": "Strategic Messaging and Policy Prioritization for Elections",
+    "name": "Competition, Media, and Future Risks",
     "key_words": [
-      "abortion rights",
-      "Democratic strategy",
-      "election messaging",
-      "swing voters",
-      "policy prioritization"
+      "Competition Policy",
+      "Media Critique",
+      "Effective Altruism",
+      "AI Concerns",
+      "Economic Trends"
     ],
     "key_points": [
-      "Abortion rights are a central topic, discussing both electoral strategies and public sentiment shifts.",
-      "Effective messaging involves framing moderate positions to appeal to swing voters and non-ideological citizens.",
-      "Democrats should focus on popular, narrow-target policy proposals to engage voters.",
-      "Mobilization without persuasion is insufficient; appealing to swing and crossover voters is crucial.",
-      "Protests and strategic public engagement can influence political narratives and voter awareness."
+      "Effective Altruism is compared to a new form of religion, emphasizing long-term global risks.",
+      "The media landscape has shifted, prompting critiques of negativity bias and loss of distinct editorial voices.",
+      "Discussions on AI emphasize potential risks and the need for alignment before societal impact.",
+      "Economic and tech industry dynamics highlight shifts in wealth and productivity growth challenges.",
+      "Legislation efforts focus on addressing the power of dominant online platforms and competition policies."
     ],
-    "summary": "The articles explore the intersection of strategic messaging and policy prioritization in electoral contexts, particularly for Democrats. They emphasize abortion rights as a key issue, advocating a strategy of presenting moderate, widely supported policy proposals to appeal to a broad voter base, including swing voters. The pieces argue against purely mobilization-focused approaches, instead suggesting the importance of persuasion and crossover appeal. Additionally, public protests and digital engagement are highlighted as effective tools in shaping political discourse and voter sentiments."
+    "summary": "These articles explore the evolving landscape of media, economic trends, and policy, highlighting concerns about negativity bias, effective altruism's growth, AI risks, and legislative efforts addressing competition. The narratives reveal shifts in industry dynamics, the media's role in public perception, and philosophical debates surrounding global risks and technological progress."
   },
   {
-    "label": 24,
-    "name": "Democratic Legislative Challenges and Strategies",
+    "label": 3,
+    "name": "Future Democratic Strategies for 2024",
     "key_words": [
-      "American politics",
-      "legislative process",
-      "Democratic Party",
-      "Build Back Better",
-      "Joe Manchin"
+      "Democratic Strategies",
+      "Voter Mobilization",
+      "2024 Elections",
+      "Political Narratives",
+      "Policy Reform"
     ],
     "key_points": [
-      "The Build Back Better plan faced significant obstacles due to opposition from moderate Democrats like Joe Manchin.",
-      "Child Tax Credit is a key focus, with debates over making it more permanent versus other social investments.",
-      "The balance between ambitious climate policies and healthcare improvements forms a major part of the legislative agenda.",
-      "Legislative strategy has been criticized for lack of focus, often resulting in complicated mega-bills due to filibuster constraints.",
-      "Persistent inflation concerns influence Democratic legislative priorities, with calls for deficit reduction gaining traction."
+      "Democratic strategies focus on broadening coalitions and addressing key voter concerns such as economic issues and social policies to enhance electoral prospects.",
+      "Innovative voter mobilization tactics, including relational persuasion and community engagement, are critical for the Democrats' success in future elections.",
+      "Challenges abound in maintaining electoral competitiveness amidst shifting demographics and ideological divides within the Democratic Party.",
+      "Strategic messaging and policy alignment are essential for effectively managing public perceptions and improving voter turnout.",
+      "A reformed primary process and more inclusive party dynamics could strengthen Democratic Party prospects in upcoming elections."
     ],
-    "summary": "The articles collectively examine the difficulties faced by the Democratic Party in advancing the Build Back Better agenda, highlighting hurdles like Joe Manchin's resistance to large spending packages and the focus on climate and healthcare initiatives. They discuss the challenges of navigating legislative strategy within the constraints of the filibuster, which often leads to large, convoluted bills. The discussions highlight the importance of finding a balance between social and climate policies while tackling persistent inflation and the need for deficit reduction, emphasizing the need for focused legislative efforts amidst political and economic complexities."
-  },
-  {
-    "label": 29,
-    "name": "Strategies to Tackle Urban Crime and Gun Violence",
-    "key_words": [
-      "crime policy",
-      "gun violence",
-      "criminal justice reform",
-      "urban policing",
-      "illegal firearms"
-    ],
-    "key_points": [
-      "DC's crime wave is attributed to systemic capacity issues rather than just legal leniency.",
-      "The U.S. Attorney's reluctance to prosecute gun possession cases highlights policy incoherence.",
-      "Bukele's crackdown in El Salvador raises questions about sustainable anti-gang measures.",
-      "Ineffective data reporting and management hinder U.S. crime prevention efforts.",
-      "Economic opportunities and law enforcement strategies impact recidivism and gun possession."
-    ],
-    "summary": "The articles explore various facets of urban crime and strategies for gun violence reduction, with a particular focus on Washington, DC, El Salvador, and broader U.S. policies. They argue for improving the capacity of the criminal justice system and enforcing existing gun laws as solutions to urban crime. Moreover, the series delves into how effective data management and economic opportunities can influence crime rates and recidivism. Different approaches such as Bukele's controversial 'iron fist' strategy in El Salvador are highlighted, raising questions about their replicability and long-term impact. The articles suggest that coherent policy and rigorous enforcement are crucial for reducing crime and improving public safety."
-  },
-  {
-    "label": 19,
-    "name": "Immigration Debates and Policy Implications",
-    "key_words": [
-      "immigration policy",
-      "border security",
-      "labor market",
-      "asylum process",
-      "economic impact"
-    ],
-    "key_points": [
-      "The need for comprehensive and pragmatic immigration reform is highlighted by ongoing partisan divides.",
-      "The economic impacts of immigration are complex, often misunderstood, and shouldn't be the sole driver of policy.",
-      "Asylum claims, driven by various humanitarian factors, complicate border security and political narratives.",
-      "Debates on immigration policy often reflect broader cultural tensions rather than purely economic concerns.",
-      "There is a call for policies that balance humane treatment of immigrants with practical enforcement of borders."
-    ],
-    "summary": "These articles explore the multifaceted debate on immigration policy in the United States, emphasizing the complexity of balancing economic needs with border security and humanitarian concerns. While immigration has economic implications, such as contributions to labor markets and potential pressure on wages, cultural and political narratives often dominate the discourse. The authors argue for comprehensive reform that acknowledges these diverse impacts while addressing public sentiments on chaos and demographic change. Ultimately, there is a push for a balanced approach that respects both the need for border control and the humane treatment of asylum seekers."
-  },
-  {
-    "label": 28,
-    "name": "Challenges in Modern American Education",
-    "key_words": [
-      "education reform",
-      "elite colleges",
-      "race and admissions",
-      "tracking policies",
-      "phonics instruction"
-    ],
-    "key_points": [
-      "Elite colleges face scrutiny over race-based admissions, highlighting merit versus inequality.",
-      "The push for phonics in reading reflects a broader debate on effective educational methods.",
-      "Tracking and detracking remain contentious, with arguments about equity and efficacy.",
-      "Standardized testing is central to controversies about measurement in education.",
-      "Resource allocation in education often favors elite institutions over broader student populations."
-    ],
-    "summary": "The articles discuss key issues in American education, including debates over elite college admissions and race, the effectiveness of phonics instruction, and policies regarding tracking students by ability. They also address the role of standardized testing in evaluating educational outcomes and the unequal allocation of resources, which often favors prestigious institutions over more diverse student needs. These topics reflect ongoing tensions between striving for equity and maintaining competitive standards in educational settings."
+    "summary": "The collection of articles discusses Democratic strategies and voter mobilization tactics for upcoming elections, particularly focusing on the 2024 electoral cycle. It highlights the need for the Democratic Party to adapt to demographic changes, refine policy messaging, and increase voter engagement through innovative approaches such as relational persuasion. Challenges such as ideological divides within the party and managing public perceptions are also addressed, emphasizing the importance of strategic messaging and policy alignment to strengthen their electoral prospects. Additionally, insights into reforming the primary process are noted as essential for promoting inclusive and competitive party dynamics."
   },
   {
     "label": 2,
-    "name": "US-China Geopolitical and Economic Strategies",
+    "name": "Exploring Welfare and Economic Policy Reforms",
     "key_words": [
-      "US-China Relations",
-      "Trade Policies",
-      "Geopolitical Competition",
-      "Economic Strategy",
-      "Digital Influence"
+      "Child Tax Credit",
+      "Welfare Reform",
+      "Universal Basic Income",
+      "Healthcare Policy",
+      "Public Investment"
     ],
     "key_points": [
-      "The US is taking aggressive steps to curb China's advancements in semiconductor technology.",
-      "There is a shift from the previous US bipartisan consensus on free trade with China to a focus on economic containment.",
-      "Biden maintains Trump-era tariffs and moves further with strategic competition measures against China.",
-      "TikTok's influence and Chinese ownership raise major concerns for US national security.",
-      "The US aims to challenge China's rise through technological advantage and strengthening alliances."
+      "Discussion of new welfare reforms, including Child Tax Credit expansions and universal basic income proposals.",
+      "Analysis of the economic implications of targeted subsidies versus universal benefit programs.",
+      "Challenges and opportunities in bridging ideological divides over healthcare and child welfare policies.",
+      "Exploration of fiscal strategies to reform taxation and improve welfare efficiency.",
+      "Integration of public investment frameworks and regulatory reforms in policy discussions."
     ],
-    "summary": "The articles explore the evolving geopolitical and economic dynamics between the United States and China. The focus is on the US's strategic shift from a free trade consensus to active containment of China's technological rise, especially in semiconductors. This includes maintaining tariffs and strengthening alliances in Asia-Pacific. Additionally, concerns arise over TikTok's influence due to its Chinese ownership, highlighting the broader tension over digital information control. The strategy indicates a desire to maintain US primacy without hindering global progress, though it risks straining US-China relations."
-  },
-  {
-    "label": 1,
-    "name": "Urban Evolution and Housing Challenges",
-    "key_words": [
-      "urban planning",
-      "transportation shift",
-      "housing dynamics",
-      "historical impact",
-      "economic policies"
-    ],
-    "key_points": [
-      "Urban planning debates often center on the balance between preservation and development.",
-      "Emerging transportation technologies, such as e-bikes, are reshaping urban mobility.",
-      "Historical land policies continue to influence current economic developments in cities.",
-      "Cities face significant challenges from remote work impacts and housing market pressures.",
-      "Navigating regulatory frameworks is crucial for addressing urban growth and change."
-    ],
-    "summary": "The articles collectively discuss the evolving nature of urban areas amidst new transportation technologies, historical economic policies, and current housing market dynamics. They emphasize the tension between preservationist instincts and the need for modern development to accommodate growth. Emerging transportation options like e-bikes and the influence of remote work create challenges while simultaneously offering opportunities for urban centers to adapt. The discourse extends to historical influences on land use and the need for policy adjustments to harness new economic opportunities and address the growing pressures on housing markets."
-  },
-  {
-    "label": 14,
-    "name": "Reforming Policing and Crime Strategies",
-    "key_words": [
-      "police reform",
-      "crime rates",
-      "education priorities",
-      "organizational change",
-      "law enforcement policies"
-    ],
-    "key_points": [
-      "The need for increased education and training for police officers is highlighted as a means to improve policing quality.",
-      "Reallocating police resources to high-crime areas could enhance public safety and optimize law enforcement efforts.",
-      "Addressing the rise in violent crime requires both policing and community-based strategies, including more social support services.",
-      "An overhaul in law enforcement employment practices, such as firing bad cops and recruiting diverse officers, is crucial.",
-      "Sustainable crime reduction strategies go beyond policing, integrating broader social, economic, and educational policies."
-    ],
-    "summary": "The articles explore multifaceted approaches to crime and policing reform, emphasizing the need for a better-educated police force, strategic resource allocation, and comprehensive community-based solutions. There is a shared call to reevaluate law enforcement employment practices and prioritize firing officers for misconduct while promoting diversity within police departments. Importantly, the articles suggest that resolving issues of crime and policing requires a coordinated effort that encompasses policing reforms and addressing social determinants of crime through broader social and policy interventions."
+    "summary": "The articles discuss various welfare and economic policy reforms, focusing on Child Tax Credit expansions, universal basic income proposals, and healthcare strategies. They explore the efficacy of targeted subsidies versus universal programs, the economic implications of these approaches, and the political challenges of implementing significant policy changes. These discussions are also tied to broader fiscal strategies and public investment frameworks, aiming to enhance economic and social outcomes for diverse communities."
   },
   {
     "label": 12,
-    "name": "Education Reform and Teacher Policies",
+    "name": "Interpreting Economic Forces and Policy Responses",
     "key_words": [
-      "teacher evaluations",
-      "licensure reform",
-      "charter schools",
-      "education policy",
-      "teacher compensation"
+      "inflation dynamics",
+      "economic policy",
+      "labor market",
+      "monetary policy",
+      "supply and demand"
     ],
     "key_points": [
-      "Teacher licensure reform can expand the teaching pool without sacrificing quality.",
-      "Obama-era reforms focused on teacher performance metrics but showed limited results.",
-      "Charter schools have mixed outcomes, with variability across different states.",
-      "Teacher evaluations and merit pay have not uniformly improved student achievement.",
-      "Education reforms have shifted focus due to political and practical challenges."
+      "The transition from historical Malthusian intuitions to modern economic understanding reveals complexity in labor market adjustments and wage dynamics post-Black Death.",
+      "Current inflationary concerns are attributed to both demand-side stimulations, such as the American Rescue Plan, and supply-side disruptions like global supply chain issues.",
+      "Technological advancements and changing macroeconomic conditions underpin diverse pricing strategies, influencing sectors from subscription services to restaurant and concert ticket markets.",
+      "Policy debates highlight the efficacy of monetary tools like interest rates, contrasting with fiscal approaches including direct economic interventions and immigration reforms.",
+      "Persistent inequalities in wage and economic distribution persist, with CEO pay and minimum wage discussions reflecting broader socioeconomic disparities."
     ],
-    "summary": "The articles discuss various aspects of education reform, emphasizing teacher evaluations, licensure, and compensation. The scaling of pilot interventions in Massachusetts and New Jersey showed that reducing barriers to entry did not diminish teacher quality. The Obama administration pushed for reforms linking teacher pay to performance metrics, but these did not significantly boost student achievement nationwide. Charter schools present mixed results, succeeding in some regions but failing in others, which suggests that statewide policies need to be nuanced. Throughout the discussions, education policy remains a divisive and evolving field impacted by politics and differing stakeholder priorities."
+    "summary": "The article summaries explore the intricate dynamics of inflation, labor market shifts, and economic policy interventions. Topics cover historical economic transitions, modern inflation concerns linked to demand and supply factors, technological and market adaptations, and policy discussions regarding fiscal and monetary strategies. Diverse viewpoints on wage and income inequality provide a detailed examination of ongoing socioeconomic challenges. Overall, these articles reflect on how historical insights, current economic conditions, and evolving policies shape contemporary economic discussions and future strategic developments."
+  },
+  {
+    "label": 0,
+    "name": "Zoning Reforms and Housing Scarcity",
+    "key_words": [
+      "housing scarcity",
+      "zoning reform",
+      "urban planning",
+      "affordable housing",
+      "economic implications"
+    ],
+    "key_points": [
+      "Zoning laws and restrictive land use are major barriers to increasing housing supply, especially in high-demand areas.",
+      "Public and private housing development often face political and regulatory challenges, affecting affordability and availability.",
+      "Bipartisan cooperation is crucial for advancing zoning reforms that facilitate economic growth and housing abundance.",
+      "State-level interventions can play a pivotal role in overcoming local NIMBY opposition and achieving broader housing policy goals.",
+      "Increasing housing supply through zoning reforms can alleviate homelessness and reduce housing cost burdens while stimulating economic growth."
+    ],
+    "summary": "The article summaries highlight the impact of zoning laws and land use regulations as primary obstacles to addressing housing scarcity and affordability issues. They discuss the importance of zoning reform and state-level interventions to overcome regulatory barriers, mitigate local opposition, and stimulate economic growth. Public housing, when coupled with zoning reforms, can offer solutions, but political and bureaucratic challenges must be navigated to achieve housing abundance and equitable development."
+  },
+  {
+    "label": 4,
+    "name": "Kamala Harris and Biden's Political Strategy",
+    "key_words": [
+      "Kamala Harris",
+      "Biden's political strategy",
+      "Election dynamics",
+      "Policy and governance",
+      "US political discourse"
+    ],
+    "key_points": [
+      "Kamala Harris's potential as a presidential candidate raises questions about her electability and need for appealing to swing voters.",
+      "Joe Biden's governance includes strategic legislative successes and diplomatic efforts amid challenges of age and media perceptions.",
+      "Analysis of global and historical political dynamics provides context for current US political leadership challenges.",
+      "Progress in economic recovery and legislative agenda is crucial for Democrats to maintain political momentum.",
+      "Discussions about party dynamics and leadership highlight the complexities of political strategies and candidate selection."
+    ],
+    "summary": "These articles explore Kamala Harris's political positioning and Joe Biden's strategy in the context of upcoming elections, governance, and party dynamics. They analyze her potential as a future presidential nominee, Biden's strategic accomplishments, and the complexities surrounding political discourse and leadership choices. The discussions provide insights into the balance between advancing policy goals and addressing internal party challenges while maintaining electoral appeal."
+  },
+  {
+    "label": 19,
+    "name": "Complexities and Debates in Climate Policy",
+    "key_words": [
+      "Climate Policy",
+      "Emissions Reduction",
+      "Renewable Energy",
+      "Permitting Reform",
+      "Public Opinion"
+    ],
+    "key_points": [
+      "Many articles emphasize the trade-offs and complexities involved in formulating effective climate policies, with particular attention to balancing environmental goals with economic realities.",
+      "Permitting reform is a recurrent theme, often highlighted as critical for speeding up clean energy projects amid litigation and bureaucratic hurdles.",
+      "Public opinion and political strategy frequently clash with ambitious climate goals, underscoring the challenge of gaining widespread support for aggressive policies like carbon taxes.",
+      "Technological innovation and deregulation are positioned as potential solutions for achieving sustainable energy transitions while addressing economic and social concerns.",
+      "Diverse opinions within environmental coalitions reflect ongoing tensions between different philosophical views and approaches to addressing climate change effectively."
+    ],
+    "summary": "The article summaries collectively explore the intricacies of implementing climate policies, highlighting challenges like permitting reform, public opposition, and balancing environmental and economic priorities. The texts underscore the importance of aligning technological innovations and deregulation with pragmatic regulations to foster sustainable energy practices and reduced emissions. Moreover, they examine the complex interplay of public opinion and political strategy in realizing long-term environmental goals."
+  },
+  {
+    "label": 7,
+    "name": "Economic Policies and Partisan Divides",
+    "key_words": [
+      "tariff policy",
+      "Democratic economic strategy",
+      "industrial policy",
+      "full employment",
+      "fiscal reform"
+    ],
+    "key_points": [
+      "Critiques of Trump's proposed tariffs focus on potential negative impacts on consumer prices and economic growth.",
+      "Democratic strategies emphasize economic growth through industrial policy and the promotion of full employment.",
+      "The Biden administration is seen as pivoting away from neoliberal policies towards a more interventionist economic approach.",
+      "Debates highlight the balance between regulatory reforms and maintaining progressive economic goals.",
+      "Supply-side reforms are proposed as a pathway to prosperity through efficient resource allocation and productivity enhancement."
+    ],
+    "summary": "These articles explore distinct economic approaches, contrasting Trump's tariff-focused policies with Biden's emphasis on industrial policy and regulatory reforms aimed at progressive distributional outcomes. Discussions center around the effectiveness of different fiscal strategies, the balance between growth and equity, and the need for supply-side reforms to sustain full employment and economic progress. Ultimately, the rivalry in policy directions reflects broader partisan divides on economic governance."
+  },
+  {
+    "label": 18,
+    "name": "Policing and Justice System Dynamics",
+    "key_words": [
+      "policing reform",
+      "crime trends",
+      "justice system",
+      "public safety",
+      "social policies"
+    ],
+    "key_points": [
+      "Crime trends show varying patterns across major cities, with some areas experiencing increases in violence while others see improvements.",
+      "Reform strategies focus on enhancing policing education, increasing police presence, and improving the justice system's capacity.",
+      "Proposals include innovative approaches such as 'Police for America' and enhanced use of technology for crime detection.",
+      "Policing reform debates are often polarized, focusing on funding, accountability, and effectiveness of police forces.",
+      "Broader social policies, including economic investments and urban planning, are crucial in addressing the root causes of crime."
+    ],
+    "summary": "The articles explore a broad spectrum of issues related to crime trends, policing reform, and justice system enhancements. They discuss the need for reform in policing through improved education, increased resources, and technology use, while highlighting debates about funding and accountability. The summaries emphasize crime reduction through thoughtful policy interventions and broader social efforts, including economic initiatives and community engagement. Addressing these challenges requires a multifaceted approach that balances enforcement with social support systems."
+  },
+  {
+    "label": 27,
+    "name": "Reflections on Pandemic Responses",
+    "key_words": [
+      "pandemic policies",
+      "vaccine strategies",
+      "public health communication",
+      "government response",
+      "political polarization"
+    ],
+    "key_points": [
+      "Inconsistent pandemic policies led to public confusion and societal frustration.",
+      "Debates on the effectiveness of NPIs and varying global pandemic strategies.",
+      "Vaccine distribution and public hesitancy impacted pandemic management efforts.",
+      "Political polarization influenced public health measures and adherence.",
+      "Media and communication strategies played a crucial role in public health responses."
+    ],
+    "summary": "These article summaries explore the complexities of pandemic responses, highlighting inconsistencies in non-pharmaceutical interventions (NPIs), global variations in strategies, and their effects on public trust. Vaccine distribution challenges and hesitancy are juxtaposed with political influences, shaping policy implementation. Furthermore, media and public health communication have been pivotal in shaping societal perceptions and adherence, revealing a need for transparency and effective messaging in crisis management."
+  },
+  {
+    "label": 17,
+    "name": "Transportation and Urban Policy Challenges",
+    "key_words": [
+      "transportation infrastructure",
+      "urban planning",
+      "traffic congestion",
+      "public transit",
+      "regulatory challenges"
+    ],
+    "key_points": [
+      "The rise of robotaxis in urban areas highlights regulatory and congestion concerns.",
+      "Congestion pricing is proposed as a solution to traffic and environmental issues in cities.",
+      "E-bikes offer sustainable transportation alternatives amid growing urban density.",
+      "Amtrak and rail investments face management and efficiency challenges in the U.S.",
+      "Public transit systems struggle with fare evasion and operational inefficiencies."
+    ],
+    "summary": "These articles explore various aspects of transportation infrastructure and urban planning, focusing on traffic congestion, public transit efficiency, and regulatory challenges. Innovations like robotaxis and e-bikes present new opportunities and challenges for urban mobility. However, existing systems such as Amtrak and municipal transit face difficulties related to management and regulatory constraints. Solutions like congestion pricing are suggested to alleviate traffic issues and promote sustainable urban development."
+  },
+  {
+    "label": 20,
+    "name": "Complex Intersections in Policy and Health",
+    "key_words": [
+      "U.S. immigration data",
+      "AI health interventions",
+      "Osteopathic medicine",
+      "Organ transplantation reforms",
+      "Media biases in policy"
+    ],
+    "key_points": [
+      "Discrepancies in U.S. immigration data challenge economic policy analysis.",
+      "Thrive AI Health app aims to improve health behaviors but faces skepticism over privacy and accuracy.",
+      "Osteopathic doctors play a critical role in healthcare, particularly in underserved areas.",
+      "U.S. organ transplantation reforms target inefficiencies and enhance organ recovery.",
+      "Media biases influence public perception and policy focus, notably in health and political domains."
+    ],
+    "summary": "The articles cover diverse topics such as U.S. immigration data discrepancies and their implications for economic policies, the transformative potential and challenges of AI in health with the Thrive AI Health app, and the growing importance of osteopathic medicine in addressing healthcare gaps. Other discussions include systemic reforms in organ transplantation to improve efficiency and save lives, and the impact of media biases on public perceptions of policies and health issues. These themes highlight the complexities at the intersection of policy, health, and media dynamics in contemporary discourse."
+  },
+  {
+    "label": 22,
+    "name": "Geopolitical Tensions and Energy Dynamics",
+    "key_words": [
+      "Russia-Ukraine Conflict",
+      "Energy Crisis",
+      "Military Spending",
+      "Geopolitical Strategy",
+      "Humanitarian Impact"
+    ],
+    "key_points": [
+      "The Russia-Ukraine conflict has significant global ramifications, impacting energy supplies, inflation, and geopolitics.",
+      "Europe faces a critical energy crisis due to reduced Russian gas imports, prompting efforts to diversify energy sources.",
+      "Increased U.S. defense spending is debated amid economic pressures and strategic reevaluation priorities shifting towards Asia.",
+      "Humanitarian crises, exacerbated by conflicts and climate change, highlight inadequate global aid and funding.",
+      "Diplomatic approaches are emphasized to resolve international conflicts and address economic interdependencies."
+    ],
+    "summary": "These article summaries explore the multi-faceted impacts of the Russia-Ukraine conflict on global energy supplies, economic inflation, and geopolitical dynamics. The discussions emphasize Europe's energy crisis, U.S. defense spending priorities, and the need for diplomatic solutions to manage tensions and foster stability. Furthermore, the implications of humanitarian challenges and their funding shortfalls are highlighted as critical concerns in the backdrop of these geopolitical events. The narratives stress strategic realignments, particularly focusing on Asia, to effectively address shifting global priorities."
+  },
+  {
+    "label": 8,
+    "name": "Trump's Influence on Politics and Media",
+    "key_words": [
+      "Trump's Policies",
+      "Media Dynamics",
+      "Republican Strategy",
+      "Biden Administration",
+      "Conservative Shifts"
+    ],
+    "key_points": [
+      "Trump's presidency significantly influenced Republican policies and media coverage.",
+      "Biden seeks to engage moderate Republicans while maintaining progressive goals.",
+      "Media profits from sensationalizing political figures, often lacking policy depth.",
+      "The Republican Party's focus has pivoted more toward cultural issues than economic reform.",
+      "Trump's unpredictable policies and media engagement impact electoral dynamics."
+    ],
+    "summary": "The articles collectively explore the influence of Donald Trump on U.S. politics, particularly his impact on the Republican Party's policies and media coverage. They discuss Trump's polarizing role in shaping conservative strategy and the media's focus on sensational narratives. The Biden administration's strategy is to unite various political factions while addressing policy concerns. These themes highlight a shift among conservatives towards cultural issues and assess the media's role in this political landscape."
+  },
+  {
+    "label": 29,
+    "name": "Navigating Fiscal Policy and Debt Challenges",
+    "key_words": [
+      "Fiscal Policy",
+      "Debt Ceiling",
+      "Tax Reform",
+      "Economic Strategy",
+      "Government Spending"
+    ],
+    "key_points": [
+      "Issues surrounding fiscal policy and government deficits are key themes.",
+      "There is significant focus on debt ceiling debates and potential solutions.",
+      "Tax reform proposals aim to balance revenue needs with economic growth.",
+      "Bipartisan cooperation is crucial yet challenging for addressing fiscal matters.",
+      "Economic strategies discuss interest rates' impact on policy and political dynamics."
+    ],
+    "summary": "These articles explore the complexities of U.S. fiscal policy, highlighting debates over the federal debt ceiling, deficit reduction, and tax reforms. Challenges include balancing revenue needs with economic growth and managing government spending. The need for bipartisan cooperation is crucial in navigating these economic and political issues. Interest rates play a pivotal role in shaping both fiscal strategies and political dynamics, with implications for government policies and party agendas."
+  },
+  {
+    "label": 26,
+    "name": "Tourism and Housing Dynamics in Urban Landscapes",
+    "key_words": [
+      "Tourism impact",
+      "Housing shortages",
+      "Remote work trends",
+      "Urban policy",
+      "Population growth"
+    ],
+    "key_points": [
+      "Tourism significantly influences local economies and housing markets, particularly in Europe and the U.S.",
+      "Housing shortages are exacerbated by regulations and rising demand, influencing urban development and homelessness.",
+      "Remote work has reshaped economic dynamics by increasing demand for flexible housing and impacting traditional office space use.",
+      "Urban policies must adapt to manage the effects of tourism, remote work, and population shifts on housing and infrastructure.",
+      "Population growth can stimulate urban development if supported by effective housing policies and regulatory reforms."
+    ],
+    "summary": "These articles explore the interconnected effects of tourism, housing shortages, and remote work on urban environments. Tourism boosts economic growth but stresses housing availability, while remote work reshapes residential demand and office space use. Addressing housing shortages through regulatory reforms and supporting population growth are essential for sustainable urban development. Efficient urban policies can balance tourism benefits, accommodate remote working habits, and manage population dynamics to foster thriving urban centers."
+  },
+  {
+    "label": 24,
+    "name": "Challenges and Innovations in Global Vaccination",
+    "key_words": [
+      "vaccine innovation",
+      "Covid-19 response",
+      "public health policy",
+      "global vaccination efforts",
+      "regulatory challenges"
+    ],
+    "key_points": [
+      "Malaria and Covid-19 vaccinations are crucial for global health but face logistical hurdles.",
+      "Regulatory challenges impact the speed and accessibility of Covid-19 vaccine approvals.",
+      "Political and economic factors influence national and global vaccination strategies.",
+      "Vaccine disparities are linked to both logistical constraints and public hesitancy.",
+      "The importance of innovation in rapidly developing and distributing vaccines is emphasized."
+    ],
+    "summary": "The articles explore the multifaceted complexities of global vaccination efforts, focusing on both malaria and Covid-19. They highlight the significant challenges in vaccine logistics, approval processes, and equitable distribution. Political and economic influences shape both domestic and international vaccination policies, with a strong emphasis on the need for quicker innovation and regulatory adaptability. Addressing public vaccination hesitancy and ensuring global access are critical to controlling pandemics and improving public health outcomes."
+  },
+  {
+    "label": 28,
+    "name": "Evolving Dynamics in U.S. K-12 Education",
+    "key_words": [
+      "education reform",
+      "teacher compensation",
+      "technology in schools",
+      "curriculum changes",
+      "school performance metrics"
+    ],
+    "key_points": [
+      "Persistent educational challenges highlight the need for reform focused on equity and effectiveness.",
+      "Teacher compensation structures and evaluation methods remain contentious and impactful.",
+      "Technology's role in education is debated, with concerns about distraction and learning quality.",
+      "Debates over curriculum content reflect broader societal and political tensions.",
+      "School performance assessment continues to evolve, emphasizing growth metrics and diverse student needs."
+    ],
+    "summary": "The articles explore various facets of the U.S. K-12 education system, including education reform efforts, teacher compensation, the role of technology in schools, curriculum content, and methods of assessing school performance. Persistent challenges in achieving educational equity and effectiveness drive ongoing debates, from technological impacts on learning to the political dynamics influencing curriculum changes. As educational needs diversify, there is a focus on reforming compensation and evaluation models, managing technology's educational role, and adapting curricula to reflect societal values and improve student outcomes."
+  },
+  {
+    "label": 9,
+    "name": "Evolving Challenges in Higher Education",
+    "key_words": [
+      "University Leadership Challenges",
+      "Affirmative Action Policies",
+      "Higher Education Financing",
+      "Standardized Testing Debates",
+      "AI in Education"
+    ],
+    "key_points": [
+      "University presidencies face unprecedented challenges due to political pressures and expansive responsibilities.",
+      "Affirmative action in college admissions remains contested, especially regarding its impact on diversity and fairness.",
+      "Student loan and higher education financing debates focus on equity and long-term economic implications.",
+      "Shifts away from standardized testing in admissions raise questions about academic merit and diversity goals.",
+      "AI technologies like ChatGPT are prompting reconsideration of traditional educational assessments and methodologies."
+    ],
+    "summary": "The collection of article summaries highlights significant challenges and debates in the higher education sector, including leadership complexities, affirmative action's contentious place in policy, and the financial systems underpinning student loans. Additionally, the move away from standardized testing and the disruptive potential of AI in education paint a picture of an evolving landscape grappling with issues of equity, accountability, and adaptation to technological advancements. Together, these articles provide a sweeping view of the tensions and trends shaping modern educational institutions and policies."
+  },
+  {
+    "label": 1,
+    "name": "Modern Political Challenges and Global Dynamics",
+    "key_words": [
+      "El Salvador Politics",
+      "American Democracy",
+      "Crime Policies",
+      "QAnon Influence",
+      "Misinformation and Polarization"
+    ],
+    "key_points": [
+      "Nayib Bukele's crime policies in El Salvador raise concerns about authoritarian methods despite reducing violence.",
+      "American democracy faces threats from ideological polarization and systemic inefficiencies.",
+      "Crime and gun control measures remain contentious issues in the United States, often exploited for political gain.",
+      "QAnon showcases the dangerous influence of cult-like conspiracies compared to mainstream conspiracy theories.",
+      "Misinformation and polarization are interconnected, impacting civic engagement and democratic stability."
+    ],
+    "summary": "The articles collectively address contemporary political challenges, focusing on El Salvador's President Nayib Bukele's controversial crime crackdown, threatening authoritarian moves, and potential lessons for other countries. They also explore ongoing threats to American democracy from increased polarization and inefficiencies in governmental systems. Other topics include the persistent debate over crime and gun control policies, the distinct cult-like nature and influence of QAnon compared to other conspiracy theories, and how misinformation contributes to democratic instability and political polarization."
   },
   {
     "label": 23,
-    "name": "Improving Prediction Accuracy and Calibration",
+    "name": "Legislative Strategies and Challenges",
     "key_words": [
-      "forecasting accuracy",
-      "political predictions",
-      "prediction analysis",
-      "epistemic humility",
-      "calibration techniques"
+      "immigration policy",
+      "fiscal strategy",
+      "welfare programs",
+      "bipartisan negotiation",
+      "infrastructure plans"
     ],
     "key_points": [
-      "Accurate predictions require precise calibration of confidence levels.",
-      "Analyzing past prediction errors enhances future forecasting accuracy.",
-      "Politics and sports predictions are subject to biases and external variables.",
-      "Tracking and reviewing predictions promotes epistemic humility.",
-      "Systematic forecasting can reveal underlying assumptions and biases."
+      "Recent immigration proposals highlight ongoing challenges with comprehensive reform and border security.",
+      "Expanded welfare programs face hurdles due to political prioritization and the quest for program permanence.",
+      "Infrastructure initiatives center on long-term economic gains but encounter fiscal and political resistance.",
+      "Bipartisan and intra-party negotiations are crucial for passing significant legislation under current congressional dynamics.",
+      "Economic recovery plans emphasize targeted relief and investment in sustainable growth."
     ],
-    "summary": "These articles explore the process and challenges of making accurate predictions in various domains, emphasizing the importance of calibration and the need for epistemic humility. The authors reflect on their previous prediction biases and errors, particularly in political and economic contexts. By analyzing their forecasts retrospectively, they aim to improve their predictive abilities and reduce overconfidence. The practice of assigning probabilities to predictions and evaluating their outcomes is advocated as a method to achieve better forecasting accuracy and insight into the inherent uncertainties."
+    "summary": "These article summaries explore the complexities of current U.S. legislative initiatives, focusing on key policy areas such as immigration reform, welfare program expansions, and infrastructure investments. They highlight the difficulties posed by political divisions and fiscal constraints, stressing the need for strategic bipartisan and intra-party negotiations to achieve lasting solutions. The summaries also address the challenges of maintaining program durability and ensuring effective fiscal strategies, while prioritizing sustainable and equitable economic growth."
+  },
+  {
+    "label": 21,
+    "name": "Evolving Strategies in US-China Relations",
+    "key_words": [
+      "US-China relations",
+      "Trade policies",
+      "Geopolitical strategy",
+      "Economic integration",
+      "Bipartisan policy"
+    ],
+    "key_points": [
+      "US trade policies towards China have shifted from an integrationist to a competitive approach.",
+      "American and Chinese economic ties influence strategic industries and national security.",
+      "The role of scale in China\u2019s global manufacturing capability highlights US infrastructure challenges.",
+      "Concerns over technology transfer and influence underlie Western partnerships with China.",
+      "Media and political narratives shape public perception of US-China economic policies."
+    ],
+    "summary": "The articles examine the shifting strategies in US-China relations, stressing the evolution of trade policies from integration to competition. They highlight the importance of strategic industries, concerns over technology transfer, and the geopolitical influence of economic ties. The discussion includes the impact of manufacturing scale, national security, and the media's role in shaping perceptions. There's a call for coherent policies addressing these multifaceted issues in a complex global landscape."
+  },
+  {
+    "label": 5,
+    "name": "Energy Transition and Innovation Strategies",
+    "key_words": [
+      "Nuclear Energy",
+      "Renewable Transition",
+      "Regulatory Challenges",
+      "Climate Solutions",
+      "Energy Innovation"
+    ],
+    "key_points": [
+      "Nuclear power is key where land is limited and renewable energy faces spatial constraints.",
+      "Regulatory hurdles impede the adoption of advanced nuclear technologies and renewable projects.",
+      "Geothermal and direct air capture technologies offer promising zero-carbon solutions.",
+      "The need for energy abundance is emphasized to support technologies like desalination and vertical farming.",
+      "Jamaica and islands face unique challenges in transitioning to renewable energy due to space constraints."
+    ],
+    "summary": "The article summaries address the need for diverse energy strategies involving nuclear, renewables, and innovative technologies to transition to a zero-carbon future. The regulatory environment poses significant challenges, particularly for nuclear advancement and large-scale renewable deployment. The focus is on achieving energy abundance to facilitate technologies like vertical farming and desalination, while specific regions like Jamaica face unique spatial and economic challenges in their energy transition efforts."
+  },
+  {
+    "label": 13,
+    "name": "Biden's Energy and Climate Strategy",
+    "key_words": [
+      "Biden Administration Policies",
+      "Energy Production",
+      "Climate Change",
+      "Oil and Gas",
+      "Economic and Geopolitical Impact"
+    ],
+    "key_points": [
+      "The Biden administration seeks to balance domestic energy production with climate goals.",
+      "Natural gas and oil remain central to U.S. energy policy amidst global demand and geopolitical tensions.",
+      "Initiatives like the Inflation Reduction Act aim to reduce emissions while fostering economic growth.",
+      "The Strategic Petroleum Reserve is used strategically to manage oil price fluctuations.",
+      "Fracking and the shale revolution have significantly altered U.S. economic and geopolitical standing."
+    ],
+    "summary": "The article summaries focus on the Biden administration's energy and climate policies, emphasizing a balance between sustaining oil and gas production and advancing climate initiatives like the Inflation Reduction Act. This strategy addresses geopolitical challenges, domestic economic needs, and environmental objectives. The role of strategic reserves, domestic resource management, and international relations are pivotal in ensuring energy stability while transitioning towards cleaner energy solutions."
+  },
+  {
+    "label": 14,
+    "name": "Challenges and Opportunities in Urban Transit and Development",
+    "key_words": [
+      "urban planning",
+      "high-speed rail",
+      "infrastructure costs",
+      "transportation policy",
+      "city growth dynamics"
+    ],
+    "key_points": [
+      "Urban areas face growth limitations due to restrictive zoning and planning policies.",
+      "High-speed rail potential in the U.S. is significant, especially in the Northeast Corridor.",
+      "Infrastructure costs in U.S. cities are inflated, impacting the efficacy of transit projects.",
+      "Remote work trends are reshaping urban growth and transportation needs.",
+      "Preservation efforts must balance historical value with modern development demands."
+    ],
+    "summary": "These articles explore the multifaceted challenges and opportunities in urban development and transportation across major U.S. cities. Key themes include the high potential for high-speed rail, especially in the densely populated Northeast Corridor, alongside the inflated costs of infrastructure projects that often prioritize aesthetics over functionality. Zoning laws and planning policies are critiqued for limiting urban growth, while the rise of remote work further complicates traditional city dynamics. The integration of public transit systems and the balance between historical preservation and urban expansion are crucial for future development strategies."
+  },
+  {
+    "label": 15,
+    "name": "Complexities of the Israel-Palestine Conflict",
+    "key_words": [
+      "Israel-Palestine conflict",
+      "Zionism and antisemitism",
+      "Two-state solution",
+      "Hamas governance",
+      "International perceptions"
+    ],
+    "key_points": [
+      "The Israel-Palestine conflict remains central to international discourse despite its limited strategic significance.",
+      "Zionism, antisemitism, and their impacts on Jewish and global perceptions are debated extensively.",
+      "Many advocate for a two-state solution, though it faces significant political and practical challenges.",
+      "Hamas's governance and Israel's military actions significantly impact Gazan and international responses.",
+      "Criticism of Israel often intersects with broader geopolitical dynamics and shifts in U.S. political sympathy."
+    ],
+    "summary": "These articles explore the complexity of the Israel-Palestine conflict, analyzing themes such as the historical and current impact of Zionism and antisemitism, the ongoing debate over a two-state solution, and the effects of governance and military actions in Gaza. Additionally, there is discussion on international perceptions, including U.S. political dynamics and global attention disparities compared to other conflicts."
+  },
+  {
+    "label": 10,
+    "name": "Challenges and Innovations in Sports and Gambling",
+    "key_words": [
+      "Sports Gambling",
+      "NBA Challenges",
+      "Youth Sports",
+      "Gambling Addiction",
+      "Sports Innovations"
+    ],
+    "key_points": [
+      "Legalized sports gambling is linked to financial distress in vulnerable groups.",
+      "NBA faces declining regular season viewership despite financial successes.",
+      "Expensive youth sports create a class divide impacting community health.",
+      "Proposed rule changes could enhance sports watchability and fairness.",
+      "There is a call for regulatory measures to address gambling-related harms."
+    ],
+    "summary": "The grouped articles discuss the implications and challenges surrounding sports gambling and development. They highlight the financial harms associated with legalized gambling, especially for low-income groups, and the NBA's declining viewership amidst financial gains. Youth sports are criticized for creating accessibility issues due to their expense. Proposed innovations in sports rules aim to increase engagement and fairness. There is a consensus on the need for regulatory frameworks to mitigate gambling addiction and enhance the viewer experience in sports."
   }
 ];
