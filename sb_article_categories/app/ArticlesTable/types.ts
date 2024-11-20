@@ -10,6 +10,7 @@ export interface Article {
     comment_count: number
     likes: number
     category: string
+    summary: string
 }
 
 export interface AugmentedArticle extends Omit<Article, 'date'> {
