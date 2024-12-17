@@ -6,7 +6,7 @@ export const columns: GridColDef<AugmentedArticle>[] = [
     {
         field: 'category',
         headerName: 'Category',
-        width: 450
+        width: 350
     },
     {
         field: 'title',
@@ -27,13 +27,13 @@ export const columns: GridColDef<AugmentedArticle>[] = [
     {
         field: 'likes',
         headerName: 'Likes',
-        width: 70,
+        width: 100,
         type: 'number'
     },
     {
         field: 'comment_count',
         headerName: 'Comments',
-        width: 90,
+        width: 110,
         type: 'number'
     },
     {
