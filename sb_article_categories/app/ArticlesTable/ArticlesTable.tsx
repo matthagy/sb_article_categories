@@ -1,35 +1,19 @@
 import React, {useMemo, useState} from 'react';
 import {DataGrid} from "@mui/x-data-grid";
-import {useQuery} from '@tanstack/react-query';
+import {articles, categories} from "./articles";
 import {columns} from "./constants";
-import {Box, CircularProgress, IconButton, Modal, Tab, Tabs, Typography} from '@mui/material';
+import {Box, Tab, Tabs, Typography, IconButton, Modal} from '@mui/material';
 import SummarizeIcon from '@mui/icons-material/Summarize';
 import type {GridColDef} from "@mui/x-data-grid/models/colDef/gridColDef";
-import {Article, AugmentedArticle, Category} from "@/app/ArticlesTable/types";
+import {Article, AugmentedArticle} from "@/app/ArticlesTable/types";
 import {CategoryCountTable} from "@/app/ArticlesTable/CategoryCountTable";
 import About from "@/app/ArticlesTable/About";
 import ReactMarkdown from 'react-markdown';
-
-interface ArticlesJson {
-    articles: Article[],
-    categories: Category[]
-}
-
-const fetchArticles = async () => {
-    const response = await fetch('/articles.json');
-    if (!response.ok) throw new Error('Network response was not ok');
-    const json = await response.json();
-    return json as ArticlesJson;
-};
 
 export const ArticlesTable: React.FC = () => {
     const [selectedTab, setSelectedTab] = useState(0);
     const [currentSummary, setCurrentSummary] = useState<AugmentedArticle | null>(null);
 
-    const {data, isLoading, isError} = useQuery({
-        queryKey: ['articles'],
-        queryFn: fetchArticles
-    });
     const handleTabChange = (event: React.SyntheticEvent, newValue: number) => {
         setSelectedTab(newValue);
     };
@@ -39,11 +23,11 @@ export const ArticlesTable: React.FC = () => {
     };
 
     const augmentedColumns = useMemo(() => columns.map((col) => augmentColumn(col, setCurrentSummary)), []);
-    const augmentedArticles = useMemo(() => (data?.articles || []).map(augmentArticle), [data?.articles]);
-    const categoriesCount = useMemo(() => (data?.categories || []).map((category) => ({
+    const augmentedArticles = useMemo(() => articles.map(augmentArticle), []);
+    const categoriesCount = useMemo(() => categories.map((category) => ({
         ...category,
         articles: augmentedArticles.reduce((count, article) => count + (article.category === category.name ? 1 : 0), 0)
-    })), [augmentedArticles, data?.categories]);
+    })), [augmentedArticles]);
 
     return (
         <Box sx={{margin: '1em'}} id={'top'}>
@@ -61,21 +45,13 @@ export const ArticlesTable: React.FC = () => {
                 <Tab label="Categories" value={1}/>
                 <Tab label="About" value={2}/>
             </Tabs>
-            {isError &&
-                <Typography variant="body1" color="error">
-                    Error loading articles. Please try again later.
-                </Typography>}
             {selectedTab === 0 && (
                 <DataGrid
-                    loading={isLoading}
                     columns={augmentedColumns}
                     rows={augmentedArticles}
                     pageSizeOptions={[10, 25, 50, 100]}
-                    slots={{
-                        loadingOverlay: () => <CircularProgress size={60}/>,
-                    }}
                     initialState={{
-                        pagination: {paginationModel: {pageSize: 25}},
+                        pagination: {paginationModel: {pageSize: 10}},
                         columns: {
                             columnVisibilityModel: {
                                 title: true,
