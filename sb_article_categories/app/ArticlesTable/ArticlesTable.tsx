@@ -22,6 +22,20 @@ const fetchArticles = async () => {
     return json as ArticlesJson;
 };
 
+export const createSummary = (title: string, summary: string) => {
+    const md = `# ${title}\n\n${summary}`;
+    return (
+        <ReactMarkdown
+            components={{
+                h1: ({...props }) => (
+                    <h1 style={{ color: "orange"}} {...props} />
+                ),
+            }}
+        >
+            {md}
+        </ReactMarkdown>
+    );
+};
 export const ArticlesTable: React.FC = () => {
     const [selectedTab, setSelectedTab] = useState(0);
     const [currentSummary, setCurrentSummary] = useState<AugmentedArticle | null>(null);
@@ -120,14 +134,8 @@ export const ArticlesTable: React.FC = () => {
                     boxShadow: 24,
                     p: 2
                 }}>
-                    {currentSummary && (
-                        <>
-                            <Typography id="article-summary-title" variant="h6" component="h2">
-                                Summary of &quot;{currentSummary.title}&quot;
-                            </Typography>
-                            <ReactMarkdown>{currentSummary.summary}</ReactMarkdown>
-                        </>
-                    )}
+                    {currentSummary && currentSummary.title &&
+                        currentSummary.summary && createSummary(currentSummary.title, currentSummary.summary)}
                 </Box>
             </Modal>
         </Box>
